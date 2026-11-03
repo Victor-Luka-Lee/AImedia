@@ -1,0 +1,304 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="theme-color" content="#16705b">
+  <meta name="description" content="나만의 로또 6/45 번호 추천. 고정 번호와 제외 번호를 설정하고 마음에 드는 조합을 보관하세요.">
+  <title>LUCKY SIX — 여섯 숫자, 작은 설렘</title>
+  <style>
+    :root{--bg:#f7f8f5;--paper:#fff;--ink:#202d2a;--sub:#7b8580;--line:#e8ece7;--green:#16705b;--deep:#124d40;--mint:#edf5ef;--orange:#e39a37;--radius:20px;--shadow:0 6px 30px #263e2c04}
+    *{box-sizing:border-box}body{margin:0;background:var(--bg);color:var(--ink);font-family:Inter,"Pretendard","Noto Sans KR",-apple-system,BlinkMacSystemFont,"Segoe UI","Malgun Gothic",sans-serif;font-size:14px;letter-spacing:-.035em;line-height:1.6}button,select{font:inherit}button{cursor:pointer}button,a{-webkit-tap-highlight-color:transparent}button{color:inherit}button:disabled{cursor:wait;opacity:.6}button:focus-visible,a:focus-visible,summary:focus-visible{outline:3px solid #deae53;outline-offset:4px}button{border:0}svg{width:20px;height:20px;vertical-align:middle;flex-shrink:0}a{color:inherit;text-decoration:none}.shell{width:min(1180px,calc(100% - 64px));margin:auto}.site-header{height:91px;border-bottom:1px solid var(--line);background:#ffffffb8}.header-inner{height:100%;display:flex;align-items:center;justify-content:space-between}.brand{display:flex;align-items:center;gap:11px;letter-spacing:-.06em;font-size:22px;font-weight:850}.brand-mark{width:37px;height:37px;border-radius:12px;background:var(--green);display:grid;place-items:center;color:#fff;transform:rotate(-7deg)}.brand-mark svg{width:25px;height:25px;transform:rotate(7deg)}.brand small{margin-left:8px;border-left:1px solid #d9dfd8;padding-left:18px;color:#8b958c;font-size:10px;letter-spacing:.16em;font-weight:600}.header-actions{display:flex;align-items:center;gap:25px}.header-action{display:flex;align-items:center;gap:7px;background:none;padding:7px 0;font-size:12px;color:#68766d}.header-action:hover{color:var(--green)}.counter{font-size:10px;font-weight:800;min-width:19px;padding:1px 5px;background:var(--mint);border-radius:6px;color:var(--green)}.hero{display:grid;grid-template-columns:1fr 1fr;align-items:center;min-height:278px;padding-top:17px;padding-bottom:19px}.eyebrow{font-size:10px;font-weight:800;letter-spacing:.17em;color:var(--green);display:flex;align-items:center;gap:8px;margin:0 0 14px}.eyebrow:before{content:"";width:19px;height:2px;background:var(--green)}h1{font-size:43px;line-height:1.34;letter-spacing:-.07em;margin:0 0 15px;font-weight:760}h1 span{color:var(--green)}.hero-copy>p:last-child{font-size:13px;color:#869087;margin:0}.hero-art{height:240px;position:relative;overflow:hidden;display:flex;align-items:center;justify-content:center;isolation:isolate}.orbit{position:absolute;border:1px solid #dce6d9;border-radius:50%;width:328px;height:186px;transform:rotate(-20deg);z-index:-1}.orbit.two{width:390px;height:125px;transform:rotate(22deg);border-style:dashed;border-color:#e2e8df}.art-ball{display:grid;place-items:center;position:absolute;border-radius:50%;font-weight:750;letter-spacing:-.08em;box-shadow:inset -9px -12px 17px #0000000d,inset 5px 6px 12px #ffffff8a,0 17px 20px -14px #46695055}.art-ball:after{content:"";position:absolute;inset:13%;border-radius:50%;border:1px solid #ffffff44}.art-one{width:99px;height:99px;background:linear-gradient(140deg,#ffdc7b,#f4bb46);font-size:39px;left:calc(50% - 146px);top:92px;transform:rotate(-14deg);color:#755d23}.art-two{width:126px;height:126px;background:linear-gradient(140deg,#e0eee0,#a5c9ac);font-size:50px;left:calc(50% - 49px);top:38px;transform:rotate(9deg);color:#376747}.art-three{width:86px;height:86px;background:linear-gradient(140deg,#f5f5ed,#d9dfd3);font-size:33px;left:calc(50% + 75px);top:117px;transform:rotate(18deg);color:#71806a}.art-star{position:absolute;color:#ccab61;font-size:29px;left:calc(50% + 121px);top:34px}.art-dot{position:absolute;width:7px;height:7px;background:#b7c6ab;border-radius:50%;left:calc(50% - 153px);top:58px}.art-caption{position:absolute;bottom:3px;left:0;right:0;text-align:center;font-size:8px;letter-spacing:.25em;color:#9da796}.workspace{display:grid;grid-template-columns:minmax(0,1fr) 326px;gap:23px;align-items:start}.card{background:var(--paper);border:1px solid var(--line);border-radius:var(--radius);box-shadow:var(--shadow)}.generator-head{padding:28px 29px 23px;border-bottom:1px solid var(--line)}.section-heading{display:flex;align-items:center;gap:9px}.section-heading svg{color:var(--green)}h2{font-size:18px;letter-spacing:-.05em;margin:0;font-weight:750}.small-label{margin:6px 0 22px;color:var(--sub);font-size:12px}.option-row{display:flex;align-items:center;justify-content:space-between;gap:18px}.mode-switch{display:flex;padding:4px;gap:3px;border-radius:10px;background:#f3f5f2}.mode-switch button{padding:8px 15px;border-radius:7px;font-size:12px;white-space:nowrap;color:var(--sub);background:transparent;font-weight:600}.mode-switch button.active{color:var(--green);background:#fff;box-shadow:0 1px 5px #233e2510}.count-field{display:flex;align-items:center;gap:10px;font-size:11px;color:#849085;white-space:nowrap}.count-field select{font-size:12px;color:var(--ink);border:1px solid #dfe5dd;background:#fff;padding:8px 27px 8px 12px;border-radius:8px;cursor:pointer}.mode-description{font-size:11px;color:#9aa297;min-height:18px;margin:11px 0 19px}.generate-btn{display:flex;align-items:center;justify-content:center;gap:10px;width:100%;padding:14px 20px;border-radius:11px;background:var(--green);color:white;font-size:14px;font-weight:650;box-shadow:0 5px 11px #16705b15;transition:background .2s,transform .2s}.generate-btn:hover{background:var(--deep);transform:translateY(-1px)}.generate-btn svg{width:18px;height:18px}.generate-btn .key-label{font-size:9px;letter-spacing:.08em;color:#ffffff6e;margin-left:auto}.generate-btn .btn-spacer{width:35px;margin-right:auto}.inline-error{margin:12px 0 0;border-radius:8px;padding:10px 12px;background:#fff3ef;color:#ac5139;font-size:12px}.inline-error[hidden]{display:none}.results-section{padding:0 29px 24px}.tabs{display:flex;align-items:center;gap:24px;border-bottom:1px solid var(--line);margin-bottom:19px}.tab{background:none;border-bottom:2px solid transparent;margin-bottom:-1px;padding:19px 0 14px;font-size:12px;font-weight:600;color:#8d968d;white-space:nowrap}.tab.active{color:var(--green);border-color:var(--green)}.tab .tab-count{margin-left:4px;font-size:10px;font-weight:600;color:#a0aa9c}.tab.active .tab-count{color:var(--green)}.result-meta{display:flex;align-items:center;justify-content:space-between;font-size:10px;color:#929b92;margin-bottom:12px}.live-dot{display:inline-block;width:5px;height:5px;background:#6aaa79;border-radius:50%;margin-right:6px;vertical-align:middle}.text-button{background:none;color:#7d897e;font-size:11px;display:inline-flex;align-items:center;gap:5px;padding:4px 0}.text-button:hover{color:var(--green)}.text-button svg{width:13px;height:13px}.result-list{display:grid;gap:10px}.result-row{display:flex;align-items:center;gap:15px;border:1px solid #e9ece7;border-radius:12px;padding:16px 15px;min-width:0;background:#fff;transition:background .2s,border-color .2s;animation:arrive .35s both}.result-row:nth-child(2){animation-delay:40ms}.result-row:nth-child(3){animation-delay:80ms}.result-row:nth-child(4){animation-delay:120ms}.result-row:nth-child(5){animation-delay:160ms}.result-row:hover{background:#fcfdfa;border-color:#d8e3d7}.row-letter{font-size:11px;font-weight:700;color:#a1aa9b;width:12px;flex-shrink:0}.number-balls{display:flex;gap:9px;align-items:center}.ball{width:39px;height:39px;display:inline-flex;justify-content:center;align-items:center;border-radius:50%;font-size:15px;font-weight:750;letter-spacing:-.05em;box-shadow:inset 0 -2px 0 #00000007;flex-shrink:0;font-variant-numeric:tabular-nums}.ball-yellow{background:#fbefce;color:#9d7423}.ball-blue{background:#deedf6;color:#387797}.ball-red{background:#f9e1de;color:#b25e57}.ball-gray{background:#e9eae9;color:#788079}.ball-green{background:#dfefdf;color:#5b8a5b}.row-info{margin-left:auto;font-size:9px;line-height:1.9;color:#a0a69d;white-space:nowrap;font-variant-numeric:tabular-nums}.row-info strong{color:#7e897d;font-weight:500;margin-left:3px}.row-actions{display:flex;align-items:center;gap:4px}.icon-button{display:grid;place-items:center;width:28px;height:30px;background:transparent;color:#b3bcaf;border-radius:7px;padding:0}.icon-button:hover{background:#edf3e9;color:var(--green)}.icon-button svg{width:16px;height:16px}.icon-button.is-saved{color:var(--green);background:var(--mint)}.icon-button.is-saved svg{fill:#16705b18}.result-footnote{text-align:center;color:#9fa79c;font-size:10px;margin:20px 0 0;display:flex;gap:5px;justify-content:center;align-items:center}.result-footnote svg{width:12px;height:12px}.sidebar{display:grid;gap:17px}.preferences{padding:24px 22px}.sidebar h2{font-size:15px}.sidebar .small-label{font-size:11px;margin:7px 0 19px}.preference-switch{display:flex;border-bottom:1px solid var(--line);margin-bottom:16px;gap:20px}.preference-switch button{font-size:11px;flex:1;white-space:nowrap;padding:0 0 11px;background:none;color:#969d92;border-bottom:2px solid transparent;margin-bottom:-1px;font-weight:600}.preference-switch button.active{color:var(--green);border-color:var(--green)}.preference-switch button[data-select-mode="exclude"].active{color:#bd725c;border-color:#bd725c}.number-grid{display:grid;grid-template-columns:repeat(7,1fr);gap:6px}.number-choice{aspect-ratio:1;background:#f6f7f3;border:1px solid transparent;border-radius:8px;display:grid;place-items:center;font-size:11px;font-weight:550;color:#7e8779;padding:0;transition:background .15s,transform .15s}.number-choice:hover{background:#e8eee3;transform:translateY(-1px)}.number-choice.fixed{background:var(--green);color:white}.number-choice.excluded{color:#c38c7b;background:#fcf0eb;text-decoration:line-through;border-color:#f1dfd6}.number-choice:focus-visible{outline-offset:1px}.grid-legend{display:flex;gap:13px;font-size:9px;color:#9ba293;margin:12px 0 18px}.grid-legend i{width:6px;height:6px;border-radius:2px;display:inline-block;margin-right:4px;background:var(--green)}.grid-legend i.exclude{background:#e9baa7}.selection-summary{padding-top:15px;border-top:1px solid var(--line);display:grid;gap:9px}.selection-line{display:flex;align-items:flex-start;gap:8px;font-size:10px}.selection-line>span{color:#8b9586;min-width:47px;padding-top:2px}.selection-values{display:flex;gap:4px;flex-wrap:wrap;align-items:center;min-height:22px}.selection-values em{font-style:normal;color:#bcc2b5;font-size:10px;padding-top:2px}.selection-chip{font-size:10px;background:var(--mint);color:var(--green);border-radius:4px;padding:2px 5px;line-height:1.7}.selection-chip.excluded{background:#fcf0eb;color:#ba806b}.selection-chip span{opacity:.5;padding-left:3px}.reset-button{font-size:10px;color:#9ba491;background:none;margin:14px 0 0;padding:0;display:flex;align-items:center;gap:4px}.reset-button:hover{color:var(--green)}.reset-button svg{width:11px;height:11px}.note-card{padding:21px 22px;background:#edf2e8;border:1px solid #e6ecdf;border-radius:16px}.note-kicker{font-size:9px;font-weight:750;color:#8b9a79;letter-spacing:.14em;margin:0 0 8px;display:flex;align-items:center;gap:6px}.note-kicker svg{width:13px;height:13px}.note-card h3{font-size:13px;color:#526647;margin:0 0 6px;font-weight:650}.note-card>p:last-child{font-size:10px;line-height:1.9;color:#8c9a7f;margin:0}.bottom-strip{margin:25px 0 0;padding:19px 0;display:grid;grid-template-columns:repeat(3,1fr);gap:20px;border-bottom:1px solid var(--line)}.benefit{display:flex;align-items:center;gap:11px;justify-content:center}.benefit-icon{width:32px;height:32px;border-radius:10px;background:#eef2eb;display:grid;place-items:center;color:#7e9273}.benefit-icon svg{width:16px;height:16px}.benefit strong{display:block;font-size:10px;color:#727f69;font-weight:600}.benefit p{margin:1px 0 0;font-size:9px;color:#a1a998}.site-footer{padding:22px 0 30px;display:flex;justify-content:space-between;gap:15px;font-size:9px;color:#aab0a3;letter-spacing:0}.site-footer b{font-weight:700;letter-spacing:.12em;color:#8b9981}.site-footer p{margin:0}.empty-state{text-align:center;padding:49px 12px 60px;color:var(--sub)}.empty-state>svg{width:29px;height:29px;color:#9caf8e;margin-bottom:12px}.empty-state h3{font-size:14px;color:#66785c;margin:0 0 6px}.empty-state p{font-size:11px;margin:0}.history-item{border:1px solid var(--line);border-radius:11px;margin-bottom:10px;overflow:hidden}.history-item summary{display:flex;align-items:center;gap:8px;padding:14px 15px;cursor:pointer;font-size:11px;color:#6e7c65;list-style:none}.history-item summary::-webkit-details-marker{display:none}.history-item summary:after{content:"+";margin-left:auto;color:#8b9d7e}.history-item[open] summary:after{content:"−"}.history-item summary span{font-size:10px;color:#a0aa97}.history-games{padding:0 9px 9px;display:grid;gap:6px}.history-games .result-row{border-color:#eff1ec;padding:12px 9px;gap:12px;animation:none}.history-games .ball{width:34px;height:34px;font-size:13px}.history-games .number-balls{gap:7px}.history-games .row-info{display:none}.history-games .row-actions{margin-left:auto}.toast{position:fixed;bottom:28px;left:50%;transform:translate(-50%,15px);background:#203a30;color:white;border-radius:12px;padding:13px 21px;font-size:12px;box-shadow:0 7px 30px #18312526;opacity:0;pointer-events:none;transition:opacity .2s,transform .2s;z-index:20;max-width:calc(100% - 32px);text-align:center;width:max-content}.toast.visible{opacity:1;transform:translate(-50%,0)}dialog{border:1px solid var(--line);border-radius:20px;padding:30px;max-width:460px;width:calc(100% - 40px);color:var(--ink);box-shadow:0 30px 100px #18312522}dialog::backdrop{background:#172b2560;backdrop-filter:blur(3px)}.dialog-heading{display:flex;align-items:center;justify-content:space-between;gap:10px;margin-bottom:22px}.dialog-heading h2{font-size:20px}dialog h3{font-size:13px;margin:18px 0 5px;color:var(--green)}dialog p{font-size:12px;color:#87907f;line-height:1.9;margin:0}dialog .dialog-close{margin-top:25px;width:100%;padding:12px;background:var(--green);color:white;border-radius:9px}.help-probability{margin-top:19px;background:var(--mint);padding:14px;border-radius:10px;font-size:12px;color:var(--green);text-align:center}.help-probability strong{font-size:18px;display:block;letter-spacing:.02em}.sr-only{position:absolute;width:1px;height:1px;padding:0;margin:-1px;overflow:hidden;clip:rect(0,0,0,0);white-space:nowrap;border:0}@keyframes arrive{from{opacity:0;transform:translateY(7px)}to{opacity:1;transform:translateY(0)}}
+    @media(min-width:1400px){.shell{width:1180px}.hero{min-height:292px}.hero-art{margin-right:45px}.workspace{grid-template-columns:minmax(0,1fr) 342px;gap:26px}.generator-head{padding:28px 32px 23px}.results-section{padding:0 32px 26px}.result-row{padding:17px 18px;gap:18px}.number-balls{gap:11px}.ball{width:42px;height:42px;font-size:16px}.preferences{padding:25px 25px}.number-grid{gap:7px}}
+    @media(max-width:1080px){.shell{width:calc(100% - 48px)}.workspace{grid-template-columns:minmax(0,1fr) 290px;gap:18px}.generator-head{padding:23px 21px 21px}.results-section{padding:0 21px 22px}.result-row{gap:10px;padding:15px 11px}.number-balls{gap:6px}.ball{width:34px;height:34px;font-size:14px}.row-info{display:none}.row-actions{margin-left:auto}.preferences{padding:23px 18px}.option-row{gap:10px}.mode-switch button{padding:8px 10px}.count-field{gap:6px}.hero{min-height:265px}h1{font-size:39px}}
+    @media(max-width:800px){.shell{width:calc(100% - 40px);max-width:620px}.site-header{height:77px}.brand{font-size:20px}.brand small{display:none}.header-actions{gap:18px}.header-action{font-size:11px}.header-action svg{width:17px;height:17px}.hero{min-height:250px;grid-template-columns:1.1fr .9fr;padding:26px 0}.hero-art{height:200px;margin-right:-10px}.orbit{width:220px;height:140px}.orbit.two{width:255px;height:105px}.art-one{width:70px;height:70px;font-size:28px;left:calc(50% - 89px);top:89px}.art-two{width:88px;height:88px;font-size:36px;left:calc(50% - 28px);top:36px}.art-three{width:61px;height:61px;font-size:24px;left:calc(50% + 40px);top:117px}.art-star{left:calc(50% + 68px);top:28px;font-size:24px}.art-dot{left:calc(50% - 82px);top:38px}.art-caption{font-size:6px;letter-spacing:.12em;bottom:0}h1{font-size:32px;line-height:1.4}.eyebrow{font-size:8px;letter-spacing:.1em}.hero-copy>p:last-child{font-size:10px;max-width:190px;word-break:keep-all}.workspace{display:flex;flex-direction:column;gap:18px}.generator{width:100%}.sidebar{width:100%;grid-template-columns:1fr}.preferences{padding:24px}.number-grid{grid-template-columns:repeat(9,1fr);gap:8px}.number-choice{font-size:12px}.sidebar h2{font-size:16px}.sidebar .small-label{margin-bottom:19px}.selection-line{font-size:11px}.preference-switch{max-width:280px}.grid-legend{font-size:10px}.note-card{padding:20px 24px}.note-card h3{font-size:14px}.note-card>p:last-child{font-size:11px}.result-row{padding:17px 16px;gap:15px}.number-balls{gap:10px}.ball{width:42px;height:42px;font-size:16px}.row-info{display:block}.row-actions{margin-left:0}.bottom-strip{gap:12px}.benefit{gap:7px}.benefit strong{font-size:9px}.benefit p{font-size:8px}.benefit-icon{width:27px;height:27px}.site-footer{flex-wrap:wrap;gap:5px}.site-footer p:last-child{width:100%}.note-kicker{font-size:9px}}
+    @media(max-width:500px){.shell{width:calc(100% - 32px)}.header-actions{gap:14px}.header-action .help-label{display:none}.brand{font-size:18px;gap:8px}.brand-mark{width:31px;height:31px;border-radius:10px}.brand-mark svg{width:21px;height:21px}.hero{min-height:228px;padding:18px 0;grid-template-columns:1.2fr .8fr}.hero-art{height:185px;margin-left:-25px;margin-right:-8px}h1{font-size:28px}.eyebrow{font-size:7px;gap:5px;margin-bottom:12px}.eyebrow:before{width:12px}.hero-copy>p:last-child{font-size:10px;max-width:172px}.art-one{width:57px;height:57px;font-size:24px;left:calc(50% - 65px);top:84px}.art-two{width:73px;height:73px;font-size:30px;left:calc(50% - 17px);top:33px}.art-three{width:51px;height:51px;font-size:20px;left:calc(50% + 34px);top:108px}.orbit{width:166px;height:121px}.orbit.two{width:175px;height:85px}.art-star{left:calc(50% + 62px);top:18px;font-size:20px}.art-dot{left:calc(50% - 55px);top:34px;width:5px;height:5px}.art-caption{font-size:5px;letter-spacing:.05em;bottom:5px}.generator-head{padding:23px 18px 20px}h2{font-size:16px}.small-label{font-size:11px;margin-bottom:18px}.option-row{gap:8px}.mode-switch{gap:0;padding:3px}.mode-switch button{font-size:10px;padding:8px 10px}.count-field{font-size:10px;gap:5px}.count-field select{font-size:11px;padding:8px 19px 8px 8px;max-width:83px}.mode-description{font-size:10px;margin:10px 0 16px;word-break:keep-all}.generate-btn{padding:13px 15px;font-size:13px}.generate-btn .key-label,.generate-btn .btn-spacer{display:none}.results-section{padding:0 13px 22px}.tabs{margin:0 5px 17px;gap:23px}.tab{font-size:11px;padding:18px 0 13px}.result-meta{margin:0 5px 12px;font-size:9px}.result-row{padding:14px 10px;gap:9px;border-radius:10px}.row-letter{font-size:9px;width:9px}.number-balls{gap:6px}.ball{width:34px;height:34px;font-size:14px}.row-info{display:none}.row-actions{gap:1px;margin-left:auto}.icon-button{width:24px;height:28px}.icon-button svg{width:14px;height:14px}.result-footnote{font-size:9px;margin-top:18px}.preferences{padding:22px 21px}.number-grid{gap:7px}.number-choice{border-radius:7px;font-size:11px}.bottom-strip{grid-template-columns:1fr;gap:17px;padding:22px 0}.benefit{justify-content:flex-start;padding-left:12px;gap:11px}.benefit strong{font-size:11px}.benefit p{font-size:10px}.benefit-icon{width:33px;height:33px}.site-footer{font-size:8px}.history-games .result-row{gap:6px;padding:12px 6px}.history-games .ball{width:30px;height:30px;font-size:12px}.history-games .number-balls{gap:5px}.history-games .icon-button{width:23px}.history-item summary{padding:13px 12px;font-size:10px}.history-item summary span{font-size:9px}}
+    @media(max-width:359px){.count-field>span{display:none}.ball{width:30px;height:30px;font-size:12px}.number-balls{gap:5px}.result-row{gap:7px;padding:12px 8px}.icon-button{width:22px}.tabs{gap:20px}.hero-art{opacity:.8}.hero-copy{z-index:1}.header-action{font-size:10px}.number-grid{gap:5px}.history-games .ball{width:26px;height:26px}.history-games .number-balls{gap:4px}}
+    @media(prefers-reduced-motion:reduce){*,*:before,*:after{animation:none!important;transition:none!important;scroll-behavior:auto!important}}
+  </style>
+</head>
+<body>
+  <a class="sr-only" href="#generator">번호 추천으로 바로 가기</a>
+  <header class="site-header">
+    <div class="shell header-inner">
+      <a class="brand" href="./lotto.html" aria-label="럭키 식스 홈"><span class="brand-mark" aria-hidden="true"><svg viewBox="0 0 24 24" fill="none"><path d="M12 12C2 13 2 3 7 3c4 0 5 5 5 9Zm0 0C11 2 21 2 21 7c0 4-5 5-9 5Zm0 0c10-1 10 9 5 9-4 0-5-5-5-9Zm0 0c1 10-9 10-9 5 0-4 5-5 9-5Z" fill="currentColor"/></svg></span>LUCKY SIX <small>LOTTO 6/45</small></a>
+      <nav class="header-actions" aria-label="보조 메뉴"><button class="header-action" id="open-saved"><span data-icon="bookmark"></span>내 보관함 <span class="counter" id="header-saved-count">0</span></button><button class="header-action" id="open-help" aria-haspopup="dialog"><span data-icon="help"></span><span class="help-label">사용 안내</span></button></nav>
+    </div>
+  </header>
+  <main class="shell">
+    <section class="hero" aria-labelledby="hero-title">
+      <div class="hero-copy"><p class="eyebrow">SIX NUMBERS. A LITTLE POSSIBILITY.</p><h1 id="hero-title">여섯 숫자,<br><span>기분 좋은 설렘.</span></h1><p>당신의 작은 기대에 어울리는 번호를 만나보세요.</p></div>
+      <div class="hero-art" aria-hidden="true"><div class="orbit"></div><div class="orbit two"></div><span class="art-dot"></span><span class="art-star">✦</span><div class="art-ball art-one">07</div><div class="art-ball art-two">26</div><div class="art-ball art-three">41</div><span class="art-caption">A LITTLE LUCK, JUST FOR YOU</span></div>
+    </section>
+    <div class="workspace">
+      <section class="card generator" id="generator" aria-labelledby="generator-title">
+        <div class="generator-head"><div class="section-heading"><span data-icon="shuffle"></span><h2 id="generator-title">나만의 행운 조합</h2></div><p class="small-label">가볍게 눌러보세요. 새로운 여섯 숫자가 기다리고 있어요.</p>
+          <div class="option-row"><div class="mode-switch" role="group" aria-label="추천 방식"><button class="active" data-mode="random" aria-pressed="true">완전 무작위</button><button data-mode="balanced" aria-pressed="false">균형 조합</button></div><label class="count-field" for="game-count"><span>추천 수</span><select id="game-count"><option value="1">1게임</option><option value="3">3게임</option><option value="5" selected>5게임</option><option value="10">10게임</option></select></label></div>
+          <p class="mode-description" id="mode-description">선택한 조건 안에서 모든 조합을 같은 확률로 추천해요.</p>
+          <button class="generate-btn" id="generate"><span class="btn-spacer"></span><span data-icon="sparkles"></span><span id="generate-label">행운의 번호 추천받기</span><span class="key-label" aria-hidden="true">LET’S GO</span></button><p class="inline-error" id="generation-error" role="alert" hidden></p>
+        </div>
+        <div class="results-section"><div class="tabs" role="tablist" aria-label="추천 번호와 기록"><button class="tab active" id="tab-current" role="tab" aria-selected="true" aria-controls="panel-current" tabindex="0" data-view="current">추천 번호 <span class="tab-count" id="current-count">5</span></button><button class="tab" id="tab-history" role="tab" aria-selected="false" aria-controls="panel-history" tabindex="-1" data-view="history">추천 기록 <span class="tab-count" id="history-count">0</span></button><button class="tab" id="tab-saved" role="tab" aria-selected="false" aria-controls="panel-saved" tabindex="-1" data-view="saved">보관함 <span class="tab-count" id="saved-count">0</span></button></div>
+          <div id="panel-current" role="tabpanel" aria-labelledby="tab-current"><div class="result-meta"><span id="result-time"><span class="live-dot"></span>방금 추천한 번호</span><button class="text-button" id="copy-all"><span data-icon="copy"></span>전체 복사</button></div><div class="result-list" id="current-list"></div><p class="result-footnote"><span data-icon="lock"></span>마음에 드는 번호는 책갈피를 눌러 보관하세요.</p></div>
+          <div id="panel-history" role="tabpanel" aria-labelledby="tab-history" hidden><div class="result-meta"><span>이 브라우저에 최근 20회까지 보관해요.</span><span id="history-total"></span></div><div id="history-list"></div></div>
+          <div id="panel-saved" role="tabpanel" aria-labelledby="tab-saved" hidden><div class="result-meta"><span>다시 만나고 싶은 나의 번호</span><button class="text-button" id="copy-saved"><span data-icon="copy"></span>전체 복사</button></div><div class="result-list" id="saved-list"></div></div>
+        </div>
+      </section>
+      <aside class="sidebar" aria-label="번호 선택 설정과 안내">
+        <section class="card preferences" aria-labelledby="preferences-title"><div class="section-heading"><h2 id="preferences-title">취향을 더해보세요</h2><span data-icon="sliders" style="margin-left:auto;color:#a7b19e"></span></div><p class="small-label">좋아하는 숫자는 넣고, 원치 않는 숫자는 빼고.</p><div class="preference-switch" role="group" aria-label="번호 선택 용도"><button class="active" data-select-mode="fixed" aria-pressed="true">고정할 번호 <span id="fixed-count">0</span>/6</button><button data-select-mode="exclude" aria-pressed="false">제외할 번호 <span id="exclude-count">0</span>/39</button></div><div class="number-grid" id="number-grid" role="group" aria-label="고정할 번호 선택"></div><div class="grid-legend"><span><i></i>고정 번호</span><span><i class="exclude"></i>제외 번호</span><span>한 번 더 누르면 해제</span></div><div class="selection-summary"><div class="selection-line"><span>고정 번호</span><div class="selection-values" id="fixed-values"></div></div><div class="selection-line"><span>제외 번호</span><div class="selection-values" id="excluded-values"></div></div></div><button class="reset-button" id="reset-options"><span data-icon="reset"></span>선택 초기화</button></section>
+        <section class="note-card"><p class="note-kicker"><span data-icon="lightbulb"></span>A FRIENDLY REMINDER</p><h3>행운에는 정답이 없으니까.</h3><p>모든 번호 조합의 당첨 확률은 같아요.<br>추천은 가벼운 재미로, 기대는 기분 좋을 만큼만.</p></section>
+      </aside>
+    </div>
+    <div class="bottom-strip"><div class="benefit"><span class="benefit-icon" data-icon="shuffle"></span><div><strong>중복 없이, 깔끔하게</strong><p>1부터 45까지, 서로 다른 여섯 숫자</p></div></div><div class="benefit"><span class="benefit-icon" data-icon="bookmark"></span><div><strong>마음에 드는 번호는 간직하기</strong><p>다시 열어도 이 브라우저에 그대로</p></div></div><div class="benefit"><span class="benefit-icon" data-icon="shield"></span><div><strong>가입 없이 편하게</strong><p>개인정보 입력 없이 바로 시작</p></div></div></div>
+    <footer class="site-footer"><p><b>LUCKY SIX</b> &nbsp; 여섯 숫자에 담은 작은 설렘.</p><p>로또 6/45 번호 추천 도구 · 당첨을 예측하거나 보장하지 않습니다.</p></footer>
+  </main>
+  <dialog id="help-dialog" aria-labelledby="help-title"><div class="dialog-heading"><h2 id="help-title">작은 행운을 고르는 방법</h2><button class="icon-button" id="close-help" aria-label="사용 안내 닫기"><span data-icon="close"></span></button></div><h3>01. 원하는 방식으로 추천받기</h3><p>완전 무작위는 선택한 고정·제외 조건에 맞는 조합을 무작위로 골라요. 균형 조합은 여기에 홀수와 짝수, 낮은 수(1~22)와 높은 수(23~45)가 각각 2~4개씩 포함되는 조건을 더해요.</p><h3>02. 나만의 조건 더하기</h3><p>고정할 번호 또는 제외할 번호를 선택한 뒤 숫자를 눌러주세요. 다른 용도로 지정된 숫자를 누르면 용도가 바뀌어요. 설정은 다음 추천부터 반영돼요. 같은 회차의 추천에는 동일한 조합이 중복되지 않아요.</p><h3>03. 마음에 드는 조합 보관하기</h3><p>번호 옆 책갈피로 최대 100개 조합을 보관할 수 있어요. 추천 기록과 보관함은 현재 브라우저에만 저장되며, 브라우저 데이터를 지우면 함께 사라져요. 비공개 모드나 저장이 차단된 환경에서는 보관되지 않을 수 있어요.</p><div class="help-probability">한 조합의 6개 번호가 모두 일치할 확률<strong>1 / 8,145,060</strong></div><p style="margin-top:12px;text-align:center;font-size:10px">균형 조건이나 과거 기록은 당첨 확률을 높여주지 않아요.</p><button class="dialog-close" id="help-done">좋아요, 시작할게요</button></dialog>
+  <div class="toast" id="toast" role="status" aria-live="polite" aria-atomic="true"></div>
+  <div class="sr-only" id="generation-announcement" aria-live="polite" aria-atomic="true"></div>
+  <script>
+    'use strict';
+    const $ = (selector) => document.querySelector(selector);
+    const $$ = (selector) => [...document.querySelectorAll(selector)];
+    const ICONS = {
+      shuffle:'<path d="m16 3 4 4-4 4M4 7h3c5 0 5 10 10 10h3M16 13l4 4-4 4M4 17h3c1.6 0 2.7-1 3.7-2.5M13.3 9.5C14.3 8 15.4 7 17 7h3"/>',
+      bookmark:'<path d="M6 4a1 1 0 0 1 1-1h10a1 1 0 0 1 1 1v17l-6-4-6 4V4Z"/>',
+      help:'<circle cx="12" cy="12" r="9"/><path d="M9.5 9a2.5 2.5 0 0 1 5 .5c0 1.5-2.5 1.5-2.5 3.5M12 16h.01"/>',
+      copy:'<rect x="8" y="8" width="12" height="13" rx="2"/><path d="M16 8V4a1 1 0 0 0-1-1H4a1 1 0 0 0-1 1v12a1 1 0 0 0 1 1h4"/>',
+      sparkles:'<path d="m12 3 2.4 6.6L21 12l-6.6 2.4L12 21l-2.4-6.6L3 12l6.6-2.4L12 3ZM20 2v4M18 4h4"/>',
+      sliders:'<path d="M4 7h7M15 7h5M4 17h3M11 17h9"/><circle cx="13" cy="7" r="2"/><circle cx="9" cy="17" r="2"/>',
+      reset:'<path d="M3 10a9 9 0 1 1 1.5 7M3 4v6h6"/>',
+      lock:'<rect x="5" y="10" width="14" height="11" rx="2"/><path d="M8 10V7a4 4 0 0 1 8 0v3M12 14v3"/>',
+      lightbulb:'<path d="M9 18h6M10 21h4M8 14a6 6 0 1 1 8 0c-1 .8-1 2-1 2H9s0-1.2-1-2Z"/>',
+      shield:'<path d="m12 3 8 3v6c0 5-8 9-8 9s-8-4-8-9V6l8-3Z"/><path d="m8 12 3 3 5-6"/>',
+      close:'<path d="m6 6 12 12M6 18 18 6"/>'
+    };
+    const icon = name => `<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">${ICONS[name] || ''}</svg>`;
+    $$('[data-icon]').forEach(el => { el.innerHTML = icon(el.dataset.icon); });
+    const STORAGE_KEY = 'lucky-six-v1';
+    const validNumber = n => Number.isInteger(n) && n >= 1 && n <= 45;
+    const validGame = game => Array.isArray(game) && game.length === 6 && game.every(validNumber) && new Set(game).size === 6;
+    const sorted = values => [...values].sort((a,b) => a-b);
+    const gameKey = game => sorted(game).join('-');
+    let storageWarningShown = false;
+    let toastTimer;
+    function toast(message) {
+      clearTimeout(toastTimer);
+      $('#toast').textContent = message;
+      $('#toast').classList.add('visible');
+      toastTimer = setTimeout(() => $('#toast').classList.remove('visible'), 3200);
+    }
+    function loadState() {
+      let data;
+      try { data = JSON.parse(localStorage.getItem(STORAGE_KEY) || '{}'); } catch { data = {}; }
+      if (!data || typeof data !== 'object') data = {};
+      const fixed = new Set(Array.isArray(data.fixed) ? data.fixed.filter(validNumber).slice(0,6) : []);
+      const excluded = new Set(Array.isArray(data.excluded) ? data.excluded.filter(n => validNumber(n) && !fixed.has(n)).slice(0,39) : []);
+      const history = Array.isArray(data.history) ? data.history.filter(batch => batch && Number.isFinite(batch.time) && Number.isFinite(new Date(batch.time).getTime()) && Array.isArray(batch.games) && batch.games.length > 0 && batch.games.length <= 10 && batch.games.every(validGame) && ['random','balanced'].includes(batch.mode)).slice(0,20).map(batch => ({time:batch.time, mode:batch.mode, games:batch.games.map(sorted)})) : [];
+      const saved = Array.isArray(data.saved) ? [...new Map(data.saved.filter(validGame).map(game => [gameKey(game),sorted(game)])).values()].slice(0,100) : [];
+      return {fixed,excluded,history,saved,mode:data.mode === 'balanced' ? 'balanced' : 'random',count:[1,3,5,10].includes(data.count) ? data.count : 5};
+    }
+    const state = loadState();
+    let selectionMode = 'fixed';
+    let currentView = 'current';
+    let currentBatch = state.history[0] || null;
+    function persist() {
+      try { localStorage.setItem(STORAGE_KEY, JSON.stringify({...state, fixed:[...state.fixed], excluded:[...state.excluded]})); }
+      catch { if (!storageWarningShown) { storageWarningShown = true; toast('브라우저 저장이 차단되어 있어요. 이번 창에서만 이용할 수 있어요.'); } }
+    }
+    // Count eligible combinations, then select distinct random ranks. This avoids
+    // retry loops and gives every eligible combination the same selection chance.
+    function createSampler(fixedNumbers, excludedNumbers, balanced) {
+      const fixed = sorted(fixedNumbers);
+      const unavailable = new Set([...fixedNumbers,...excludedNumbers]);
+      const pool = Array.from({length:45},(_,i) => i+1).filter(n => !unavailable.has(n));
+      const startOdd = fixed.filter(n => n%2).length;
+      const startLow = fixed.filter(n => n<=22).length;
+      const memo = new Map();
+      function ways(index, remaining, odd, low) {
+        if (remaining < 0 || pool.length-index < remaining) return 0;
+        if (balanced && (odd>4 || low>4 || odd+remaining<2 || low+remaining<2)) return 0;
+        if (remaining === 0) return 1;
+        const key = balanced ? `${index},${remaining},${odd},${low}` : `${index},${remaining}`;
+        if (memo.has(key)) return memo.get(key);
+        const n = pool[index];
+        const result = ways(index+1,remaining-1,odd+n%2,low+(n<=22 ? 1:0)) + ways(index+1,remaining,odd,low);
+        memo.set(key,result);
+        return result;
+      }
+      const total = ways(0,6-fixed.length,startOdd,startLow);
+      function at(rank) {
+        if (!Number.isInteger(rank) || rank<0 || rank>=total) throw new RangeError('조합 순위가 범위를 벗어났습니다.');
+        const numbers = [...fixed];
+        let remaining = 6-fixed.length, odd = startOdd, low = startLow;
+        for (let index=0; remaining>0 && index<pool.length; index++) {
+          const n = pool[index];
+          const take = ways(index+1,remaining-1,odd+n%2,low+(n<=22 ? 1:0));
+          if (rank < take) { numbers.push(n); remaining--; odd += n%2; low += n<=22 ? 1:0; }
+          else rank -= take;
+        }
+        return sorted(numbers);
+      }
+      return {total,at};
+    }
+    function randomInt(max) {
+      if (!Number.isInteger(max) || max<1 || max>0x100000000) throw new RangeError('잘못된 무작위 범위입니다.');
+      if (!globalThis.crypto?.getRandomValues) return Math.floor(Math.random()*max);
+      const limit = Math.floor(0x100000000/max)*max;
+      const buffer = new Uint32Array(1);
+      do { crypto.getRandomValues(buffer); } while (buffer[0] >= limit);
+      return buffer[0]%max;
+    }
+    function sampleGames(sampler, count) {
+      const swaps = new Map(), games = [];
+      let remaining = sampler.total;
+      for (let i=0;i<Math.min(count,sampler.total);i++) {
+        const index = randomInt(remaining), rank = swaps.get(index) ?? index;
+        swaps.set(index, swaps.get(remaining-1) ?? remaining-1);
+        swaps.delete(remaining-1);
+        remaining--;
+        games.push(sampler.at(rank));
+      }
+      return games;
+    }
+    const ballClass = n => n<=10 ? 'yellow' : n<=20 ? 'blue' : n<=30 ? 'red' : n<=40 ? 'gray' : 'green';
+    function rowHTML(game,index) {
+      const key = gameKey(game), saved = state.saved.some(item => gameKey(item)===key);
+      const odd = game.filter(n=>n%2).length;
+      return `<div class="result-row"><span class="row-letter" aria-hidden="true">${String.fromCharCode(65+index%26)}</span><div class="number-balls" aria-label="${game.join(', ')}">${game.map(n=>`<span class="ball ball-${ballClass(n)}">${String(n).padStart(2,'0')}</span>`).join('')}</div><div class="row-info">합계<strong>${game.reduce((a,b)=>a+b,0)}</strong><br>홀짝<strong>${odd} : ${6-odd}</strong></div><div class="row-actions"><button class="icon-button ${saved?'is-saved':''}" data-save="${key}" aria-label="${game.join(', ')} ${saved?'보관 해제':'보관하기'}" aria-pressed="${saved}" title="${saved?'보관 해제':'보관하기'}">${icon('bookmark')}</button><button class="icon-button" data-copy="${key}" aria-label="${game.join(', ')} 복사" title="번호 복사">${icon('copy')}</button></div></div>`;
+    }
+    const formatTime = time => new Intl.DateTimeFormat('ko-KR',{month:'numeric',day:'numeric',hour:'2-digit',minute:'2-digit',hour12:false}).format(new Date(time));
+    function renderCurrent() {
+      $('#current-list').innerHTML = currentBatch ? currentBatch.games.map(rowHTML).join('') : '';
+      $('#current-count').textContent = currentBatch?.games.length || 0;
+      $('#result-time').innerHTML = currentBatch ? `<span class="live-dot"></span>${formatTime(currentBatch.time)} · ${currentBatch.mode==='balanced'?'균형 조합':'완전 무작위'}` : '';
+    }
+    function renderHistory() {
+      $('#history-count').textContent = state.history.length;
+      $('#history-total').textContent = `${state.history.length}회`;
+      $('#history-list').innerHTML = state.history.length ? state.history.map(batch => `<details class="history-item"><summary>${formatTime(batch.time)}<span>· ${batch.mode==='balanced'?'균형 조합':'완전 무작위'} · ${batch.games.length}게임</span></summary><div class="history-games">${batch.games.map(rowHTML).join('')}</div></details>`).join('') : `<div class="empty-state">${icon('shuffle')}<h3>첫 번째 추천을 기다리고 있어요</h3><p>번호를 추천받으면 최근 기록이 여기에 남아요.</p></div>`;
+    }
+    function renderSaved() {
+      $('#saved-count').textContent = state.saved.length;
+      $('#header-saved-count').textContent = state.saved.length;
+      $('#copy-saved').hidden = !state.saved.length;
+      $('#saved-list').innerHTML = state.saved.length ? state.saved.map(rowHTML).join('') : `<div class="empty-state">${icon('bookmark')}<h3>마음에 드는 숫자를 간직해보세요</h3><p>번호 옆 책갈피를 누르면 이곳에서 다시 볼 수 있어요.</p></div>`;
+    }
+    function refreshSavedButtons() {
+      $$('[data-save]').forEach(button => {
+        const saved = state.saved.some(game => gameKey(game)===button.dataset.save);
+        button.classList.toggle('is-saved',saved);
+        button.setAttribute('aria-pressed',String(saved));
+        button.setAttribute('aria-label',`${button.dataset.save.split('-').join(', ')} ${saved?'보관 해제':'보관하기'}`);
+        button.title = saved?'보관 해제':'보관하기';
+      });
+    }
+    function showView(view, moveFocus=false) {
+      currentView = view;
+      $$('.tab').forEach(tab => { const active = tab.dataset.view===view; tab.classList.toggle('active',active); tab.setAttribute('aria-selected',String(active)); tab.tabIndex=active?0:-1; });
+      ['current','history','saved'].forEach(name => { $(`#panel-${name}`).hidden = name!==view; });
+      if (moveFocus) $(`#tab-${view}`).focus();
+    }
+    function renderOptions() {
+      $$('[data-mode]').forEach(button=>{ const active=button.dataset.mode===state.mode; button.classList.toggle('active',active);button.setAttribute('aria-pressed',String(active)); });
+      $('#game-count').value=state.count;
+      $('#mode-description').textContent=state.mode==='balanced'?'홀짝 · 낮은 수/높은 수를 각각 2~4개씩 고르게 담아요.':'선택한 조건 안에서 모든 조합을 같은 확률로 추천해요.';
+      $$('[data-select-mode]').forEach(button=>{ const active=button.dataset.selectMode===selectionMode;button.classList.toggle('active',active);button.setAttribute('aria-pressed',String(active)); });
+      $('#number-grid').setAttribute('aria-label',`${selectionMode==='fixed'?'고정할':'제외할'} 번호 선택`);
+      if (!$('#number-grid').children.length) $('#number-grid').innerHTML=Array.from({length:45},(_,i)=>`<button class="number-choice" data-number="${i+1}" aria-pressed="false">${i+1}</button>`).join('');
+      $$('[data-number]').forEach(button=>{
+        const n=Number(button.dataset.number), fixed=state.fixed.has(n), excluded=state.excluded.has(n);
+        button.classList.toggle('fixed',fixed);button.classList.toggle('excluded',excluded);
+        button.setAttribute('aria-pressed',String(selectionMode==='fixed'?fixed:excluded));
+        button.setAttribute('aria-label',`${n}번${fixed?', 고정 번호':excluded?', 제외 번호':''}`);
+      });
+      $('#fixed-count').textContent=state.fixed.size;$('#exclude-count').textContent=state.excluded.size;
+      for (const [id, values, type] of [['fixed-values',state.fixed,'fixed'],['excluded-values',state.excluded,'excluded']]) {
+        $(`#${id}`).innerHTML=values.size ? sorted(values).map(n=>`<button class="selection-chip ${type}" data-remove="${type}:${n}" aria-label="${n}번 ${type==='fixed'?'고정':'제외'} 해제">${n}<span aria-hidden="true">×</span></button>`).join('') : '<em>선택한 번호가 없어요</em>';
+      }
+    }
+    function clearError() { $('#generation-error').hidden=true; }
+    function generate(announce=true) {
+      clearError();
+      const sampler=createSampler(state.fixed,state.excluded,state.mode==='balanced');
+      if (!sampler.total) {
+        $('#generation-error').textContent='현재 고정·제외 번호로는 균형 조합을 만들 수 없어요. 조건을 줄이거나 완전 무작위를 선택해주세요.';
+        $('#generation-error').hidden=false;
+        return false;
+      }
+      const games=sampleGames(sampler,state.count);
+      currentBatch={time:Date.now(),mode:state.mode,games};
+      state.history.unshift(currentBatch);state.history=state.history.slice(0,20);
+      persist();renderCurrent();renderHistory();showView('current');
+      if (announce) {
+        const message=games.length<state.count?`조건에 맞는 서로 다른 조합이 ${games.length}개라 ${games.length}게임을 추천했어요.`:`새로운 ${games.length}게임을 추천했어요.`;
+        toast(message);$('#generation-announcement').textContent=`${message} 첫 번째 조합: ${games[0].join(', ')}.`;
+      }
+      return true;
+    }
+    function toggleNumber(n) {
+      const target=selectionMode==='fixed'?state.fixed:state.excluded;
+      const other=selectionMode==='fixed'?state.excluded:state.fixed;
+      if (target.has(n)) target.delete(n);
+      else {
+        const max=selectionMode==='fixed'?6:39;
+        if (target.size>=max) { toast(selectionMode==='fixed'?'고정 번호는 최대 6개까지 선택할 수 있어요.':'6개 번호를 남겨야 해요. 제외 번호는 최대 39개예요.');return; }
+        const moved=other.delete(n);target.add(n);
+        if (moved) toast(`${n}번을 ${selectionMode==='fixed'?'고정':'제외'} 번호로 바꿨어요.`);
+      }
+      clearError();persist();renderOptions();
+    }
+    async function copyText(value) {
+      try {
+        if (navigator.clipboard?.writeText) await navigator.clipboard.writeText(value);
+        else throw new Error('clipboard fallback');
+        toast('번호를 복사했어요. 행운을 빌어요!');
+      } catch {
+        const previous=document.activeElement;
+        const input=document.createElement('textarea');input.value=value;input.style.cssText='position:fixed;top:0;left:-9999px';input.setAttribute('aria-label','복사할 번호');document.body.append(input);input.select();
+        let success=false;
+        try { success=document.execCommand('copy'); } catch {}
+        input.remove();previous?.focus();toast(success?'번호를 복사했어요. 행운을 빌어요!':'복사 권한이 없어요. 화면의 번호를 직접 선택해 복사해주세요.');
+      }
+    }
+    const formatGames=games=>games.map((game,i)=>`${i+1}. ${game.map(n=>String(n).padStart(2,'0')).join(', ')}`).join('\n');
+    $('#generate').addEventListener('click',()=>generate());
+    $$('[data-mode]').forEach(button=>button.addEventListener('click',()=>{state.mode=button.dataset.mode;clearError();renderOptions();persist();}));
+    $('#game-count').addEventListener('change',event=>{state.count=Number(event.target.value);persist();});
+    $$('[data-select-mode]').forEach(button=>button.addEventListener('click',()=>{selectionMode=button.dataset.selectMode;renderOptions();}));
+    $('#number-grid').addEventListener('click',event=>{const button=event.target.closest('[data-number]');if(button)toggleNumber(Number(button.dataset.number));});
+    $('#reset-options').addEventListener('click',()=>{state.fixed.clear();state.excluded.clear();clearError();persist();renderOptions();toast('고정·제외 번호를 모두 초기화했어요.');});
+    $('.selection-summary').addEventListener('click',event=>{const button=event.target.closest('[data-remove]');if(!button)return;const [type,value]=button.dataset.remove.split(':');(type==='fixed'?state.fixed:state.excluded).delete(Number(value));clearError();persist();renderOptions();});
+    $$('.tab').forEach(tab=>tab.addEventListener('click',()=>showView(tab.dataset.view)));
+    $('.tabs').addEventListener('keydown',event=>{
+      const tabs=$$('.tab'), index=tabs.indexOf(document.activeElement);if(index<0)return;
+      let next;
+      if(event.key==='ArrowRight')next=(index+1)%tabs.length;
+      else if(event.key==='ArrowLeft')next=(index+tabs.length-1)%tabs.length;
+      else if(event.key==='Home')next=0;else if(event.key==='End')next=tabs.length-1;else return;
+      event.preventDefault();showView(tabs[next].dataset.view,true);
+    });
+    $('.results-section').addEventListener('click',event=>{
+      const saveButton=event.target.closest('[data-save]'),copyButton=event.target.closest('[data-copy]');
+      if(copyButton){copyText(copyButton.dataset.copy.split('-').map(n=>n.padStart(2,'0')).join(', '));return;}
+      if(!saveButton)return;
+      const key=saveButton.dataset.save, index=state.saved.findIndex(game=>gameKey(game)===key);
+      if(index>=0){state.saved.splice(index,1);toast('보관함에서 번호를 꺼냈어요.');}
+      else {if(state.saved.length>=100){toast('보관함은 최대 100개예요. 기존 조합을 해제한 뒤 보관해주세요.');return;}state.saved.unshift(key.split('-').map(Number));toast('마음에 드는 번호를 보관했어요.');}
+      persist();renderSaved();refreshSavedButtons();
+      if(currentView==='saved'){
+        const buttons=$$('#saved-list [data-save]');
+        (buttons[Math.min(Math.max(index,0),buttons.length-1)]||$('#tab-saved')).focus();
+      }
+    });
+    $('#copy-all').addEventListener('click',()=>{if(currentBatch)copyText(formatGames(currentBatch.games));});
+    $('#copy-saved').addEventListener('click',()=>{if(state.saved.length)copyText(formatGames(state.saved));});
+    $('#open-saved').addEventListener('click',()=>{showView('saved',true);$('#generator').scrollIntoView({behavior:matchMedia('(prefers-reduced-motion: reduce)').matches?'instant':'smooth',block:'start'});});
+    $('#open-help').addEventListener('click',()=>$('#help-dialog').showModal());
+    $('#close-help').addEventListener('click',()=>$('#help-dialog').close());
+    $('#help-done').addEventListener('click',()=>$('#help-dialog').close());
+    $('#help-dialog').addEventListener('click',event=>{if(event.target===$('#help-dialog')){const r=event.target.getBoundingClientRect();if(event.clientX<r.left||event.clientX>r.right||event.clientY<r.top||event.clientY>r.bottom)event.target.close();}});
+    renderOptions();renderSaved();
+    if(currentBatch){renderCurrent();renderHistory();}
+    else if(!generate(false)){renderCurrent();renderHistory();}
+  </script>
+</body>
+</html>

@@ -1,0 +1,1842 @@
+[
+    {
+        "status":  200,
+        "bytes":  458,
+        "type":  "Fetch",
+        "mime":  "application/json",
+        "url":  "https://fastlane.rubiconproject.com/a/api/fastlane.json?account_id=23962\u0026site_id=397738\u0026zone_id=2228322\u0026size_id=16\u0026alt_size_ids=221\u0026rp_schain=1.0,1!admaru.com,938264,1,,,\u0026rf=https%3A%2F%2Fwww.joongang.co.kr%2Farticle%2F25469354\u0026tg_i.domain=joongang.co.kr\u0026tg_i.page=https%3A%2F%2Fwww.joongang.co.kr%2Farticle%2F25469354\u0026tg_i.cat=IAB14\u0026tg_i.documentLang=ko\u0026tg_i.pbadslot=%2F30349040%2FJA_PC_article%2FRE%2Foutstream\u0026tk_flint=pbjs_lite_v9.49.1\u0026l_pb_bid_id=71e5d680a9ec3a\u0026p_screen_res=800x600\u0026rp_secure=1\u0026rp_maxbids=1\u0026p_gpid=%2F30349040%2FJA_PC_article%2FRE%2Foutstream\u0026m_ch_ua=%22Not%3AA-Brand%22%7Cv%3D%228%22%2C%22Chromium%22%7Cv%3D%22156%22%2C%22Google%20Chrome%22%7Cv%3D%22156%22\u0026m_ch_mobile=%3F0\u0026m_ch_platform=Windows\u0026slots=1\u0026rand=0.7256480758626522",
+        "file":  "assets/872fbc80478d214c.json"
+    },
+    {
+        "status":  200,
+        "bytes":  328,
+        "type":  "Fetch",
+        "mime":  "application/json",
+        "url":  "https://supply.admaru.com/bid/adapter",
+        "file":  "assets/c4e462c1e02596b0.json"
+    },
+    {
+        "status":  200,
+        "bytes":  34238,
+        "type":  "Fetch",
+        "mime":  "text/plain",
+        "url":  "https://securepubads.g.doubleclick.net/gampad/ads?pvsid=8758007639459162\u0026correlator=1475096714864591\u0026eid=122881756%2C122881992%2C122881995%2C31084129%2C122881696%2C95404584%2C95401810\u0026output=ldjh\u0026gdfp_req=1\u0026vrg=202610260101\u0026ptt=17\u0026impl=fifs\u0026iu_parts=30349040%2Csubscription%2Canchor\u0026enc_prev_ius=%2F0%2F1%2F2\u0026prev_iu_szs=1x1\u0026ifi=2\u0026didk=4224813695\u0026dids=gpt_unit_%2F30349040%2Fsubscriptio\u0026sfv=1-0-45\u0026fas=1\u0026eri=1\u0026sc=1\u0026cookie_enabled=1\u0026abxe=1\u0026dt=1793621466269\u0026lmt=1793621466\u0026adxs=-9\u0026adys=-9\u0026biw=1425\u0026bih=1000\u0026scr_x=0\u0026scr_y=0\u0026btvi=-1\u0026ucis=1\u0026oid=2\u0026u_his=2\u0026u_h=600\u0026u_w=800\u0026u_ah=600\u0026u_aw=800\u0026u_cd=24\u0026u_sd=1\u0026u_tz=540\u0026dmc=8\u0026bc=31\u0026nvt=1\u0026uach=WyJXaW5kb3dzIiwiMTAuMC4wIiwieDg2IiwiIiwiMTU2LjAuODA3OC43NCIsbnVsbCwwLG51bGwsIjY0IixbWyJOb3Q6QS1CcmFuZCIsIjguMC4wLjAiXSxbIkNocm9taXVtIiwiMTU2LjAuODA3OC43NCJdLFsiR29vZ2xlIENocm9tZSIsIjE1Ni4wLjgwNzguNzQiXV0sMF0.\u0026url=https%3A%2F%2Fwww.joongang.co.kr%2Farticle%2F25469354\u0026vis=1\u0026psz=0x-1\u0026msz=0x-1\u0026fws=2\u0026ohw=0\u0026dlt=1793621462838\u0026idt=3234\u0026prev_scp=test%3Danchor\u0026cust_params=section%3DSociety\u0026adks=3092121574\u0026frm=20\u0026no_cau_info=1\u0026cpu=2\u0026eoidce=1",
+        "file":  "assets/da29db6034dd22e2.bin"
+    },
+    {
+        "status":  200,
+        "bytes":  43,
+        "type":  "Image",
+        "mime":  "image/gif",
+        "url":  "https://ib.adnxs.com/setuid?entity=563\u0026code=75990989.1793621470252",
+        "file":  "assets/19d7891ac85ce127.bin"
+    },
+    {
+        "status":  200,
+        "bytes":  42,
+        "type":  "Image",
+        "mime":  "image/gif",
+        "url":  "https://www.google.co.kr/pagead/1p-user-list/17609481660/?random=1793621464605\u0026cv=11\u0026fst=1793620800000\u0026bg=ffffff\u0026guid=ON\u0026async=1\u0026en=gtag.config\u0026gtm=45be6as1z8f_AW-17609481660za20ozb846354240zd846354240xecxf1\u0026gcd=13l3l3l3l1l1\u0026dma=0\u0026tag_exp=115938466~115938468~118897920~118897930~120213116~120385423~120469145~120469153~121246026~121246034~123691370\u0026u_w=800\u0026u_h=600\u0026url=https%3A%2F%2Fwww.joongang.co.kr%2Farticle%2F25469354\u0026rcb=4\u0026frm=0\u0026tiba=%EB%8D%95%EC%9C%A0%EC%82%B0%EA%B9%8C%EC%A7%80%20%EB%82%B4%EB%A0%A4%EC%98%A8%20%EB%8B%A8%ED%92%8D%E2%80%A6%EB%B6%81%EC%AA%BD%20%EC%B0%AC%EA%B3%B5%EA%B8%B0%EC%97%90%20%EB%AC%BC%EB%93%9C%EB%8A%94%20%EC%86%8D%EB%8F%84%20%EB%B9%A8%EB%9D%BC%EC%A7%84%EB%8B%A4%20\u0026hn=www.googleadservices.com\u0026npa=0\u0026pscdl=noapi\u0026auid=198866810.1793621464\u0026uaa=x86\u0026uab=64\u0026uafvl=Not%253AA-Brand%3B8.0.0.0%7CChromium%3B156.0.8078.74%7CGoogle%2520Chrome%3B156.0.8078.74\u0026uamb=0\u0026uam=\u0026uap=Windows\u0026uapv=10.0.0\u0026uaw=0\u0026data=event%3Dgtag.config\u0026ept=9\u0026rfmt=3\u0026fmt=3\u0026is_vtc=1\u0026cid=CAQS0wEAQM4h3Ar5R6hIZqY-ju8VaQMLL8Nh-dvIwzCruzL2AS9TWDwuSXOBEyMf8L-WGecY2A9k8bm-bLvLPYTre9TX9YQN2iB-Vfl_rQq-usWHUkgdkwotLZ1s4zarf_bYui65_9OovWNZUipcMyB5vusd3hnACYrZ_7qU5fmsxpD2IZntyGd67TeqqdQlOuHly5i73JHUjA1VBKtiPFgaoW7euos3VXNozKDM2nTaKcmkYFv_Fcj-5KIznoohMaT0HuGZuTxo5cgoI1qbWNro6mMzLrz9\u0026random=1820276999\u0026rmt_tld=1\u0026ipr=y",
+        "file":  "assets/793e8c2fa248d3fb.bin"
+    },
+    {
+        "status":  200,
+        "bytes":  206911,
+        "type":  "Script",
+        "mime":  "text/javascript",
+        "url":  "https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1064089362295323",
+        "file":  "assets/30e14ccf479ef8ce.js"
+    },
+    {
+        "status":  200,
+        "bytes":  3604,
+        "type":  "Stylesheet",
+        "mime":  "text/css",
+        "url":  "https://assets.joongang.co.kr/css/font.min.css?v=202611021330",
+        "file":  "assets/0e6a8a5207782f9c.css"
+    },
+    {
+        "status":  200,
+        "bytes":  16917,
+        "type":  "Script",
+        "mime":  "text/javascript",
+        "url":  "https://assets.joongang.co.kr/js/plugin/mark.min.js",
+        "file":  "assets/1a1bff7ff1ca5d63.js"
+    },
+    {
+        "status":  200,
+        "bytes":  22697,
+        "type":  "Script",
+        "mime":  "text/javascript",
+        "url":  "https://assets.joongang.co.kr/js/highlight.js?v=202611021332",
+        "file":  "assets/c1036653784bbf14.js"
+    },
+    {
+        "status":  200,
+        "bytes":  13317,
+        "type":  "Image",
+        "mime":  "image/jpeg",
+        "url":  "https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202611/02/ab9dbf2c-7724-47df-b216-5c74518619f2.jpg/_ir_400x224_/",
+        "file":  "assets/7e49f29a2f565466.jpg"
+    },
+    {
+        "status":  200,
+        "bytes":  10910,
+        "type":  "Image",
+        "mime":  "image/webp",
+        "url":  "https://images.taboola.com/taboola/image/fetch/f_jpg%2Cq_auto%2Ch_134%2Cw_240%2Cc_fill%2Cg_faces:auto%2Ce_sharpen/https%3A//cdn.taboola.com/libtrc/static/thumbnails/STABLE_DIFFUSION/ESD/1a69bee1-9e38-4dff-a3ec-77b933e8c340__vmj4fexv.jpg",
+        "file":  "assets/88f8530a34270b2f.jpg"
+    },
+    {
+        "status":  200,
+        "bytes":  1515,
+        "type":  "Script",
+        "mime":  "text/javascript",
+        "url":  "https://api.dable.io/plugin/services/joongang.co.kr/prefs2?tcfapiSet=0\u0026gdpr=0\u0026callback=_dbljson1\u0026_=1793621470106",
+        "file":  "assets/c723f96f8552f738.js"
+    },
+    {
+        "status":  200,
+        "bytes":  0,
+        "type":  "Image",
+        "mime":  "text/plain",
+        "url":  "https://ty-vid-events.taboola.com/st?cijs=convusmp\u0026ttype=16\u0026cisd=convusmp\u0026cipid=66361655\u0026crid=-1\u0026dast=V9tekCABYDALj2evAIYDhaBAC49nrwCGA4WgUAAAAABgYA4gcAJDXxLIar5cItmLgsa9FmtFtLjIuNW7nwDSe74cZimQ2GAEBSE89iuFou3IKJy7IWbUa7tcS42LiVC99wshtuLJbZYAoAGsIy-30HBeX09JhdBlHR9bbYHU6z56BYA8AKmk6Hz3Wv1_1-d6nfb_c57D67xm_XWv4Ky-npMbv8ktVottysRnMAAAAAAHgA-P___4cAAAAAAIgAAAAAAJAAAAAAAKAACKgA-LcAELgAAAAAAMAA-P___9cAADjeABCIxTgAGtr1tbr8dp9b5Lf7_AEAAAAAAAIAAAAAQAIAkCBBWwIAILNsfALw_________x8DMECfeSMD8P___38DUNADAPDgAwDwIAQAAACwMgQQajv1uM4YrEEEACCg1FYE4AhgEkAnAFQAFlUA_____VYAAFcAAAABoZwrm_ZZALqDEm9hAAAAAAJjAAv0sPj9Zodd43e7DOD_________3wzg_wzgHw1AyKInLg1AyB8AQA3gFxAAYA3gFxAAgA1A3QD-_98ABOAAwg4AAAAA4A7g____Xw8AZJyLice0Gy5XrtVos7HYdoORxTBZeCyD2W4xHG4PgGsagoZTdOmyD0BDWGa_76CgnJ4es8sgKrreFrvDafYcFPMDmLDFaDWZbJbD2XIxGQxHw9FofwADsZoNEGAiBsvlZLKY7Faj1Wgz3I1mgwUCCMRgggAULRpMVqPRZDEZrkaT1Wy52O02CEDRqtVstBkMV7PJbLdbDQfD5WiEABO2GK0mk81yOFsuJoPhaDgaDREgZowz42o5ma01E4tlLVq5VmvhxDFZy1ae2XA1Wyw8Lptb9PqYHouVZbBZLbwIIBhwsxfJ0yKdSGwj32A5GC5MLudgNnJuLBbDcLGbbAaT5WhkXE7EEs3JIp3ILvuOczHxmHbD5cq1Gm02FttuMLIYJguPZTDbLYbDfcc4M66Wk9laM7FY1qKVa7UWThyTtWzlmQ1Xs8XC47K5Ra-P6bFYWQab1cLf2C03s8liNJvtG7vlZjZZjGazfYfO8F19zkbfYTL6qDzO5PWj1jkMCpfB4p2sTy_xZ3pQhhszp0wmPHZ3Rt3vpvYaFJ6Dx3QxllQz1dApFmfHCcfBYzAYHSaD0WE0GB1mg9GgiCWCi3Qi9fvtPofd5xa5PF_T33B3-S5iidJ0kU70Csvp6TG7_JLVaLbcrEYTsURwukgnopfxdFG_EgAAAAAAAAAAwBLAJgAAAAAAJ4BBLUezxWSdAAezmQyXs9lyAQAwpkJ1AX5I3c6s86w8dwGAd1Pgy7C49Y4BJtTvt_scdp9b5PJ8TX_D3eW7MgAARSMAM8BmgM8ABLFWq2UNAAAAIIANAAAAEMANoBuAN4BALDYO8P__708PAAAAIL4PABRlYmZmZmb2DwAgQCHWarW63Vir1QoIMJDdYjhYTiAAwCDIEyFAYNtNCKAQYDBEy9_t8kJAhwBiq8Fa0HtKj4cAAICAUM6VzciJgAIYzSaDUQT8____VwQUJIPCmMwigNhqsLZ0qQz-IgAAICCUc2UTEiPAQRaDuXI0l0wGc8lkOI0AgACOAAJicbr0CAA!\u0026cmcv=undefined\u0026pix=31579697\u0026cb=1793621484322\u0026uv=3630\u0026tms=1793621484322\u0026su=\u0026abt=dfrc_vA!t45!ufm_vA\u0026ft=0\u0026unm=WIDGET_ITEM\u0026",
+        "file":  "assets/2bf024507ef33523.bin"
+    },
+    {
+        "status":  200,
+        "bytes":  4892,
+        "type":  "Image",
+        "mime":  "image/jpeg",
+        "url":  "https://pds.joongang.co.kr/joongangplus/card/202611/46e438ff-6168-4056-ae67-c40ff5ffedef.jpg/_ir_top_144x144_/t.jpg",
+        "file":  "assets/5eb196f92e67df5c.jpg"
+    },
+    {
+        "status":  200,
+        "bytes":  95719,
+        "type":  "Script",
+        "mime":  "application/javascript",
+        "url":  "https://t1.kakaocdn.net/kakao_js_sdk/v1/kakao.min.js",
+        "file":  "assets/4c9e440edf621673.js"
+    },
+    {
+        "status":  200,
+        "bytes":  25430,
+        "type":  "Script",
+        "mime":  "application/javascript",
+        "url":  "https://wcs.naver.net/wcslog.js",
+        "file":  "assets/23545fd073381280.js"
+    },
+    {
+        "status":  200,
+        "bytes":  4664,
+        "type":  "XHR",
+        "mime":  "application/json",
+        "url":  "https://ty-wf.taboola.com/VideoBidRequestHandlerServlet?oid=15\u0026width=434\u0026height=244\u0026pubid=169497\u0026tagid=953497\u0026crid=-1\u0026noaop=12\u0026sortOrderType=0\u0026cb=1793621480036\u0026mimes=5,10,11,12\u0026isvideo=0\u0026plmd=2\u0026mindur=1\u0026maxdur=210\u0026minbr=1\u0026maxbr=10000\u0026st=0\u0026seq=4\u0026pv=1821\u0026pt=1617023728\u0026tz=540\u0026viewable=true\u0026ddast=V9tekCABYDALj2evAIYDhaBAC49nrwCGA4WgUAAAAABgYA4gcAJDXxLIar5cItmLgsa9FmtFtLjIuNW7nwDSe74cZimQ2GAEBSE89iuFou3IKJy7IWbUa7tcS42LiVC99wshtuLJbZYAoAGsIy-30HBeX09JhdBlHR9bbYHU6z56BYA8AKmk6Hz3Wv1_1-d6nfb_c57D67xm_XWv4Ky-npMbv8ktVottysRnMAAAAAAHgA-P___4cAAAAAAIgAAAAAAJAAAAAAAKAACKgA-LcAELgAAAAAAMAA-P___9cAADjeABCIxTgAGtr1tbr8dp9b5Lf7_AEAAAAAAAIAAAAAQAIAkCBBWwIAILNsfALw_________x8DMECfeSMD8P___38DUNADAPDgAwDwIAQAAACwMgQQajv1uM4YrEEEACCg1FYE4AhgEkAnAFQAFlUA_____VYAAFcAAAABoZwrm_ZZALqDEm9hAAAAAAJjAAv0sPj9Zodd43e7DOD_________3wzg_wzgHw1AyKInLg1AyB8AQA3gFxAAYA3gFxAAgA1A3QD-_98ABOAAwg4AAAAA4A7g____Xw8AZJyLice0Gy5XrtVos7HYdoORxTBZeCyD2W4xHG4PgGsagoZTdOmyD0BDWGa_76CgnJ4es8sgKrreFrvDafYcFPMDmLDFaDWZbJbD2XIxGQxHw9FofwADsZoNEGAiBsvlZLKY7Faj1Wgz3I1mgwUCCMRgggAULRpMVqPRZDEZrkaT1Wy52O02CEDRqtVstBkMV7PJbLdbDQfD5WiEABO2GK0mk81yOFsuJoPhaDgaDREgZowz42o5ma01E4tlLVq5VmvhxDFZy1ae2XA1Wyw8Lptb9PqYHouVZbBZLbwIIBhwsxfJ0yKdSGwj32A5GC5MLudgNnJuLBbDcLGbbAaT5WhkXE7EEs3JIp3ILvuOczHxmHbD5cq1Gm02FttuMLIYJguPZTDbLYbDfcc4M66Wk9laM7FY1qKVa7UWThyTtWzlmQ1Xs8XC47K5Ra-P6bFYWQab1cLf2C03s8liNJvtG7vlZjZZjGazfYfO8F19zkbfYTL6qDzO5PWj1jkMCpfB4p2sTy_xZ3pQhhszp0wmPHZ3Rt3vpvYaFJ6Dx3QxllQz1dApFmfHCcfBYzAYHSaD0WE0GB1mg9GgiCWCi3Qi9fvtPofd5xa5PF_T33B3-S5iidJ0kU70Csvp6TG7_JLVaLbcrEYTsURwukgnopfxdFG_EgAAAAAAAAAAwBLAJgAAAAAAJ4BBLUezxWSdAAezmQyXs9lyAQAwpkJ1AX5I3c6s86w8dwGAd1Pgy7C49Y4BJtTvt_scdp9b5PJ8TX_D3eW7MgAARSMAM8BmgM8ABLFWq2UNAAAAIIANAAAAEMANoBuAN4BALDYO8P__708PAAAAIL4PABRlYmZmZmb2DwAgQCHWarW63Vir1QoIMJDdYjhYTiAAwCDIEyFAYNtNCKAQYDBEy9_t8kJAhwBiq8Fa0HtKj4cAAICAUM6VzciJgAIYzSaDUQT8____VwQUJIPCmMwigNhqsLZ0qQz-IgAAICCUc2UTEiPAQRaDuXI0l0wGc8lkOI0AgACOAAJicbr0CAA!\u0026proto=2,3,5,6\u0026encoded=1\u0026pstn=vforce2\u0026callback=\u0026wfv=1\u0026amp=0\u0026qsz=15\u0026ft=0\u0026pb=0\u0026pagg=1\u0026sd=undefined\u0026ctsldr=0\u0026ioovp=true\u0026distance=4393\u0026dtagid=3328966\u0026dpubid=594612\u0026abtst=dfrc_vA!t45!ufm_vA\u0026mPre=0.033\u0026cirf=https%3A%2F%2Fwww.joongang.co.kr\u0026en=1",
+        "file":  "assets/537a20aa5fb40b88.json"
+    },
+    {
+        "status":  200,
+        "bytes":  81949,
+        "type":  "Script",
+        "mime":  "text/javascript",
+        "url":  "https://securepubads.g.doubleclick.net/pagead/managed/js/gpt/m202610260101/pubads_impl_page_level_ads.js",
+        "file":  "assets/bbd55b23737d59b5.js"
+    },
+    {
+        "status":  204,
+        "bytes":  0,
+        "type":  "Fetch",
+        "mime":  "application/json",
+        "url":  "https://display.bidder.taboola.com/OpenRTB/TaboolaHB/auction?publisher=1911942",
+        "file":  "assets/e69af469fe5647bc.json"
+    },
+    {
+        "status":  200,
+        "bytes":  6434,
+        "type":  "Image",
+        "mime":  "image/webp",
+        "url":  "https://images.taboola.com/taboola/image/fetch/f_jpg%2Cq_auto%2Ch_134%2Cw_240%2Cc_fill%2Cg_faces:auto%2Ce_sharpen/https%3A//pds.joongang.co.kr/news/component/htmlphoto_mmdata/202611/02/c480842e-aa62-4f8c-9d47-10667fd76199.jpg",
+        "file":  "assets/86df8ac2de40e976.jpg"
+    },
+    {
+        "status":  200,
+        "bytes":  42,
+        "type":  "Image",
+        "mime":  "image/gif",
+        "url":  "https://images.dable.io/1x1.gif?google_gid=CAESEG3tbkdqtoq124GSiIBE-Yg\u0026google_cver=1",
+        "file":  "assets/ad007aca708d8149.gif"
+    },
+    {
+        "status":  204,
+        "bytes":  0,
+        "type":  "Ping",
+        "mime":  "image/gif",
+        "url":  "https://trc.taboola.com/joongang-desktopnew/log/3/algo-data?lti=default\u0026ri=b6d70908ade906d9cbb0817230294d89\u0026sd=v2_c91bc4789e5543cb670db02ac2067188_c8f85926-3bb2-4e55-8b12-6e368561acef-tuct11e2035a_1793621466_1793621466_CNawjgYQoadhGJG3ruGZNCABKAEwdziKxgtA28cLSLLp1wNQnoMZWABgAGiE1IjLjPSX8v8BcAGAAQCIAQCQAQCYAQA\u0026ui=c8f85926-3bb2-4e55-8b12-6e368561acef-tuct11e2035a\u0026pi=%2Farticle%2F25469354\u0026pt=text\u0026vi=1793621466001\u0026tim=21%3A11%3A09.378\u0026id=80543\u0026cv=20261102-8-RELEASE\u0026type=ccd",
+        "file":  "assets/39ab5c32692dc5a4.bin"
+    },
+    {
+        "status":  200,
+        "bytes":  1984,
+        "type":  "Script",
+        "mime":  "application/javascript",
+        "url":  "https://fundingchoicesmessages.google.com/f/AGSKWxVbOZEe3xHH4GdJEBLsvjPX-n7_slmwKDl8-PZI6F_dl3NDeBR4m06d6Fuhv19DrHnTFRSP3Qm1tzBaPMotpZDx596zuERcQHX91Ow-SYSXN5G15_En2ly0zMLgRZjaJPLaRlKw7A==?fccs=W251bGwsbnVsbCxudWxsLG51bGwsbnVsbCxudWxsLFsxNzkzNjIxNDY4LDQ5MTAwMDAwMF0sbnVsbCxudWxsLG51bGwsW251bGwsWzddXSwiaHR0cHM6Ly93d3cuam9vbmdhbmcuY28ua3IvYXJ0aWNsZS8yNTQ2OTM1NCIsbnVsbCxbWzgsInJCazFOLVJJRkdNIl0sWzksImtvIl0sWzE4LCJbW1tudWxsLDUyODEsbnVsbCwxXV1dIl0sWzM1LCIxNzkzNjIxNDY4Il0sWzE5LCIyIl0sWzE3LCJbMF0iXSxbMjQsIiJdLFsyOSwiZmFsc2UiXV1d",
+        "file":  "assets/c358903b01385185.js"
+    },
+    {
+        "status":  200,
+        "bytes":  5999,
+        "type":  "Image",
+        "mime":  "image/jpeg",
+        "url":  "https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202610/18/d886d838-fa12-4ec5-bb1c-7962503ba8cb.jpg/_ir_top_144x144_/t.jpg",
+        "file":  "assets/7488542bef74929b.jpg"
+    },
+    {
+        "status":  200,
+        "bytes":  6570,
+        "type":  "Script",
+        "mime":  "text/javascript",
+        "url":  "https://assets.joongang.co.kr/js/lib/dayjs.min.js",
+        "file":  "assets/5022287d903f2069.js"
+    },
+    {
+        "status":  200,
+        "bytes":  993,
+        "type":  "Script",
+        "mime":  "text/javascript",
+        "url":  "https://www.youtube.com/iframe_api",
+        "file":  "assets/efd0e6abc2d9de7b.js"
+    },
+    {
+        "status":  200,
+        "bytes":  0,
+        "type":  "Image",
+        "mime":  "text/plain",
+        "url":  "https://analytics.ad.daum.net/match2?DSPR=%7B%22v%22:1,%22dr%22:%7B%22t%22:%2220261102%22,%22u%22:%2248779823.1793621470250%22%7D%7D",
+        "file":  "assets/9cd92d508f3ac76c.bin"
+    },
+    {
+        "status":  200,
+        "bytes":  231407,
+        "type":  "Image",
+        "mime":  "image/jpeg",
+        "url":  "https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202610/13/9bd9815a-8345-469a-b668-73e671b4e656.jpg",
+        "file":  "assets/3ec168ac07a71740.jpg"
+    },
+    {
+        "status":  200,
+        "bytes":  19258,
+        "type":  "Image",
+        "mime":  "image/jpeg",
+        "url":  "https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202611/02/13b0a1fa-e167-47b0-a774-ce02446b9936.jpg/_ir_400x224_/",
+        "file":  "assets/8c2ecc697348ebab.jpg"
+    },
+    {
+        "status":  200,
+        "bytes":  153372,
+        "type":  "Script",
+        "mime":  "text/javascript",
+        "url":  "https://assets.joongang.co.kr/js/common.js?v=202611021332",
+        "file":  "assets/391d936da0c2d55a.js"
+    },
+    {
+        "status":  200,
+        "bytes":  1577,
+        "type":  "Script",
+        "mime":  "application/javascript",
+        "url":  "https://cdn.nhnace.com/libs/aceat.js?pub_code=1216680358",
+        "file":  "assets/a7dbfc3977f70da5.js"
+    },
+    {
+        "status":  200,
+        "bytes":  28744,
+        "type":  "Script",
+        "mime":  "text/javascript",
+        "url":  "https://assets.joongang.co.kr/js/chunks/4811.js?ver=f4ab80e658ebff064589",
+        "file":  "assets/269c2b2157a6027b.js"
+    },
+    {
+        "status":  200,
+        "bytes":  43,
+        "type":  "Image",
+        "mime":  "image/gif",
+        "url":  "https://astg.widerplanet.com/delivery/wpp.php?wpg=dable_rtb\u0026wpi=48779823.1793621470250",
+        "file":  "assets/4554f0f01d8400ae.php"
+    },
+    {
+        "status":  200,
+        "bytes":  3189,
+        "type":  "Script",
+        "mime":  "application/javascript",
+        "url":  "https://fundingchoicesmessages.google.com/f/AGSKWxVKeACz-Zhj1ogLOfzqgA45oGFRuzHj0Br_1_Uv7d7t0ODU1kEwBMXPs93TJ47-5mlwhqEmztkJrvHijaY5MkecD3SDJpUKXQOhVf6hRGelee13oRF7q1yLtKFMKJCJxrktF4dtBQ==?fccs=W251bGwsbnVsbCxudWxsLG51bGwsbnVsbCxudWxsLFsxNzkzNjIxNDcwLDY1MzAwMDAwMF0sbnVsbCxudWxsLG51bGwsW251bGwsWzcsOSw2XSxudWxsLDIsbnVsbCwiZW4iLG51bGwsbnVsbCxudWxsLG51bGwsbnVsbCwxXSwiaHR0cHM6Ly93d3cuam9vbmdhbmcuY28ua3IvYXJ0aWNsZS8yNTQ2OTM1NCIsbnVsbCxbWzgsInJCazFOLVJJRkdNIl0sWzksImtvIl0sWzE4LCJbW1tudWxsLDUyODEsbnVsbCwxXV1dIl0sWzM1LCIxNzkzNjIxNDY4Il0sWzE5LCIyIl0sWzE3LCJbMF0iXSxbMjQsIiJdLFsyOSwiZmFsc2UiXV1d",
+        "file":  "assets/3772b01567b94c48.js"
+    },
+    {
+        "status":  200,
+        "bytes":  42,
+        "type":  "Image",
+        "mime":  "image/gif",
+        "url":  "https://www.google.com/pagead/1p-user-list/17609481660/?random=1793621464605\u0026cv=11\u0026fst=1793620800000\u0026bg=ffffff\u0026guid=ON\u0026async=1\u0026en=gtag.config\u0026gtm=45be6as1z8f_AW-17609481660za20ozb846354240zd846354240xecxf1\u0026gcd=13l3l3l3l1l1\u0026dma=0\u0026tag_exp=115938466~115938468~118897920~118897930~120213116~120385423~120469145~120469153~121246026~121246034~123691370\u0026u_w=800\u0026u_h=600\u0026url=https%3A%2F%2Fwww.joongang.co.kr%2Farticle%2F25469354\u0026rcb=4\u0026frm=0\u0026tiba=%EB%8D%95%EC%9C%A0%EC%82%B0%EA%B9%8C%EC%A7%80%20%EB%82%B4%EB%A0%A4%EC%98%A8%20%EB%8B%A8%ED%92%8D%E2%80%A6%EB%B6%81%EC%AA%BD%20%EC%B0%AC%EA%B3%B5%EA%B8%B0%EC%97%90%20%EB%AC%BC%EB%93%9C%EB%8A%94%20%EC%86%8D%EB%8F%84%20%EB%B9%A8%EB%9D%BC%EC%A7%84%EB%8B%A4%20\u0026hn=www.googleadservices.com\u0026npa=0\u0026pscdl=noapi\u0026auid=198866810.1793621464\u0026uaa=x86\u0026uab=64\u0026uafvl=Not%253AA-Brand%3B8.0.0.0%7CChromium%3B156.0.8078.74%7CGoogle%2520Chrome%3B156.0.8078.74\u0026uamb=0\u0026uam=\u0026uap=Windows\u0026uapv=10.0.0\u0026uaw=0\u0026data=event%3Dgtag.config\u0026ept=9\u0026rfmt=3\u0026fmt=3\u0026is_vtc=1\u0026cid=CAQS0wEAQM4h3Ar5R6hIZqY-ju8VaQMLL8Nh-dvIwzCruzL2AS9TWDwuSXOBEyMf8L-WGecY2A9k8bm-bLvLPYTre9TX9YQN2iB-Vfl_rQq-usWHUkgdkwotLZ1s4zarf_bYui65_9OovWNZUipcMyB5vusd3hnACYrZ_7qU5fmsxpD2IZntyGd67TeqqdQlOuHly5i73JHUjA1VBKtiPFgaoW7euos3VXNozKDM2nTaKcmkYFv_Fcj-5KIznoohMaT0HuGZuTxo5cgoI1qbWNro6mMzLrz9\u0026random=1820276999\u0026rmt_tld=0\u0026ipr=y",
+        "file":  "assets/99cdedaaf9257b4e.bin"
+    },
+    {
+        "status":  200,
+        "bytes":  139961,
+        "type":  "Script",
+        "mime":  "text/javascript",
+        "url":  "https://news.google.com/swg/js/v1/publisher.js",
+        "file":  "assets/f18240d2ff4be6d7.js"
+    },
+    {
+        "status":  200,
+        "bytes":  29529,
+        "type":  "Script",
+        "mime":  "text/javascript",
+        "url":  "https://assets.joongang.co.kr/js/lib/localforage.min.js",
+        "file":  "assets/610bebb9a9fe4341.js"
+    },
+    {
+        "status":  200,
+        "bytes":  276,
+        "type":  "Fetch",
+        "mime":  "application/json",
+        "url":  "https://api.joongang.co.kr/moka_api/form.edit?chkCompViewYn=Y\u0026id=500",
+        "file":  "assets/caa53d31f95bdd9b.edit"
+    },
+    {
+        "status":  200,
+        "bytes":  226239,
+        "type":  "Script",
+        "mime":  "application/javascript",
+        "url":  "https://fundingchoicesmessages.google.com/i/ca-pub-1064089362295323?href=https%3A%2F%2Fwww.joongang.co.kr%2Farticle%2F25469354\u0026ers=2",
+        "file":  "assets/6429d66f6adf0fce.js"
+    },
+    {
+        "status":  204,
+        "bytes":  0,
+        "type":  "Image",
+        "mime":  "text/plain",
+        "url":  "https://ssp.mman.kr/cm.mezzo/?partnerKey=dable\u0026buyerid=48779823.1793621470250",
+        "file":  "assets/d0b14aab84113a20.bin"
+    },
+    {
+        "status":  200,
+        "bytes":  7796,
+        "type":  "Image",
+        "mime":  "image/webp",
+        "url":  "https://images.taboola.com/taboola/image/fetch/c_crop%2Cf_jpg%2Cq_auto%2Ce_sharpen%2Car_1.7778%2Cw_1600%2Cx_0%2Cy_0/c_fill%2Cw_240%2Ch_134/https%3A//cdn.taboola.com/libtrc/static/thumbnails/825b78cfbd68fdeb9ace0f28f2813ed1.jpg",
+        "file":  "assets/ebfd9edbd0cac7ce.jpg"
+    },
+    {
+        "status":  200,
+        "bytes":  29761,
+        "type":  "Image",
+        "mime":  "image/jpeg",
+        "url":  "https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202611/02/48e7daf2-f8af-43fb-915d-e4df4affa33d.jpg/_ir_400x224_/",
+        "file":  "assets/d2c27a569d3a7421.jpg"
+    },
+    {
+        "status":  204,
+        "bytes":  0,
+        "type":  "Fetch",
+        "mime":  "",
+        "url":  "https://grid-bidder.criteo.com/openrtb_2_5/pbjs/auction/request?profileId=207\u0026av=37\u0026wv=9.49.1\u0026cb=38896084394\u0026lsavail=0\u0026networkId=11373",
+        "file":  "assets/de324e5d47289d02.bin"
+    },
+    {
+        "status":  200,
+        "bytes":  492699,
+        "type":  "Script",
+        "mime":  "application/javascript",
+        "url":  "https://vidstat.taboola.com/vpaid/vPlayer/player/v18.2.1/OvaMediaPlayer.js",
+        "file":  "assets/07f51a6d305105c2.js"
+    },
+    {
+        "status":  200,
+        "bytes":  88226,
+        "type":  "Script",
+        "mime":  "text/javascript",
+        "url":  "https://t1.daumcdn.net/kas/static/kp.js",
+        "file":  "assets/5cd9e3fabe0e9e4d.js"
+    },
+    {
+        "status":  200,
+        "bytes":  6988,
+        "type":  "Image",
+        "mime":  "image/jpeg",
+        "url":  "https://assets.joongang.co.kr/images/banner/footer/lottetour_logo@2x.jpg",
+        "file":  "assets/61955cd4839c4ba8.jpg"
+    },
+    {
+        "status":  200,
+        "bytes":  46383,
+        "type":  "Script",
+        "mime":  "text/javascript",
+        "url":  "https://www.gstatic.com/firebasejs/7.4.0/firebase-messaging.js",
+        "file":  "assets/5e77ee2888ba7a35.js"
+    },
+    {
+        "status":  200,
+        "bytes":  6215,
+        "type":  "Image",
+        "mime":  "image/jpeg",
+        "url":  "https://pds.joongang.co.kr/svcimg/202609/728287a0-37ee-4295-a264-d91e254cc440.jpg/_ir_264x148_/",
+        "file":  "assets/aaf9ac9581b993e8.jpg"
+    },
+    {
+        "status":  200,
+        "bytes":  3044,
+        "type":  "Script",
+        "mime":  "text/javascript",
+        "url":  "https://tpc.googlesyndication.com/pagead/js/r20261030/r20110914/client/window_focus.js",
+        "file":  "assets/cc387a20a5993706.js"
+    },
+    {
+        "status":  200,
+        "bytes":  48952,
+        "type":  "Script",
+        "mime":  "application/javascript",
+        "url":  "https://vidstat.taboola.com/vpaid/units/36_3_0/infra/cmAdService.js",
+        "file":  "assets/eb3367f42cffa5f1.js"
+    },
+    {
+        "status":  200,
+        "bytes":  1656,
+        "type":  "Script",
+        "mime":  "text/javascript",
+        "url":  "https://assets.joongang.co.kr/js/chunks/article/plusRecommendSwiper.js?ver=9bfaacc39501c8ab712a",
+        "file":  "assets/59f4d05196f85423.js"
+    },
+    {
+        "status":  200,
+        "bytes":  15326,
+        "type":  "Image",
+        "mime":  "image/jpeg",
+        "url":  "https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202610/30/bd734e32-b5fc-45f1-acf9-0094f3137e00.jpg/_ir_400x224_/",
+        "file":  "assets/e627c04870785567.jpg"
+    },
+    {
+        "status":  200,
+        "bytes":  43,
+        "type":  "Image",
+        "mime":  "image/gif",
+        "url":  "https://astg.widerplanet.com/delivery/wpp.php?wpg=dable_rtb\u0026wpi=75990989.1793621470252",
+        "file":  "assets/fff260d27cc60bb9.php"
+    },
+    {
+        "status":  200,
+        "bytes":  136870,
+        "type":  "Script",
+        "mime":  "application/javascript",
+        "url":  "https://vidstat.taboola.com/lite-unit/5.7.7/UnitWidgetItemDesktop.min.js",
+        "file":  "assets/40e051e080fb9188.js"
+    },
+    {
+        "status":  200,
+        "bytes":  207152,
+        "type":  "Script",
+        "mime":  "text/javascript",
+        "url":  "https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?fcd=true",
+        "file":  "assets/143ba8b7d4b397d5.js"
+    },
+    {
+        "status":  200,
+        "bytes":  461,
+        "type":  "Fetch",
+        "mime":  "application/json",
+        "url":  "https://fastlane.rubiconproject.com/a/api/fastlane.json?account_id=23962\u0026site_id=397738\u0026zone_id=4061111\u0026size_id=16\u0026rp_schain=1.0,1!admaru.com,938264,1,,,\u0026rf=https%3A%2F%2Fwww.joongang.co.kr%2Farticle%2F25469354\u0026tg_i.domain=joongang.co.kr\u0026tg_i.page=https%3A%2F%2Fwww.joongang.co.kr%2Farticle%2F25469354\u0026tg_i.cat=IAB14\u0026tg_i.documentLang=ko\u0026tg_i.pbadslot=%2F30349040%2FJA_PC_article%2FRE%2Finbanner_mid\u0026tk_flint=pbjs_lite_v9.49.1\u0026l_pb_bid_id=91b683219045bd8\u0026p_screen_res=800x600\u0026rp_secure=1\u0026rp_maxbids=1\u0026p_gpid=%2F30349040%2FJA_PC_article%2FRE%2Finbanner_mid\u0026m_ch_ua=%22Not%3AA-Brand%22%7Cv%3D%228%22%2C%22Chromium%22%7Cv%3D%22156%22%2C%22Google%20Chrome%22%7Cv%3D%22156%22\u0026m_ch_mobile=%3F0\u0026m_ch_platform=Windows\u0026slots=1\u0026rand=0.9582050527685407",
+        "file":  "assets/ee56125844f9e91c.json"
+    },
+    {
+        "status":  200,
+        "bytes":  68,
+        "type":  "Image",
+        "mime":  "image/png",
+        "url":  "https://lake.joongang.co.kr/lake.png?ts=1793621473616\u0026script_version=2\u0026event_type=ontime\u0026pcid=17936214631649045001604\u0026ping_second=10\u0026hostname=www.joongang.co.kr\u0026url=https%3A%2F%2Fwww.joongang.co.kr%2Farticle%2F25469354\u0026referralPath=\u0026browser=Chrome%20Headless\u0026browser_size=1440x1000\u0026browser_version=156.0.0.0\u0026device_category=desktop\u0026mobile_device_model=\u0026operating_system=Windows\u0026operating_system_version=10\u0026mobile_device_branding=\u0026screen_resolution=800x600\u0026mobile_device_info=\u0026language=ko-KR\u0026screen_colors=24\u0026visit_id=1793621463609\u0026visit_start_time=1793621463609\u0026page_number=1\u0026visit_pathname=%2Farticle%2F25469354\u0026visit_source=\u0026utm_medium=\u0026utm_campaign=\u0026utm_adcontent=\u0026visit_end_time=1793621463611",
+        "file":  "assets/1182478f1408334a.png"
+    },
+    {
+        "status":  200,
+        "bytes":  8188,
+        "type":  "Script",
+        "mime":  "text/javascript",
+        "url":  "https://static.dable.io/dist/plugin.min.js",
+        "file":  "assets/93af9b079f025924.js"
+    },
+    {
+        "status":  204,
+        "bytes":  0,
+        "type":  "XHR",
+        "mime":  "text/html",
+        "url":  "https://fundingchoicesmessages.google.com/el/AGSKWxXv9J3TMijxjeN9HJrw9JR8kfTCquwSFEpKT2S_eOESjeSzai30WI0m_EUUSbaM3EdSu-_0xaYQuL789LP0Xu_WWRItx5-jZburNkDDE4oqOMy0zo4BT1wU7emTBwK-XPK7xHMpoQ==",
+        "file":  "assets/13681b82f8de4f75.html"
+    },
+    {
+        "status":  200,
+        "bytes":  68,
+        "type":  "Image",
+        "mime":  "image/png",
+        "url":  "https://lake.joongang.co.kr/lake.png?ts=1793621483615\u0026script_version=2\u0026event_type=ontime\u0026pcid=17936214631649045001604\u0026ping_second=20\u0026hostname=www.joongang.co.kr\u0026url=https%3A%2F%2Fwww.joongang.co.kr%2Farticle%2F25469354\u0026referralPath=\u0026browser=Chrome%20Headless\u0026browser_size=1440x1000\u0026browser_version=156.0.0.0\u0026device_category=desktop\u0026mobile_device_model=\u0026operating_system=Windows\u0026operating_system_version=10\u0026mobile_device_branding=\u0026screen_resolution=800x600\u0026mobile_device_info=\u0026language=ko-KR\u0026screen_colors=24\u0026visit_id=1793621463609\u0026visit_start_time=1793621463609\u0026page_number=1\u0026visit_pathname=%2Farticle%2F25469354\u0026visit_source=\u0026utm_medium=\u0026utm_campaign=\u0026utm_adcontent=\u0026visit_end_time=1793621463611",
+        "file":  "assets/d4efd0035f82ea58.png"
+    },
+    {
+        "status":  200,
+        "bytes":  362019,
+        "type":  "Stylesheet",
+        "mime":  "text/css",
+        "url":  "https://assets.joongang.co.kr/css/common.min.css?v=202611021330",
+        "file":  "assets/7b278b460c62aea8.css"
+    },
+    {
+        "status":  200,
+        "bytes":  26243,
+        "type":  "Image",
+        "mime":  "image/png",
+        "url":  "https://tpc.googlesyndication.com/simgad/7838114776828512260",
+        "file":  "assets/c53e111d4054463d.png"
+    },
+    {
+        "status":  200,
+        "bytes":  4106,
+        "type":  "Image",
+        "mime":  "image/jpeg",
+        "url":  "https://pds.joongang.co.kr/joongangplus/card/202610/88b1f5c6-8560-4302-8d25-54b699a4abaf.jpg/_ir_top_144x144_/t.jpg",
+        "file":  "assets/b4255b02d1a2fe4f.jpg"
+    },
+    {
+        "status":  200,
+        "bytes":  8447,
+        "type":  "Script",
+        "mime":  "text/javascript",
+        "url":  "https://googleads.g.doubleclick.net/pagead/viewthroughconversion/17609481660/?random=1793621464605\u0026cv=11\u0026fst=1793621464605\u0026bg=ffffff\u0026guid=ON\u0026async=1\u0026en=gtag.config\u0026gtm=45be6as1z8f_AW-17609481660za20ozb846354240zd846354240xecxf1\u0026gcd=13l3l3l3l1l1\u0026dma=0\u0026tag_exp=115938466~115938468~118897920~118897930~120213116~120385423~120469145~120469153~121246026~121246034~123691370\u0026u_w=800\u0026u_h=600\u0026url=https%3A%2F%2Fwww.joongang.co.kr%2Farticle%2F25469354\u0026rcb=4\u0026frm=0\u0026tiba=%EB%8D%95%EC%9C%A0%EC%82%B0%EA%B9%8C%EC%A7%80%20%EB%82%B4%EB%A0%A4%EC%98%A8%20%EB%8B%A8%ED%92%8D%E2%80%A6%EB%B6%81%EC%AA%BD%20%EC%B0%AC%EA%B3%B5%EA%B8%B0%EC%97%90%20%EB%AC%BC%EB%93%9C%EB%8A%94%20%EC%86%8D%EB%8F%84%20%EB%B9%A8%EB%9D%BC%EC%A7%84%EB%8B%A4%20\u0026hn=www.googleadservices.com\u0026npa=0\u0026pscdl=noapi\u0026auid=198866810.1793621464\u0026uaa=x86\u0026uab=64\u0026uafvl=Not%253AA-Brand%3B8.0.0.0%7CChromium%3B156.0.8078.74%7CGoogle%2520Chrome%3B156.0.8078.74\u0026uamb=0\u0026uam=\u0026uap=Windows\u0026uapv=10.0.0\u0026uaw=0\u0026data=event%3Dgtag.config\u0026ept=9\u0026rfmt=3\u0026fmt=4",
+        "file":  "assets/dd3427302dde3e16.js"
+    },
+    {
+        "status":  200,
+        "bytes":  42,
+        "type":  "Fetch",
+        "mime":  "image/gif",
+        "url":  "https://pagead2.googlesyndication.com/pcs/activeview?xai=AKAOjssvQQvXY9RU5li2G7eZ1E046CwVQ_-z7VEl8PzGfUzJ246ULa61G_aGd73vROxc2iuDoZRs0WjvHWjw19k0j9KPyOvKdzfr9OfdkYC8F9Zto-LC4LEps1i5OCM-_MJuxJby5GiCIN_3kiqlkHXRf8IIuv_bBgQODZ8v3VP12dztwlqy7O2aBQY7OhPVN2Im\u0026sig=Cg0ArKJSzBtstnhkuiznEAE\u0026id=lidar2\u0026mcvt=1207\u0026p=910,227,1000,1197\u0026tm=1517.1999999997206\u0026tu=310.1999999997206\u0026mtos=1059,1207,1207,1207,1207\u0026tos=1059,148,0,0,0\u0026v=20261019\u0026bin=7\u0026avms=nio\u0026bs=1425,1000\u0026mc=1\u0026vu=1\u0026app=0\u0026itpl=0\u0026adk=3092121574\u0026rs=4\u0026la=0\u0026cr=0\u0026uach=WyJXaW5kb3dzIiwiMTAuMC4wIiwieDg2IiwiIiwiMTU2LjAuODA3OC43NCIsbnVsbCwwLG51bGwsIjY0IixbWyJOb3Q6QS1CcmFuZCIsIjguMC4wLjAiXSxbIkNocm9taXVtIiwiMTU2LjAuODA3OC43NCJdLFsiR29vZ2xlIENocm9tZSIsIjE1Ni4wLjgwNzguNzQiXV0sMF0%3D\u0026vs=4\u0026r=v\u0026co=8955426700\u0026rst=1793621466958\u0026rpt=918\u0026isd=0\u0026lsd=0\u0026met=mue\u0026wmsd=0\u0026pbe=0\u0026fle=0\u0026vae=0\u0026spb=0\u0026sfl=0\u0026ffslot=0\u0026reach=8\u0026io2=0",
+        "file":  "assets/456e505313f89c3e.bin"
+    },
+    {
+        "status":  204,
+        "bytes":  0,
+        "type":  "XHR",
+        "mime":  "text/html",
+        "url":  "https://fundingchoicesmessages.google.com/el/AGSKWxXv9J3TMijxjeN9HJrw9JR8kfTCquwSFEpKT2S_eOESjeSzai30WI0m_EUUSbaM3EdSu-_0xaYQuL789LP0Xu_WWRItx5-jZburNkDDE4oqOMy0zo4BT1wU7emTBwK-XPK7xHMpoQ==",
+        "file":  "assets/13681b82f8de4f75.html"
+    },
+    {
+        "status":  204,
+        "bytes":  0,
+        "type":  "Fetch",
+        "mime":  "",
+        "url":  "https://hbopenbid.pubmatic.com/translator?source=prebid-client\u0026gzip=1",
+        "file":  "assets/cac6ee7c804e28b6.bin"
+    },
+    {
+        "status":  200,
+        "bytes":  54,
+        "type":  "Script",
+        "mime":  "application/javascript",
+        "url":  "https://fundingchoicesmessages.google.com/f/AGSKWxW1LZa3oXWSfD0luo8CPPSyqe1hHcv44KmLJY3oLnUD33z1Rm4O_aTrFgPmB0eZ4lQcOue2I6MpMdFZUDi2U70xSNtYEh-LVjo_pE-U9JGtZB-4tqzPj8KPtTerPMoqtkzOnkJi0cxrDuDH_ozP02buiTwf12pvX4q9vMvAaZ3iURTDZr4CmKO8ZRdV/_/ad_iframe./search-ads?/480x60-/adzonetop./ad_notice.",
+        "file":  "assets/5f541837331728e6.js"
+    },
+    {
+        "status":  200,
+        "bytes":  4664,
+        "type":  "XHR",
+        "mime":  "application/json",
+        "url":  "https://ty-wf.taboola.com/VideoBidRequestHandlerServlet?oid=15\u0026width=434\u0026height=244\u0026pubid=169497\u0026tagid=953497\u0026crid=-1\u0026noaop=12\u0026sortOrderType=0\u0026cb=1793621475015\u0026mimes=5,10,11,12\u0026isvideo=0\u0026plmd=2\u0026mindur=1\u0026maxdur=210\u0026minbr=1\u0026maxbr=10000\u0026st=0\u0026seq=3\u0026pv=1821\u0026pt=1617023728\u0026tz=540\u0026viewable=true\u0026ddast=V9tekCABYDALj2evAIYDhaBAC49nrwCGA4WgUAAAAABgYA4gcAJDXxLIar5cItmLgsa9FmtFtLjIuNW7nwDSe74cZimQ2GAEBSE89iuFou3IKJy7IWbUa7tcS42LiVC99wshtuLJbZYAoAGsIy-30HBeX09JhdBlHR9bbYHU6z56BYA8AKmk6Hz3Wv1_1-d6nfb_c57D67xm_XWv4Ky-npMbv8ktVottysRnMAAAAAAHgA-P___4cAAAAAAIgAAAAAAJAAAAAAAKAACKgA-LcAELgAAAAAAMAA-P___9cAADjeABCIxTgAGtr1tbr8dp9b5Lf7_AEAAAAAAAIAAAAAQAIAkCBBWwIAILNsfALw_________x8DMECfeSMD8P___38DUNADAPDgAwDwIAQAAACwMgQQajv1uM4YrEEEACCg1FYE4AhgEkAnAFQAFlUA_____VYAAFcAAAABoZwrm_ZZALqDEm9hAAAAAAJjAAv0sPj9Zodd43e7DOD_________3wzg_wzgHw1AyKInLg1AyB8AQA3gFxAAYA3gFxAAgA1A3QD-_98ABOAAwg4AAAAA4A7g____Xw8AZJyLice0Gy5XrtVos7HYdoORxTBZeCyD2W4xHG4PgGsagoZTdOmyD0BDWGa_76CgnJ4es8sgKrreFrvDafYcFPMDmLDFaDWZbJbD2XIxGQxHw9FofwADsZoNEGAiBsvlZLKY7Faj1Wgz3I1mgwUCCMRgggAULRpMVqPRZDEZrkaT1Wy52O02CEDRqtVstBkMV7PJbLdbDQfD5WiEABO2GK0mk81yOFsuJoPhaDgaDREgZowz42o5ma01E4tlLVq5VmvhxDFZy1ae2XA1Wyw8Lptb9PqYHouVZbBZLbwIIBhwsxfJ0yKdSGwj32A5GC5MLudgNnJuLBbDcLGbbAaT5WhkXE7EEs3JIp3ILvuOczHxmHbD5cq1Gm02FttuMLIYJguPZTDbLYbDfcc4M66Wk9laM7FY1qKVa7UWThyTtWzlmQ1Xs8XC47K5Ra-P6bFYWQab1cLf2C03s8liNJvtG7vlZjZZjGazfYfO8F19zkbfYTL6qDzO5PWj1jkMCpfB4p2sTy_xZ3pQhhszp0wmPHZ3Rt3vpvYaFJ6Dx3QxllQz1dApFmfHCcfBYzAYHSaD0WE0GB1mg9GgiCWCi3Qi9fvtPofd5xa5PF_T33B3-S5iidJ0kU70Csvp6TG7_JLVaLbcrEYTsURwukgnopfxdFG_EgAAAAAAAAAAwBLAJgAAAAAAJ4BBLUezxWSdAAezmQyXs9lyAQAwpkJ1AX5I3c6s86w8dwGAd1Pgy7C49Y4BJtTvt_scdp9b5PJ8TX_D3eW7MgAARSMAM8BmgM8ABLFWq2UNAAAAIIANAAAAEMANoBuAN4BALDYO8P__708PAAAAIL4PABRlYmZmZmb2DwAgQCHWarW63Vir1QoIMJDdYjhYTiAAwCDIEyFAYNtNCKAQYDBEy9_t8kJAhwBiq8Fa0HtKj4cAAICAUM6VzciJgAIYzSaDUQT8____VwQUJIPCmMwigNhqsLZ0qQz-IgAAICCUc2UTEiPAQRaDuXI0l0wGc8lkOI0AgACOAAJicbr0CAA!\u0026proto=2,3,5,6\u0026encoded=1\u0026pstn=vforce2\u0026callback=\u0026wfv=1\u0026amp=0\u0026qsz=15\u0026ft=0\u0026pb=0\u0026pagg=1\u0026sd=undefined\u0026ctsldr=0\u0026ioovp=true\u0026distance=4393\u0026dtagid=3328966\u0026dpubid=594612\u0026abtst=dfrc_vA!t45!ufm_vA\u0026mPre=0.033\u0026cirf=https%3A%2F%2Fwww.joongang.co.kr\u0026en=1",
+        "file":  "assets/640c8120225c2d35.json"
+    },
+    {
+        "status":  200,
+        "bytes":  254516,
+        "type":  "Stylesheet",
+        "mime":  "text/css",
+        "url":  "https://assets.joongang.co.kr/css/layout.min.css?v=202611021330",
+        "file":  "assets/8cab47628fc480d8.css"
+    },
+    {
+        "status":  200,
+        "bytes":  51908,
+        "type":  "Script",
+        "mime":  "text/javascript",
+        "url":  "https://assets.joongang.co.kr/js/utils/utils.js?v=202611021332",
+        "file":  "assets/5fcb072fbd65053d.js"
+    },
+    {
+        "status":  200,
+        "bytes":  3742,
+        "type":  "Image",
+        "mime":  "image/webp",
+        "url":  "https://images.taboola.com/taboola/image/fetch/f_jpg%2Cq_auto%2Ch_134%2Cw_240%2Cc_fill%2Cg_faces:auto%2Ce_sharpen/https%3A//pds.joongang.co.kr/news/component/htmlphoto_mmdata/202611/02/d18a4e70-ed75-4594-b5d5-02fb63f91b88.jpg",
+        "file":  "assets/b2cf9674dcb0f432.jpg"
+    },
+    {
+        "status":  200,
+        "bytes":  2,
+        "type":  "Fetch",
+        "mime":  "application/json",
+        "url":  "https://securepubads.g.doubleclick.net/pagead/purl_config?url=https%3A%2F%2Fwww.joongang.co.kr%2Farticle%2F25469354\u0026puc_types=2%3A4\u0026pppnc=30349040\u0026pnc=30349040\u0026mpnc=136386782%2C21682743634%2C21818843116%2C22466671215%2C22734621065%2C22825748039%2C22996174068%2C36656269%2C5932629%2C83673359",
+        "file":  "assets/6134ed78e3052ca1.json"
+    },
+    {
+        "status":  200,
+        "bytes":  574709,
+        "type":  "Script",
+        "mime":  "application/javascript",
+        "url":  "https://vidstat.taboola.com/vpaid/units/36_3_0/infra/cmTagWIDGET_ITEM.js",
+        "file":  "assets/dae1e9bec7cc53d9.js"
+    },
+    {
+        "status":  200,
+        "bytes":  5724,
+        "type":  "Image",
+        "mime":  "image/jpeg",
+        "url":  "https://pds.joongang.co.kr/joongangplus/card/202604/1a7010e5-a2cb-43a8-8fc0-049318f9fa25.jpg/_ir_top_144x144_/t.jpg",
+        "file":  "assets/bc816adc431ee6d4.jpg"
+    },
+    {
+        "status":  200,
+        "bytes":  43,
+        "type":  "Image",
+        "mime":  "image/gif",
+        "url":  "https://cs.gssprt.jp/yie/ld/cs?dspid=dable\u0026uid=75990989.1793621470252",
+        "file":  "assets/f362e0a8c7a10f36.bin"
+    },
+    {
+        "status":  200,
+        "bytes":  141,
+        "type":  "Script",
+        "mime":  "text/javascript",
+        "url":  "https://gum.criteo.com/sync?s=1\u0026c=72\u0026r=2\u0026j=TRC.getRTUS",
+        "file":  "assets/e8cc8cca5d01ea81.js"
+    },
+    {
+        "status":  200,
+        "bytes":  342206,
+        "type":  "Script",
+        "mime":  "application/javascript",
+        "url":  "https://d2iyc2bes4ve1w.cloudfront.net/js/joongang_pb_kr.js",
+        "file":  "assets/6f00643576b50f24.js"
+    },
+    {
+        "status":  204,
+        "bytes":  0,
+        "type":  "XHR",
+        "mime":  "text/html",
+        "url":  "https://fundingchoicesmessages.google.com/el/AGSKWxXv9J3TMijxjeN9HJrw9JR8kfTCquwSFEpKT2S_eOESjeSzai30WI0m_EUUSbaM3EdSu-_0xaYQuL789LP0Xu_WWRItx5-jZburNkDDE4oqOMy0zo4BT1wU7emTBwK-XPK7xHMpoQ==",
+        "file":  "assets/13681b82f8de4f75.html"
+    },
+    {
+        "status":  200,
+        "bytes":  492441,
+        "type":  "Script",
+        "mime":  "application/javascript",
+        "url":  "https://www.googletagmanager.com/gtag/js?id=AW-17609481660\u0026cx=c\u0026gtm=4e6as1",
+        "file":  "assets/bccf4ca85c34807f.js"
+    },
+    {
+        "status":  200,
+        "bytes":  438612,
+        "type":  "Stylesheet",
+        "mime":  "text/css",
+        "url":  "https://assets.joongang.co.kr/css/article.min.css?v=202611021330",
+        "file":  "assets/35c3526ac544905b.css"
+    },
+    {
+        "status":  200,
+        "bytes":  20230,
+        "type":  "Fetch",
+        "mime":  "application/json",
+        "url":  "https://lima.joongang.co.kr/aiConversion/1.0/pub/integrate/25469354",
+        "file":  "assets/eb1577e7e6cb1456.json"
+    },
+    {
+        "status":  200,
+        "bytes":  667923,
+        "type":  "Script",
+        "mime":  "application/javascript",
+        "url":  "https://www.googletagmanager.com/gtm.js?id=GTM-55JDM9H",
+        "file":  "assets/221d1eecdaedbdf5.js"
+    },
+    {
+        "status":  200,
+        "bytes":  19,
+        "type":  "Fetch",
+        "mime":  "application/json",
+        "url":  "https://tlx.3lift.com/header/auction?lib=prebid\u0026v=9.49.1\u0026referrer=https%3A%2F%2Fwww.joongang.co.kr%2Farticle%2F25469354\u0026tmax=1500",
+        "file":  "assets/ec394f25a9a373f7.json"
+    },
+    {
+        "status":  200,
+        "bytes":  3700,
+        "type":  "Image",
+        "mime":  "image/webp",
+        "url":  "https://images.taboola.com/taboola/image/fetch/f_jpg%2Cq_auto%2Ch_134%2Cw_240%2Cc_fill%2Cg_faces:auto%2Ce_sharpen/https%3A//cdn.taboola.com/libtrc/static/thumbnails/IMAGE_UPSCALER/EIU/3327a4f8-dbe7-456c-9b43-4ebced8a680b__umP14ULk.jpg",
+        "file":  "assets/6e683777d2436ae4.jpg"
+    },
+    {
+        "status":  200,
+        "bytes":  246218,
+        "type":  "Script",
+        "mime":  "text/javascript",
+        "url":  "https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js",
+        "file":  "assets/9c8d1e67d118d816.js"
+    },
+    {
+        "status":  204,
+        "bytes":  0,
+        "type":  "Ping",
+        "mime":  "image/gif",
+        "url":  "https://trc.taboola.com/joongang-desktopnew/log/3/algo-data?lti=default\u0026ri=b6d70908ade906d9cbb0817230294d89\u0026sd=v2_c91bc4789e5543cb670db02ac2067188_c8f85926-3bb2-4e55-8b12-6e368561acef-tuct11e2035a_1793621466_1793621466_CNawjgYQoadhGJG3ruGZNCABKAEwdziKxgtA28cLSLLp1wNQnoMZWABgAGiE1IjLjPSX8v8BcAGAAQCIAQCQAQCYAQA\u0026ui=c8f85926-3bb2-4e55-8b12-6e368561acef-tuct11e2035a\u0026pi=%2Farticle%2F25469354\u0026pt=text\u0026vi=1793621466001\u0026tim=21%3A11%3A09.380\u0026id=5881\u0026cv=20261102-8-RELEASE\u0026type=ccd",
+        "file":  "assets/c1291408ac9e8523.bin"
+    },
+    {
+        "status":  200,
+        "bytes":  246218,
+        "type":  "Script",
+        "mime":  "text/javascript",
+        "url":  "https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js",
+        "file":  "assets/9c8d1e67d118d816.js"
+    },
+    {
+        "status":  200,
+        "bytes":  216159,
+        "type":  "Script",
+        "mime":  "text/javascript",
+        "url":  "https://assets.joongang.co.kr/js/article.js?v=202611021332",
+        "file":  "assets/ff7cc1c3a67048a7.js"
+    },
+    {
+        "status":  204,
+        "bytes":  0,
+        "type":  "XHR",
+        "mime":  "text/html",
+        "url":  "https://fundingchoicesmessages.google.com/el/AGSKWxXv9J3TMijxjeN9HJrw9JR8kfTCquwSFEpKT2S_eOESjeSzai30WI0m_EUUSbaM3EdSu-_0xaYQuL789LP0Xu_WWRItx5-jZburNkDDE4oqOMy0zo4BT1wU7emTBwK-XPK7xHMpoQ==",
+        "file":  "assets/13681b82f8de4f75.html"
+    },
+    {
+        "status":  200,
+        "bytes":  89501,
+        "type":  "Script",
+        "mime":  "text/javascript",
+        "url":  "https://assets.joongang.co.kr/js/lib/jquery-3.6.0.min.js",
+        "file":  "assets/8ac64371e9f9f1f3.js"
+    },
+    {
+        "status":  200,
+        "bytes":  2300,
+        "type":  "Script",
+        "mime":  "text/javascript",
+        "url":  "https://assets.joongang.co.kr/js/utils/messageUtil.js?v=202611021332",
+        "file":  "assets/a508e0456d4e6c52.js"
+    },
+    {
+        "status":  200,
+        "bytes":  625110,
+        "type":  "Script",
+        "mime":  "text/javascript",
+        "url":  "https://pagead2.googlesyndication.com/pagead/managed/js/adsense/m202610280101/show_ads_impl.js?bust=122881933",
+        "file":  "assets/0ffad7e3e87de85d.js"
+    },
+    {
+        "status":  200,
+        "bytes":  515557,
+        "type":  "Script",
+        "mime":  "application/javascript",
+        "url":  "https://www.googletagmanager.com/gtag/destination?id=AW-318905883\u0026cx=c\u0026gtm=4e6as1",
+        "file":  "assets/a7d3c47ef6648e64.js"
+    },
+    {
+        "status":  200,
+        "bytes":  197088,
+        "type":  "Font",
+        "mime":  "font/woff2",
+        "url":  "https://font.joongang.co.kr/v25/NotoSansKR-Bold.woff2",
+        "file":  "assets/9b4ef96f7d73aa91.woff2"
+    },
+    {
+        "status":  200,
+        "bytes":  65792,
+        "type":  "Image",
+        "mime":  "image/jpeg",
+        "url":  "https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202610/13/f44c4997-f5a1-4822-b356-f40214b5f7e4.jpg",
+        "file":  "assets/e3c6b413fe694f4a.jpg"
+    },
+    {
+        "status":  200,
+        "bytes":  7690,
+        "type":  "Image",
+        "mime":  "image/webp",
+        "url":  "https://images.taboola.com/taboola/image/fetch/c_crop%2Cf_jpg%2Cq_auto%2Ce_sharpen%2Car_1.7778%2Cw_1600%2Cx_0%2Cy_0/c_fill%2Cw_240%2Ch_134/https%3A//cdn.taboola.com/libtrc/static/thumbnails/129746f4e2f6e311d59beba71a92b028.jpg",
+        "file":  "assets/d9b45835c5695911.jpg"
+    },
+    {
+        "status":  200,
+        "bytes":  14032,
+        "type":  "Image",
+        "mime":  "image/jpeg",
+        "url":  "https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202611/02/a9f2bd26-2b28-4da7-8dca-8bc82835699e.jpg/_ir_400x224_/",
+        "file":  "assets/b623e46471bf6f39.jpg"
+    },
+    {
+        "status":  204,
+        "bytes":  0,
+        "type":  "Fetch",
+        "mime":  "",
+        "url":  "https://beacon.taboola.com/?ab=default\u0026pub=joongang-desktopnew\u0026ui=c8f85926-3bb2-4e55-8b12-6e368561acef-tuct11e2035a\u0026event=fraud-detection\u0026message=title%2Fdescription%20has%20been%20changed\u0026oldValue=%E8%88%87%20%EC%9E%90%EC%B1%85%EA%B3%A8%20%EB%90%9C%20%E2%80%981%EC%96%B5%20%EC%99%80%EC%9D%B8%E2%80%99%E2%80%A6%EC%9D%BC%20%EB%8B%A8%20%EC%A1%B0%ED%9D%AC%EB%8C%80%20%ED%9D%A0%EC%A7%91%EB%82%B4%EA%B3%A0%20%E2%80%98%ED%83%84%ED%95%B5...\u0026newValue=%E8%88%87%20%EC%9E%90%EC%B1%85%EA%B3%A8%20%EB%90%9C%20%E2%80%981%EC%96%B5%20%EC%99%80%EC%9D%B8%E2%80%99%E2%80%A6%EC%9D%BC%EB%8B%A8%20%EC%A1%B0%ED%9D%AC%EB%8C%80%20%ED%9D%A0%EC%A7%91%EB%82%B4%EA%B3%A0%20%E2%80%98%ED%83%84%ED%95%B5%20%EB%B9%8C%EB%93%9C%EC%97%85%E2%80%99%20%7C%20%EC%A4%91%EC%95%99%EC%9D%BC%EB%B3%B4\u0026eventType=text",
+        "file":  "assets/09434bd084f51385.bin"
+    },
+    {
+        "status":  200,
+        "bytes":  27034,
+        "type":  "Script",
+        "mime":  "text/javascript",
+        "url":  "https://www.youtube.com/s/player/11a45ffb/www-widgetapi.vflset/www-widgetapi.js",
+        "file":  "assets/86836d6b6adaa786.js"
+    },
+    {
+        "status":  200,
+        "bytes":  42,
+        "type":  "Image",
+        "mime":  "image/gif",
+        "url":  "https://www.google.co.kr/pagead/1p-user-list/318905883/?random=1793621466676\u0026cv=11\u0026fst=1793620800000\u0026bg=ffffff\u0026guid=ON\u0026async=1\u0026gtm=45be6as1v9101366182z8846354240za20gzb846354240zd846354240xeaxf1\u0026gcd=13l3l3l3l1l1\u0026dma=0\u0026tag_exp=115938466~115938468~118897920~118897930~120213116~120385422~120412528~120469145~120469153~121246026~121246034~123620775~123691370~123785232~123814184\u0026u_w=800\u0026u_h=600\u0026url=https%3A%2F%2Fwww.joongang.co.kr%2Farticle%2F25469354\u0026rcb=9\u0026frm=0\u0026tiba=%EB%8D%95%EC%9C%A0%EC%82%B0%EA%B9%8C%EC%A7%80%20%EB%82%B4%EB%A0%A4%EC%98%A8%20%EB%8B%A8%ED%92%8D%E2%80%A6%EB%B6%81%EC%AA%BD%20%EC%B0%AC%EA%B3%B5%EA%B8%B0%EC%97%90%20%EB%AC%BC%EB%93%9C%EB%8A%94%20%EC%86%8D%EB%8F%84%20%EB%B9%A8%EB%9D%BC%EC%A7%84%EB%8B%A4%20\u0026hn=www.googleadservices.com\u0026npa=0\u0026pscdl=noapi\u0026auid=198866810.1793621464\u0026uaa=x86\u0026uab=64\u0026uafvl=Not%253AA-Brand%3B8.0.0.0%7CChromium%3B156.0.8078.74%7CGoogle%2520Chrome%3B156.0.8078.74\u0026uamb=0\u0026uam=\u0026uap=Windows\u0026uapv=10.0.0\u0026uaw=0\u0026_tu=CA\u0026ept=9\u0026rfmt=3\u0026fmt=3\u0026is_vtc=1\u0026cid=CAQS4QEAQM4h3DiOM4fDMWATVrSK3j9oUuw5FEivndv1V8oq7KcjHsRGBZyhC_QB4ck0aKCFO_ifB_ow2tTntu8fakJDzvXri5_3iTtrqFBsF-ZxKgWHjOsc5opNAFD6RezGo40uTWh1OSyQkx-jTkYxzeQ0vLK0-uDGSPdF6LeT0DVgzVq5bmN2VYOKV4EytlY0ZhjTr3ndjdAm9blA8UucgGOuzTmyTLumenv1CFoVx6i33tE0n9i7n3V3vC5HJcGhstQm2e190Gb_n5LIfFnewlhOgTfwIc8qnLxJDMhUNXAjuiE\u0026random=1670638526\u0026rmt_tld=1\u0026ipr=y",
+        "file":  "assets/fdb6905042889059.bin"
+    },
+    {
+        "status":  200,
+        "bytes":  6007,
+        "type":  "Script",
+        "mime":  "text/javascript",
+        "url":  "https://assets.joongang.co.kr/js/plugin/jquery.tmpl.min.js",
+        "file":  "assets/2fcc2e87dcedbffc.js"
+    },
+    {
+        "status":  200,
+        "bytes":  10322,
+        "type":  "Script",
+        "mime":  "text/javascript",
+        "url":  "https://assets.joongang.co.kr/js/article.common.js?v=202611021332",
+        "file":  "assets/89180f52110547d2.js"
+    },
+    {
+        "status":  200,
+        "bytes":  246218,
+        "type":  "Script",
+        "mime":  "text/javascript",
+        "url":  "https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js",
+        "file":  "assets/9c8d1e67d118d816.js"
+    },
+    {
+        "status":  200,
+        "bytes":  61781,
+        "type":  "Script",
+        "mime":  "text/javascript",
+        "url":  "https://assets.joongang.co.kr/js/subscribe/subs.js?v=202611021332",
+        "file":  "assets/5c634dd873a7fe9a.js"
+    },
+    {
+        "status":  200,
+        "bytes":  111637,
+        "type":  "Script",
+        "mime":  "text/javascript",
+        "url":  "https://assets.joongang.co.kr/js/comment.js?v=202611021332",
+        "file":  "assets/83caa27e0c0f7c51.js"
+    },
+    {
+        "status":  200,
+        "bytes":  194816,
+        "type":  "Font",
+        "mime":  "font/woff2",
+        "url":  "https://font.joongang.co.kr/v25/NotoSansKR-Medium.woff2",
+        "file":  "assets/d69d427663500ec9.woff2"
+    },
+    {
+        "status":  200,
+        "bytes":  1476,
+        "type":  "Stylesheet",
+        "mime":  "text/css",
+        "url":  "https://dnzedhceh7nim.cloudfront.net/acv/joongang/css/admaru-player-app.css",
+        "file":  "assets/7846b4735f118577.css"
+    },
+    {
+        "status":  200,
+        "bytes":  312218,
+        "type":  "Script",
+        "mime":  "application/x-javascript",
+        "url":  "https://connect.facebook.net/signals/config/2640666526180462?v=2.9.433\u0026r=stable\u0026domain=www.joongang.co.kr\u0026hme=4453c87d489b6902031c012cadd2731893cd69feb64fe8a61b339727247a7703\u0026ex_m=118%2C242%2C171%2C27%2C82%2C83%2C162%2C78%2C77%2C11%2C181%2C102%2C20%2C153%2C141%2C46%2C85%2C90%2C149%2C176%2C183%2C8%2C4%2C5%2C7%2C6%2C3%2C103%2C115%2C32%2C17%2C31%2C18%2C33%2C34%2C35%2C37%2C55%2C163%2C87%2C126%2C22%2C24%2C51%2C47%2C49%2C48%2C95%2C104%2C108%2C124%2C160%2C164%2C53%2C125%2C29%2C26%2C133%2C79%2C43%2C166%2C165%2C167%2C157%2C155%2C30%2C42%2C66%2C123%2C178%2C80%2C21%2C128%2C93%2C76%2C23%2C97%2C98%2C130%2C96%2C151%2C150%2C154%2C109%2C177%2C180%2C41%2C56%2C127%2C54%2C161%2C72%2C185%2C110%2C184%2C211%2C263%2C84%2C283%2C282%2C281%2C14%2C25%2C28%2C40%2C62%2C117%2C68%2C10%2C73%2C111%2C112%2C113%2C119%2C144%2C38%2C36%2C146%2C147%2C148%2C143%2C142%2C172%2C86%2C175%2C173%2C174%2C57%2C69%2C67%2C137%2C19%2C179%2C52%2C333%2C334%2C335%2C332%2C349%2C371%2C256%2C238%2C70%2C239%2C237%2C374%2C365%2C59%2C257%2C121%2C145%2C92%2C135%2C61%2C134%2C140%2C139%2C65%2C74%2C168%2C88%2C89%2C129%2C44%2C39%2C60%2C63%2C114%2C182%2C1%2C138%2C16%2C136%2C12%2C2%2C64%2C105%2C15%2C75%2C71%2C132%2C101%2C100%2C187%2C188%2C106%2C107%2C9%2C116%2C186%2C58%2C158%2C99%2C91%2C81%2C131%2C120%2C169%2C50%2C159%2C0%2C94%2C152%2C156%2C170%2C45%2C122%2C13%2C189%2C276%2C274%2C269%2C271%2C272%2C273%2C270%2C268%2C255%2C275%2C277%2C267%2C218%2C219%2C279%2C278%2C280%2C266%2C265%2C364%2C200%2C202%2C203%2C204%2C208%2C207%2C209%2C205%2C206%2C201%2C199%2C198%2C285%2C231%2C226%2C229%2C230%2C224%2C399%2C227%2C228%2C259%2C225%2C223%2C254%2C287%2C243%2C216%2C217%2C213%2C214%2C215%2C212%2C210%2C221%2C222%2C220%2C336%2C392%2C357%2C358%2C360%2C361%2C359%2C356%2C355%2C232%2C290%2C297%2C298%2C291%2C293%2C296%2C294%2C295%2C292%2C289%2C308%2C302%2C305%2C301%2C309%2C306%2C300%2C304%2C307%2C303%2C299%2C351%2C368",
+        "file":  "assets/a5603017e4b23c4d.js"
+    },
+    {
+        "status":  200,
+        "bytes":  10337,
+        "type":  "Image",
+        "mime":  "image/jpeg",
+        "url":  "https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202611/02/57edcbfc-57a7-4aa8-b1f1-84de2271a6f2.jpg/_ir_400x224_/",
+        "file":  "assets/f8be1987ed387229.jpg"
+    },
+    {
+        "status":  204,
+        "bytes":  0,
+        "type":  "Image",
+        "mime":  "text/plain",
+        "url":  "https://ssp.mman.kr/cm.mezzo/?partnerKey=dable\u0026buyerid=75990989.1793621470252",
+        "file":  "assets/7022cf046d070532.bin"
+    },
+    {
+        "status":  204,
+        "bytes":  0,
+        "type":  "Ping",
+        "mime":  "image/gif",
+        "url":  "https://trc.taboola.com/joongang-desktopnew/log/3/algo-data?lti=default\u0026ri=b6d70908ade906d9cbb0817230294d89\u0026sd=v2_c91bc4789e5543cb670db02ac2067188_c8f85926-3bb2-4e55-8b12-6e368561acef-tuct11e2035a_1793621466_1793621466_CNawjgYQoadhGJG3ruGZNCABKAEwdziKxgtA28cLSLLp1wNQnoMZWABgAGiE1IjLjPSX8v8BcAGAAQCIAQCQAQCYAQA\u0026ui=c8f85926-3bb2-4e55-8b12-6e368561acef-tuct11e2035a\u0026pi=%2Farticle%2F25469354\u0026pt=text\u0026vi=1793621466001\u0026tim=21%3A11%3A09.523\u0026id=90164\u0026cv=20261102-8-RELEASE\u0026type=ccd",
+        "file":  "assets/de5435e55d80723e.bin"
+    },
+    {
+        "status":  200,
+        "bytes":  246218,
+        "type":  "Script",
+        "mime":  "text/javascript",
+        "url":  "https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js",
+        "file":  "assets/9c8d1e67d118d816.js"
+    },
+    {
+        "status":  200,
+        "bytes":  27364,
+        "type":  "Image",
+        "mime":  "image/png",
+        "url":  "https://tpc.googlesyndication.com/simgad/10961808283485834447",
+        "file":  "assets/13b09e0769f2fb91.png"
+    },
+    {
+        "status":  200,
+        "bytes":  57313,
+        "type":  "Fetch",
+        "mime":  "application/javascript",
+        "url":  "https://trc.taboola.com/joongang-desktopnew/trc/3/json?llvl=2\u0026tim=21%3A11%3A06.001\u0026lti=default\u0026pubit=i\u0026t=1\u0026data=%7B%22id%22%3A%2254662%22%2C%22sd%22%3A%22%22%2C%22ui%22%3A%22%22%2C%22ii%22%3A%22%2Farticle%2F25469354%22%2C%22it%22%3A%22text%22%2C%22vi%22%3A1793621466001%2C%22cv%22%3A%2220261102-8-RELEASE%22%2C%22uiv%22%3A%22default%22%2C%22u%22%3A%22https%3A%2F%2Fwww.joongang.co.kr%2Farticle%2F25469354%22%2C%22qs%22%3A%22%22%2C%22bv%22%3A%220%22%2C%22btv%22%3A%220%22%2C%22ul%22%3A%5B%22ko-KR%22%2C%22ko%22%2C%22en-US%22%2C%22en%22%5D%2C%22cos%22%3A%224g%22%2C%22bu%22%3A%22https%3A%2F%2Fwww.joongang.co.kr%2Farticle%2F25469354%22%2C%22vpi%22%3A%22%2Farticle%2F25469354%22%2C%22bad%22%3A-1%2C%22sw%22%3A800%2C%22sh%22%3A600%2C%22bw%22%3A1440%2C%22bh%22%3A1000%2C%22dw%22%3A1498%2C%22dh%22%3A7327%2C%22sde%22%3A%221.000%22%2C%22lt%22%3A%22default%22%2C%22r%22%3A%5B%7B%22li%22%3A%22rbox-t2m%22%2C%22uip%22%3A%22Below%20Article%20Thumbnails%201%22%2C%22orig_uip%22%3A%22Below%20Article%20Thumbnails%201%22%2C%22s%22%3A4%2C%22uim%22%3A%22alternating-thumbnails-a%3Aabp%3D0%22%2C%22cd%22%3A5320.22%2C%22mw%22%3A892.38%7D%2C%7B%22li%22%3A%22rbox-t2m%22%2C%22uip%22%3A%22Below%20Article%20Thumbnails%202%22%2C%22orig_uip%22%3A%22Below%20Article%20Thumbnails%202%22%2C%22s%22%3A4%2C%22uim%22%3A%22alternating-thumbnails-b%3Aabp%3D0%22%2C%22cd%22%3A5320.22%2C%22mw%22%3A892.38%7D%2C%7B%22li%22%3A%22rbox-t2m%22%2C%22uip%22%3A%22Below%20Article%20Thumbnails%203%22%2C%22orig_uip%22%3A%22Below%20Article%20Thumbnails%203%22%2C%22s%22%3A2%2C%22uim%22%3A%22thumbnails-a%3Aabp%3D0%22%2C%22cd%22%3A5695.22%2C%22mw%22%3A461.09%7D%2C%7B%22li%22%3A%22rbox-t2m%22%2C%22uip%22%3A%22Below%20Article%20Thumbnails%204%22%2C%22orig_uip%22%3A%22Below%20Article%20Thumbnails%204%22%2C%22s%22%3A2%2C%22uim%22%3A%22thumbnails-b%3Aabp%3D0%22%2C%22cd%22%3A5949.22%2C%22mw%22%3A461.09%7D%5D%2C%22uad%22%3A%7B%22mobile%22%3Afalse%2C%22model%22%3A%22%22%2C%22platform%22%3A%22Windows%22%2C%22platformVersion%22%3A%2210.0.0%22%2C%22uaFullVersion%22%3A%22156.0.8078.74%22%7D%2C%22cacheKey%22%3A%22text%3D%2Farticle%2F25469354%2CBelow%20Article%20Thumbnails%201%3Dalternating-thumbnails-a%3Aabp%3D0%2CBelow%20Article%20Thumbnails%202%3Dalternating-thumbnails-b%3Aabp%3D0%2CBelow%20Article%20Thumbnails%203%3Dthumbnails-a%3Aabp%3D0%2CBelow%20Article%20Thumbnails%204%3Dthumbnails-b%3Aabp%3D0%22%2C%22_cn%22%3A%22tions_1%22%2C%22lbt%22%3A1793613665229%2C%22wc%22%3Atrue%2C%22bs%22%3A%7B%22at%22%3A1%2C%22zm%22%3A0%2C%22ls%22%3Atrue%2C%22lm%22%3A-1%2C%22lt%22%3A-1%7D%7D",
+        "file":  "assets/c9ffb4e031004b4e.js"
+    },
+    {
+        "status":  200,
+        "bytes":  36121,
+        "type":  "Script",
+        "mime":  "text/javascript",
+        "url":  "https://static.criteo.net/js/ld/publishertag.ids.js",
+        "file":  "assets/c82cd44a7da25bd7.js"
+    },
+    {
+        "status":  200,
+        "bytes":  57209,
+        "type":  "Script",
+        "mime":  "text/javascript",
+        "url":  "https://assets.joongang.co.kr/js/utils/article.module.js?v=202611021332",
+        "file":  "assets/d31b1b5ef8d8db3d.js"
+    },
+    {
+        "status":  200,
+        "bytes":  8074,
+        "type":  "Image",
+        "mime":  "image/webp",
+        "url":  "https://images.taboola.com/taboola/image/fetch/f_jpg%2Cq_auto%2Ch_134%2Cw_240%2Cc_fill%2Cg_faces:auto%2Ce_sharpen/https%3A//pds.joongang.co.kr/news/component/htmlphoto_mmdata/202610/27/8ce1ca63-0e57-43f8-8aeb-7af8cb93ab00.jpg",
+        "file":  "assets/431f049cc5bf4783.jpg"
+    },
+    {
+        "status":  200,
+        "bytes":  129983,
+        "type":  "Script",
+        "mime":  "text/javascript",
+        "url":  "https://securepubads.g.doubleclick.net/tag/js/gpt.js",
+        "file":  "assets/5b2ed0116e81cfa1.js"
+    },
+    {
+        "status":  200,
+        "bytes":  14013,
+        "type":  "Image",
+        "mime":  "image/jpeg",
+        "url":  "https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202611/01/70c51417-7f87-413a-9a68-d7ae9848d1ec.jpg/_ir_400x224_/",
+        "file":  "assets/0313e3a876b3307a.jpg"
+    },
+    {
+        "status":  200,
+        "bytes":  0,
+        "type":  "Script",
+        "mime":  "application/javascript",
+        "url":  "https://tracker.digitalcamp.co.kr/dcamp_load_V2.php?mc=NjY5NDQ\u0026t=script\u0026w=970\u0026h=90\u0026url={INSERT%20PASSBACK%20URL}",
+        "file":  "assets/770f6a79bfd667d3.php"
+    },
+    {
+        "status":  200,
+        "bytes":  3166,
+        "type":  "Script",
+        "mime":  "text/javascript",
+        "url":  "https://assets.joongang.co.kr/js/more.js?v=202611021332",
+        "file":  "assets/b87c13d5658d1774.js"
+    },
+    {
+        "status":  200,
+        "bytes":  43,
+        "type":  "Image",
+        "mime":  "image/gif",
+        "url":  "https://rtb-csync.smartadserver.com/redir/?partnerid=190\u0026partneruserid=48779823.1793621470250\u0026gdpr=0\u0026gdpr_consent=",
+        "file":  "assets/d6fe933fa8f5d2f9.bin"
+    },
+    {
+        "status":  200,
+        "bytes":  23,
+        "type":  "XHR",
+        "mime":  "application/json",
+        "url":  "https://nam.veta.naver.com/nac/2",
+        "file":  "assets/55e5d2ff7f1f37e6.json"
+    },
+    {
+        "status":  200,
+        "bytes":  3044,
+        "type":  "Script",
+        "mime":  "text/javascript",
+        "url":  "https://tpc.googlesyndication.com/pagead/js/r20261030/r20110914/client/window_focus.js",
+        "file":  "assets/cc387a20a5993706.js"
+    },
+    {
+        "status":  204,
+        "bytes":  0,
+        "type":  "Ping",
+        "mime":  "image/gif",
+        "url":  "https://trc.taboola.com/joongang-desktopnew/log/3/algo-data?lti=default\u0026ri=b6d70908ade906d9cbb0817230294d89\u0026sd=v2_c91bc4789e5543cb670db02ac2067188_c8f85926-3bb2-4e55-8b12-6e368561acef-tuct11e2035a_1793621466_1793621466_CNawjgYQoadhGJG3ruGZNCABKAEwdziKxgtA28cLSLLp1wNQnoMZWABgAGiE1IjLjPSX8v8BcAGAAQCIAQCQAQCYAQA\u0026ui=c8f85926-3bb2-4e55-8b12-6e368561acef-tuct11e2035a\u0026pi=%2Farticle%2F25469354\u0026pt=text\u0026vi=1793621466001\u0026tim=21%3A11%3A09.616\u0026id=43548\u0026cv=20261102-8-RELEASE\u0026type=ccd",
+        "file":  "assets/9b816af47ce69016.bin"
+    },
+    {
+        "status":  200,
+        "bytes":  269228,
+        "type":  "Script",
+        "mime":  "application/x-javascript",
+        "url":  "https://connect.facebook.net/ko_KR/bundle/sdk.js/",
+        "file":  "assets/f43389af81e56323.js"
+    },
+    {
+        "status":  200,
+        "bytes":  1301909,
+        "type":  "Script",
+        "mime":  "application/javascript",
+        "url":  "https://cdn.taboola.com/libtrc/joongang-desktopnew/loader.js",
+        "file":  "assets/784df9da4642a6e9.js"
+    },
+    {
+        "status":  200,
+        "bytes":  497,
+        "type":  "Fetch",
+        "mime":  "application/json",
+        "url":  "https://fastlane.rubiconproject.com/a/api/fastlane.json?account_id=23962\u0026site_id=397738\u0026zone_id=2500846\u0026size_id=15\u0026alt_size_ids=14%2C16\u0026rp_schain=1.0,1!admaru.com,938264,1,,,\u0026rf=https%3A%2F%2Fwww.joongang.co.kr%2Farticle%2F25469354\u0026tg_i.domain=joongang.co.kr\u0026tg_i.page=https%3A%2F%2Fwww.joongang.co.kr%2Farticle%2F25469354\u0026tg_i.cat=IAB14\u0026tg_i.documentLang=ko\u0026tg_i.pbadslot=%2F30349040%2FJA_PC_article%2FRE%2Finbanner_336x280(2-2)\u0026tk_flint=pbjs_lite_v9.49.1\u0026l_pb_bid_id=6b4ef8fd5b33d2\u0026p_screen_res=800x600\u0026rp_secure=1\u0026rp_maxbids=1\u0026p_gpid=%2F30349040%2FJA_PC_article%2FRE%2Finbanner_336x280(2-2)\u0026m_ch_ua=%22Not%3AA-Brand%22%7Cv%3D%228%22%2C%22Chromium%22%7Cv%3D%22156%22%2C%22Google%20Chrome%22%7Cv%3D%22156%22\u0026m_ch_mobile=%3F0\u0026m_ch_platform=Windows\u0026slots=1\u0026rand=0.10358663197297735",
+        "file":  "assets/f695334c6b25fb70.json"
+    },
+    {
+        "status":  200,
+        "bytes":  297,
+        "type":  "Fetch",
+        "mime":  "application/json",
+        "url":  "https://lima.joongang.co.kr/espresso/1.0/pub/articles",
+        "file":  "assets/0906e65197914ab7.json"
+    },
+    {
+        "status":  200,
+        "bytes":  8491,
+        "type":  "Script",
+        "mime":  "text/javascript",
+        "url":  "https://googleads.g.doubleclick.net/pagead/viewthroughconversion/318905883/?random=1793621466676\u0026cv=11\u0026fst=1793621466676\u0026bg=ffffff\u0026guid=ON\u0026async=1\u0026gtm=45be6as1v9101366182z8846354240za20gzb846354240zd846354240xeaxf1\u0026gcd=13l3l3l3l1l1\u0026dma=0\u0026tag_exp=115938466~115938468~118897920~118897930~120213116~120385422~120412528~120469145~120469153~121246026~121246034~123620775~123691370~123785232~123814184\u0026u_w=800\u0026u_h=600\u0026url=https%3A%2F%2Fwww.joongang.co.kr%2Farticle%2F25469354\u0026rcb=9\u0026frm=0\u0026tiba=%EB%8D%95%EC%9C%A0%EC%82%B0%EA%B9%8C%EC%A7%80%20%EB%82%B4%EB%A0%A4%EC%98%A8%20%EB%8B%A8%ED%92%8D%E2%80%A6%EB%B6%81%EC%AA%BD%20%EC%B0%AC%EA%B3%B5%EA%B8%B0%EC%97%90%20%EB%AC%BC%EB%93%9C%EB%8A%94%20%EC%86%8D%EB%8F%84%20%EB%B9%A8%EB%9D%BC%EC%A7%84%EB%8B%A4%20\u0026hn=www.googleadservices.com\u0026npa=0\u0026pscdl=noapi\u0026auid=198866810.1793621464\u0026uaa=x86\u0026uab=64\u0026uafvl=Not%253AA-Brand%3B8.0.0.0%7CChromium%3B156.0.8078.74%7CGoogle%2520Chrome%3B156.0.8078.74\u0026uamb=0\u0026uam=\u0026uap=Windows\u0026uapv=10.0.0\u0026uaw=0\u0026_tu=CA\u0026ept=9\u0026rfmt=3\u0026fmt=4",
+        "file":  "assets/f0a305c4ff8e94af.js"
+    },
+    {
+        "status":  200,
+        "bytes":  188332,
+        "type":  "Font",
+        "mime":  "font/woff2",
+        "url":  "https://font.joongang.co.kr/v25/NotoSansKR-Black.woff2",
+        "file":  "assets/98d39c564b7e973f.woff2"
+    },
+    {
+        "status":  200,
+        "bytes":  65520,
+        "type":  "Other",
+        "mime":  "text/plain",
+        "url":  "https://securepubads.g.doubleclick.net/pagead/managed/dict/m202610290101/gpt",
+        "file":  "assets/827dcf62dfc3bb45.bin"
+    },
+    {
+        "status":  204,
+        "bytes":  0,
+        "type":  "Fetch",
+        "mime":  "",
+        "url":  "https://api.w.inmobi.com/openrtb/bidder/prebidjs",
+        "file":  "assets/f62e3666ebf2c36b.bin"
+    },
+    {
+        "status":  200,
+        "bytes":  9676,
+        "type":  "Image",
+        "mime":  "image/webp",
+        "url":  "https://images.taboola.com/taboola/image/fetch/f_jpg%2Cq_auto%2Ch_134%2Cw_240%2Cc_fill%2Cg_faces:auto%2Ce_sharpen/https%3A//cdn.taboola.com/libtrc/static/thumbnails/726fed212326d6162b23f7de29a46103.png",
+        "file":  "assets/87121d5f5d64c5fb.png"
+    },
+    {
+        "status":  200,
+        "bytes":  5856,
+        "type":  "Image",
+        "mime":  "image/webp",
+        "url":  "https://images.taboola.com/taboola/image/fetch/f_jpg%2Cq_auto%2Ch_134%2Cw_240%2Cc_fill%2Cg_faces:auto%2Ce_sharpen/https%3A//pds.joongang.co.kr/news/component/htmlphoto_mmdata/202611/02/22c96eec-fc6a-4b68-baeb-1957cd0fd57e.jpg",
+        "file":  "assets/37e4380f0ab589fb.jpg"
+    },
+    {
+        "status":  200,
+        "bytes":  27,
+        "type":  "Fetch",
+        "mime":  "application/json",
+        "url":  "https://connect.facebook.net/app_config/json/1011513095546498/",
+        "file":  "assets/071ec61ac46aa129.json"
+    },
+    {
+        "status":  200,
+        "bytes":  8113,
+        "type":  "XHR",
+        "mime":  "application/json",
+        "url":  "https://cruz.joongang.co.kr/rel?tid=25469354\u0026tit=%EB%8D%95%EC%9C%A0%EC%82%B0%EA%B9%8C%EC%A7%80%20%EB%82%B4%EB%A0%A4%EC%98%A8%20%EB%8B%A8%ED%92%8D%E2%80%A6%EB%B6%81%EC%AA%BD%20%EC%B0%AC%EA%B3%B5%EA%B8%B0%EC%97%90%20%EB%AC%BC%EB%93%9C%EB%8A%94%20%EC%86%8D%EB%8F%84%20%EB%B9%A8%EB%9D%BC%EC%A7%84%EB%8B%A4%20%7C%20%EC%A4%91%EC%95%99%EC%9D%BC%EB%B3%B4\u0026cnt=30\u0026gid=\u0026rnd=N",
+        "file":  "assets/e102dfa67c94cf3a.json"
+    },
+    {
+        "status":  200,
+        "bytes":  3523,
+        "type":  "Script",
+        "mime":  "text/javascript",
+        "url":  "https://assets.joongang.co.kr/js/lib/bodyScrollLock.min.js",
+        "file":  "assets/691e190f77bb31cd.js"
+    },
+    {
+        "status":  200,
+        "bytes":  2253,
+        "type":  "Script",
+        "mime":  "text/javascript",
+        "url":  "https://assets.joongang.co.kr/js/lib/dayjs-utc.js",
+        "file":  "assets/f27e060c498f41db.js"
+    },
+    {
+        "status":  200,
+        "bytes":  696680,
+        "type":  "Script",
+        "mime":  "text/javascript",
+        "url":  "https://securepubads.g.doubleclick.net/pagead/managed/js/gpt/m202610260101/pubads_impl.js",
+        "file":  "assets/fe0071161469f548.js"
+    },
+    {
+        "status":  200,
+        "bytes":  59996,
+        "type":  "Stylesheet",
+        "mime":  "text/css",
+        "url":  "https://assets.joongang.co.kr/css/comment.min.css?v=202611021330",
+        "file":  "assets/357ab336d32e6dca.css"
+    },
+    {
+        "status":  200,
+        "bytes":  4698,
+        "type":  "Image",
+        "mime":  "image/webp",
+        "url":  "https://images.taboola.com/taboola/image/fetch/f_jpg%2Cq_auto%2Ch_134%2Cw_240%2Cc_fill%2Cg_faces:auto%2Ce_sharpen/https%3A//cdn.taboola.com/libtrc/static/thumbnails/10a40912f8ca8f23e4a8a44fdd3dd691.jpg",
+        "file":  "assets/e2ee749efa48e15c.jpg"
+    },
+    {
+        "status":  200,
+        "bytes":  9444,
+        "type":  "XHR",
+        "mime":  "application/json",
+        "url":  "https://api.joongang.co.kr/moka_api/scb-target",
+        "file":  "assets/3523d3737dff28ad.json"
+    },
+    {
+        "status":  200,
+        "bytes":  3695,
+        "type":  "Image",
+        "mime":  "image/jpeg",
+        "url":  "https://pds.joongang.co.kr/joongangplus/card/202611/d0564707-aa65-4fc6-a560-48e31f6b1f71.jpg/_ir_top_144x144_/t.jpg",
+        "file":  "assets/58b365991dfdf660.jpg"
+    },
+    {
+        "status":  204,
+        "bytes":  0,
+        "type":  "XHR",
+        "mime":  "text/html",
+        "url":  "https://fundingchoicesmessages.google.com/el/AGSKWxXv9J3TMijxjeN9HJrw9JR8kfTCquwSFEpKT2S_eOESjeSzai30WI0m_EUUSbaM3EdSu-_0xaYQuL789LP0Xu_WWRItx5-jZburNkDDE4oqOMy0zo4BT1wU7emTBwK-XPK7xHMpoQ==",
+        "file":  "assets/13681b82f8de4f75.html"
+    },
+    {
+        "status":  200,
+        "bytes":  8188,
+        "type":  "Script",
+        "mime":  "text/javascript",
+        "url":  "https://static.dable.io/dist/plugin.min.js",
+        "file":  "assets/93af9b079f025924.js"
+    },
+    {
+        "status":  200,
+        "bytes":  3044,
+        "type":  "Script",
+        "mime":  "text/javascript",
+        "url":  "https://tpc.googlesyndication.com/pagead/js/r20261030/r20110914/client/window_focus.js",
+        "file":  "assets/cc387a20a5993706.js"
+    },
+    {
+        "status":  204,
+        "bytes":  0,
+        "type":  "XHR",
+        "mime":  "text/html",
+        "url":  "https://fundingchoicesmessages.google.com/el/AGSKWxXv9J3TMijxjeN9HJrw9JR8kfTCquwSFEpKT2S_eOESjeSzai30WI0m_EUUSbaM3EdSu-_0xaYQuL789LP0Xu_WWRItx5-jZburNkDDE4oqOMy0zo4BT1wU7emTBwK-XPK7xHMpoQ==",
+        "file":  "assets/13681b82f8de4f75.html"
+    },
+    {
+        "status":  204,
+        "bytes":  0,
+        "type":  "Ping",
+        "mime":  "text/plain",
+        "url":  "https://ty-trc-events.taboola.com/joongang-desktopnew/log/3/social?lti=default\u0026ri=b6d70908ade906d9cbb0817230294d89\u0026sd=v2_c91bc4789e5543cb670db02ac2067188_c8f85926-3bb2-4e55-8b12-6e368561acef-tuct11e2035a_1793621466_1793621466_CNawjgYQoadhGJG3ruGZNCABKAEwdziKxgtA28cLSLLp1wNQnoMZWABgAGiE1IjLjPSX8v8BcAGAAQCIAQCQAQCYAQA\u0026ui=c8f85926-3bb2-4e55-8b12-6e368561acef-tuct11e2035a\u0026pi=%2Farticle%2F25469354\u0026wi=-4559004085313282950\u0026pt=text\u0026vi=1793621466001\u0026st=social-available\u0026d=%7B%22data%22%3A%5B%7B%22i%22%3A%22ctx%22%2C%22ism%22%3Afalse%2C%22srx%22%3A800%2C%22sry%22%3A600%2C%22pd%22%3Anull%2C%22tpl%22%3A%22%22%2C%22url%22%3A%22https%3A%2F%2Fwww.joongang.co.kr%2Farticle%2F25469354%22%2C%22rref%22%3A%22%22%2C%22sref%22%3A%22%22%2C%22hdl%22%3A%22%EB%8D%95%EC%9C%A0%EC%82%B0%EA%B9%8C%EC%A7%80%20%EB%82%B4%EB%A0%A4%EC%98%A8%20%EB%8B%A8%ED%92%8D%E2%80%A6%EB%B6%81%EC%AA%BD%20%EC%B0%AC%EA%B3%B5%EA%B8%B0%EC%97%90%20%EB%AC%BC%EB%93%9C%EB%8A%94%20%EC%86%8D%EB%8F%84%20%EB%B9%A8%EB%9D%BC%EC%A7%84%EB%8B%A4%20%7C%20%EC%A4%91%EC%95%99%EC%9D%BC%EB%B3%B4%22%2C%22sec%22%3A%22%EC%A4%91%EC%95%99%EC%9D%BC%EB%B3%B4%22%2C%22aut%22%3A%5B%5D%2C%22img%22%3A%22https%3A%2F%2Fpds.joongang.co.kr%2Fnews%2Fcomponent%2Fhtmlphoto_mmdata%2F202610%2F13%2Ff44c4997-f5a1-4822-b356-f40214b5f7e4.jpg%22%2C%22v%22%3A15%2C%22pw%22%3Afalse%7D%5D%7D",
+        "file":  "assets/a6b185df2516098a.bin"
+    },
+    {
+        "status":  200,
+        "bytes":  246218,
+        "type":  "Script",
+        "mime":  "text/javascript",
+        "url":  "https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js",
+        "file":  "assets/9c8d1e67d118d816.js"
+    },
+    {
+        "status":  200,
+        "bytes":  194220,
+        "type":  "Font",
+        "mime":  "font/woff2",
+        "url":  "https://font.joongang.co.kr/v25/NotoSansKR-Regular.woff2",
+        "file":  "assets/4a75a3a7da26a125.woff2"
+    },
+    {
+        "status":  200,
+        "bytes":  42,
+        "type":  "Image",
+        "mime":  "image/gif",
+        "url":  "https://images.dable.io/1x1.gif?google_gid=CAESEG3tbkdqtoq124GSiIBE-Yg\u0026google_cver=1",
+        "file":  "assets/ad007aca708d8149.gif"
+    },
+    {
+        "status":  200,
+        "bytes":  4886,
+        "type":  "Image",
+        "mime":  "image/webp",
+        "url":  "https://images.taboola.com/taboola/image/fetch/f_jpg%2Cq_auto%2Ch_134%2Cw_240%2Cc_fill%2Cg_faces:auto%2Ce_sharpen/https%3A//cdn.taboola.com/libtrc/static/thumbnails/31a3fd98a8c564298f8c7f8bce7eab38.png",
+        "file":  "assets/f3f9e709fb4bf029.png"
+    },
+    {
+        "status":  200,
+        "bytes":  85785,
+        "type":  "Script",
+        "mime":  "application/javascript",
+        "url":  "https://pm-widget.taboola.com/joongang-desktopnew/pmk-20220605.1.js",
+        "file":  "assets/3b7b2e4cea2f3e72.js"
+    },
+    {
+        "status":  200,
+        "bytes":  463,
+        "type":  "Fetch",
+        "mime":  "application/json",
+        "url":  "https://fastlane.rubiconproject.com/a/api/fastlane.json?account_id=23962\u0026site_id=397738\u0026zone_id=3352520\u0026size_id=10\u0026alt_size_ids=221\u0026rp_schain=1.0,1!admaru.com,938264,1,,,\u0026rf=https%3A%2F%2Fwww.joongang.co.kr%2Farticle%2F25469354\u0026tg_i.domain=joongang.co.kr\u0026tg_i.page=https%3A%2F%2Fwww.joongang.co.kr%2Farticle%2F25469354\u0026tg_i.cat=IAB14\u0026tg_i.documentLang=ko\u0026tg_i.pbadslot=%2F30349040%2FJA_PC_article%2FRE%2Fbottom_300x600\u0026tk_flint=pbjs_lite_v9.49.1\u0026l_pb_bid_id=449fed5b728c56\u0026p_screen_res=800x600\u0026rp_secure=1\u0026rp_maxbids=1\u0026p_gpid=%2F30349040%2FJA_PC_article%2FRE%2Fbottom_300x600\u0026m_ch_ua=%22Not%3AA-Brand%22%7Cv%3D%228%22%2C%22Chromium%22%7Cv%3D%22156%22%2C%22Google%20Chrome%22%7Cv%3D%22156%22\u0026m_ch_mobile=%3F0\u0026m_ch_platform=Windows\u0026slots=1\u0026rand=0.5780140275558805",
+        "file":  "assets/2abe89442d2a1a27.json"
+    },
+    {
+        "status":  200,
+        "bytes":  31322,
+        "type":  "Script",
+        "mime":  "text/javascript",
+        "url":  "https://assets.joongang.co.kr/jsn/jaSwiperAutoload.js?v=202611021332",
+        "file":  "assets/3abad175771ef3c1.js"
+    },
+    {
+        "status":  200,
+        "bytes":  103172,
+        "type":  "Script",
+        "mime":  "text/javascript",
+        "url":  "https://assets.joongang.co.kr/js/search.js?v=202611021332",
+        "file":  "assets/49393afc1cbc9639.js"
+    },
+    {
+        "status":  200,
+        "bytes":  246218,
+        "type":  "Script",
+        "mime":  "text/javascript",
+        "url":  "https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js",
+        "file":  "assets/9c8d1e67d118d816.js"
+    },
+    {
+        "status":  200,
+        "bytes":  8352,
+        "type":  "Image",
+        "mime":  "image/jpeg",
+        "url":  "https://assets.joongang.co.kr/images/banner/footer/samsung_logo.jpg",
+        "file":  "assets/9002a7688afca558.jpg"
+    },
+    {
+        "status":  200,
+        "bytes":  10676,
+        "type":  "Script",
+        "mime":  "text/javascript",
+        "url":  "https://assets.joongang.co.kr/js/plugin/clipboard-2.0.8.min.js",
+        "file":  "assets/99c46cc3c6e3037e.js"
+    },
+    {
+        "status":  200,
+        "bytes":  4873,
+        "type":  "Image",
+        "mime":  "image/jpeg",
+        "url":  "https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202611/01/51b3b3b8-21fa-4df1-83d3-b3598ca4d90c.jpg/_ir_400x224_/",
+        "file":  "assets/7ec7ba5ad317e333.jpg"
+    },
+    {
+        "status":  204,
+        "bytes":  0,
+        "type":  "Ping",
+        "mime":  "image/gif",
+        "url":  "https://trc.taboola.com/joongang-desktopnew/log/3/bulk?route=TY%3ATY%3AV\u0026lti=default\u0026tvi48=32979\u0026cv=20261102-8-RELEASE\u0026bulkSize=4",
+        "file":  "assets/a558eb061c30ef10.bin"
+    },
+    {
+        "status":  200,
+        "bytes":  155048,
+        "type":  "Image",
+        "mime":  "image/png",
+        "url":  "https://tpc.googlesyndication.com/simgad/18068277423989919205",
+        "file":  "assets/4c46fdf75e749dc9.png"
+    },
+    {
+        "status":  200,
+        "bytes":  27169,
+        "type":  "Script",
+        "mime":  "application/javascript",
+        "url":  "https://lake.joongang.co.kr/jalake.min.js",
+        "file":  "assets/1c41847500bd787c.js"
+    },
+    {
+        "status":  200,
+        "bytes":  57650,
+        "type":  "Image",
+        "mime":  "image/jpeg",
+        "url":  "https://tpc.googlesyndication.com/simgad/15391327607744599513",
+        "file":  "assets/a3fe0aa8f114b27a.jpg"
+    },
+    {
+        "status":  200,
+        "bytes":  2729,
+        "type":  "Script",
+        "mime":  "text/javascript",
+        "url":  "https://invstatic101.creativecdn.com/encrypted-signals/encrypted-tag-g.js",
+        "file":  "assets/700a577201f6f564.js"
+    },
+    {
+        "status":  200,
+        "bytes":  66,
+        "type":  "XHR",
+        "mime":  "application/json",
+        "url":  "https://api.joongang.co.kr/moka_api/comment.vote.my?cid=25469354\u0026domain=joongang.co.kr\u0026section=article\u0026pcid=17936214631649045001604",
+        "file":  "assets/d3d3f6b33d471173.my"
+    },
+    {
+        "status":  200,
+        "bytes":  1550,
+        "type":  "Image",
+        "mime":  "image/jpeg",
+        "url":  "https://pds.joongang.co.kr/joongangplus/package/2026/106.jpg/_ir_top_144x144_/t.jpg",
+        "file":  "assets/664ac852936c9720.jpg"
+    },
+    {
+        "status":  200,
+        "bytes":  442,
+        "type":  "Fetch",
+        "mime":  "application/json",
+        "url":  "https://api.joongang.co.kr/moka_api/form.edit?chkCompViewYn=Y\u0026id=499",
+        "file":  "assets/844719a1df7b5e2f.edit"
+    },
+    {
+        "status":  200,
+        "bytes":  374980,
+        "type":  "Fetch",
+        "mime":  "text/plain",
+        "url":  "https://securepubads.g.doubleclick.net/gampad/ads?pvsid=8758007639459162\u0026correlator=101280717474460\u0026eid=122881756%2C122881992%2C122881995%2C31084129%2C122881696%2C95404584%2C95401810\u0026output=ldjh\u0026gdfp_req=1\u0026vrg=202610260101\u0026ptt=17\u0026impl=fifs\u0026gdpr=0\u0026iu_parts=30349040%2CJA_PC_article%2CRE%2Cinbanner_336x280(1-2)%2Cbottom_300x600%2Cinbanner_336x280(2)%2Cinbanner_336x280(2-2)%2Coutstream%2Cinbanner_336x280(1)%2Cinbanner_mid\u0026enc_prev_ius=%2F0%2F1%2F2%2F3%2C%2F0%2F1%2F2%2F4%2C%2F0%2F1%2F2%2F5%2C%2F0%2F1%2F2%2F6%2C%2F0%2F1%2F2%2F7%2C%2F0%2F1%2F2%2F8%2C%2F0%2F1%2F2%2F9\u0026prev_iu_szs=336x280%7C1x1%2C300x600%7C1x1%2C336x280%2C336x280%7C1x1%2C580x327%7C336x280%7C1x1%2C336x280%7C1x1%2C640x360\u0026ifi=3\u0026didk=1833115409~3659477098~1842223579~2586505536~2355257320~1131363976~3817954590\u0026dids=div-gpt-ad-1712563391619-0~div-gpt-ad-1712564061266-0~div-gpt-ad-1712563756871-0~div-gpt-ad-1712563859139-0~div-gpt-ad-1753862523673-0~div-gpt-ad-1713138738643-0~div-gpt-ad-1772602155615-0\u0026adfs=3922868741~2717180102~4254316681~2133143655~126441740~2667858338~1541465142\u0026sfv=1-0-45\u0026eri=1\u0026sc=1\u0026cookie_enabled=1\u0026abxe=1\u0026dt=1793621468612\u0026lmt=1793621468\u0026adxs=718%2C1198%2C372%2C718%2C423%2C372%2C393\u0026adys=1303%2C956%2C3718%2C3718%2C5000%2C1303%2C2139\u0026biw=1425\u0026bih=1000\u0026scr_x=0\u0026scr_y=0\u0026btvi=1%7C0%7C2%7C3%7C4%7C5%7C6\u0026ucis=2%7C3%7C4%7C5%7C6%7C7%7C8\u0026oid=2\u0026u_his=2\u0026u_h=600\u0026u_w=800\u0026u_ah=600\u0026u_aw=800\u0026u_cd=24\u0026u_sd=1\u0026u_tz=540\u0026dmc=8\u0026bc=31\u0026nvt=1\u0026uach=WyJXaW5kb3dzIiwiMTAuMC4wIiwieDg2IiwiIiwiMTU2LjAuODA3OC43NCIsbnVsbCwwLG51bGwsIjY0IixbWyJOb3Q6QS1CcmFuZCIsIjguMC4wLjAiXSxbIkNocm9taXVtIiwiMTU2LjAuODA3OC43NCJdLFsiR29vZ2xlIENocm9tZSIsIjE1Ni4wLjgwNzguNzQiXV0sMF0.\u0026url=https%3A%2F%2Fwww.joongang.co.kr%2Farticle%2F25469354\u0026vis=1\u0026psz=720x328%7C300x600%7C720x328%7C720x328%7C580x280%7C720x328%7C720x328\u0026msz=336x280%7C300x600%7C336x280%7C336x280%7C580x280%7C336x280%7C640x280\u0026fws=4%2C4%2C4%2C4%2C4%2C4%2C4\u0026ohw=1425%2C1425%2C1425%2C1425%2C1425%2C1425%2C1425\u0026psts=AOrYGskJXBhd3-WY8SmVROOVXCtYaXnpNdLq3C0yT7yPXt4eKSNaq0WfzpvxX6ld3DzEeRINMgJ4W7mNOJWzFfV-0k4DLHzBNzmTtIfO2L0mMpE8gcE\u0026dlt=1793621462838\u0026idt=3234\u0026cust_params=section%3DSociety\u0026adks=2456341037%2C1931734856%2C2361890826%2C2475821063%2C234055365%2C1279986992%2C2199938372\u0026frm=20\u0026no_cau_info=1\u0026cpu=2\u0026eoidce=1\u0026gblpids=%2F30349040%2FJA_PC_article%2FRE%2Finbanner_336x280(1-2)~%2F30349040%2FJA_PC_article%2FRE%2Fbottom_300x600~%2F30349040%2FJA_PC_article%2FRE%2Finbanner_336x280(2)~%2F30349040%2FJA_PC_article%2FRE%2Finbanner_336x280(2-2)~%2F30349040%2FJA_PC_article%2FRE%2Foutstream~%2F30349040%2FJA_PC_article%2FRE%2Finbanner_336x280(1)~%2F30349040%2FJA_PC_article%2FRE%2Finbanner_mid\u0026pb_szs=336x280%7C300x250%7C250x250%7C1x1~300x600%7C1x1~336x280%7C300x250%7C250x250~336x280%7C300x250%7C250x250~580x327%7C336x280%7C1x1~336x280%7C300x250%7C250x250%7C1x1~336x280",
+        "file":  "assets/2e9a78ab93eac4f0.bin"
+    },
+    {
+        "status":  200,
+        "bytes":  4660,
+        "type":  "XHR",
+        "mime":  "application/json",
+        "url":  "https://wf.taboola.com/VideoBidRequestHandlerServlet?oid=15\u0026width=434\u0026height=244\u0026pubid=169497\u0026tagid=953497\u0026crid=-1\u0026noaop=12\u0026sortOrderType=0\u0026cb=1793621468306\u0026mimes=5,10,11,12\u0026isvideo=0\u0026plmd=2\u0026mindur=1\u0026maxdur=210\u0026minbr=1\u0026maxbr=10000\u0026st=0\u0026seq=1\u0026pv=1821\u0026pt=-1496118225\u0026tz=540\u0026viewable=true\u0026ddast=V9tekCABYDALj2evAIYDhaBAC49nrwCGA4WgUAAAAABgYA4gcAJDXxLIar5cItmLgsa9FmtFtLjIuNW7nwDSe74cZimQ2GAEBSE89iuFou3IKJy7IWbUa7tcS42LiVC99wshtuLJbZYAoAGsIy-30HBeX09JhdBlHR9bbYHU6z56BYA8AKmk6Hz3Wv1_1-d6nfb_c57D67xm_XWv4Ky-npMbv8ktVottysRnMAAAAAAHgA-P___4cAAAAAAIgAAAAAAJAAAAAAAKAACKgA-LcAELgAAAAAAMAA-P___9cAADjeABCIxTgAGtr1tbr8dp9b5Lf7_AEAAAAAAAIAAAAAQAIAkCBBWwIAILNsfALw_________x8DMECfeSMD8P___38DUNADAPDgAwDwIAQAAACwMgQQajv1uM4YrEEEACCg1FYE4AhgEkAnAFQAFlUA_____VYAAFcAAAABoZwrm_ZZALqDEm9hAAAAAAJjAAv0sPj9Zodd43e7DOD_________3wzg_wzgHw1AyKInLg1AyB8AQA3gFxAAYA3gFxAAgA1A3QD-_98ABOAAwg4AAAAA4A7g____Xw8AZJyLice0Gy5XrtVos7HYdoORxTBZeCyD2W4xHG4PgGsagoZTdOmyD0BDWGa_76CgnJ4es8sgKrreFrvDafYcFPMDmLDFaDWZbJbD2XIxGQxHw9FofwADsZoNEGAiBsvlZLKY7Faj1Wgz3I1mgwUCCMRgggAULRpMVqPRZDEZrkaT1Wy52O02CEDRqtVstBkMV7PJbLdbDQfD5WiEABO2GK0mk81yOFsuJoPhaDgaDREgZowz42o5ma01E4tlLVq5VmvhxDFZy1ae2XA1Wyw8Lptb9PqYHouVZbBZLbwIIBhwsxfJ0yKdSGwj32A5GC5MLudgNnJuLBbDcLGbbAaT5WhkXE7EEs3JIp3ILvuOczHxmHbD5cq1Gm02FttuMLIYJguPZTDbLYbDfcc4M66Wk9laM7FY1qKVa7UWThyTtWzlmQ1Xs8XC47K5Ra-P6bFYWQab1cLf2C03s8liNJvtG7vlZjZZjGazfYfO8F19zkbfYTL6qDzO5PWj1jkMCpfB4p2sTy_xZ3pQhhszp0wmPHZ3Rt3vpvYaFJ6Dx3QxllQz1dApFmfHCcfBYzAYHSaD0WE0GB1mg9GgiCWCi3Qi9fvtPofd5xa5PF_T33B3-S5iidJ0kU70Csvp6TG7_JLVaLbcrEYTsURwukgnopfxdFG_EgAAAAAAAAAAwBLAJgAAAAAAJ4BBLUezxWSdAAezmQyXs9lyAQAwpkJ1AX5I3c6s86w8dwGAd1Pgy7C49Y4BJtTvt_scdp9b5PJ8TX_D3eW7MgAARSMAM8BmgM8ABLFWq2UNAAAAIIANAAAAEMANoBuAN4BALDYO8P__708PAAAAIL4PABRlYmZmZmb2DwAgQCHWarW63Vir1QoIMJDdYjhYTiAAwCDIEyFAYNtNCKAQYDBEy9_t8kJAhwBiq8Fa0HtKj4cAAICAUM6VzciJgAIYzSaDUQT8____VwQUJIPCmMwigNhqsLZ0qQz-IgAAICCUc2UTEiPAQRaDuXI0l0wGc8lkOI0AgACOAAJicbr0CAA!\u0026proto=2,3,5,6\u0026encoded=1\u0026pstn=vforce2\u0026callback=\u0026wfv=1\u0026amp=0\u0026qsz=15\u0026ft=0\u0026pb=0\u0026pagg=1\u0026sd=undefined\u0026ctsldr=0\u0026ioovp=true\u0026distance=4393\u0026dtagid=3328966\u0026dpubid=594612\u0026abtst=dfrc_vA!t45!ufm\u0026mPre=0.033\u0026cirf=https%3A%2F%2Fwww.joongang.co.kr\u0026en=1",
+        "file":  "assets/eff1c169f7138045.json"
+    },
+    {
+        "status":  200,
+        "bytes":  495,
+        "type":  "Fetch",
+        "mime":  "application/json",
+        "url":  "https://fastlane.rubiconproject.com/a/api/fastlane.json?account_id=23962\u0026site_id=397738\u0026zone_id=2500786\u0026size_id=15\u0026alt_size_ids=14%2C16%2C221\u0026rp_schain=1.0,1!admaru.com,938264,1,,,\u0026rf=https%3A%2F%2Fwww.joongang.co.kr%2Farticle%2F25469354\u0026tg_i.domain=joongang.co.kr\u0026tg_i.page=https%3A%2F%2Fwww.joongang.co.kr%2Farticle%2F25469354\u0026tg_i.cat=IAB14\u0026tg_i.documentLang=ko\u0026tg_i.pbadslot=%2F30349040%2FJA_PC_article%2FRE%2Finbanner_336x280(1)\u0026tk_flint=pbjs_lite_v9.49.1\u0026l_pb_bid_id=83c5704d3b17958\u0026p_screen_res=800x600\u0026rp_secure=1\u0026rp_maxbids=1\u0026p_gpid=%2F30349040%2FJA_PC_article%2FRE%2Finbanner_336x280(1)\u0026m_ch_ua=%22Not%3AA-Brand%22%7Cv%3D%228%22%2C%22Chromium%22%7Cv%3D%22156%22%2C%22Google%20Chrome%22%7Cv%3D%22156%22\u0026m_ch_mobile=%3F0\u0026m_ch_platform=Windows\u0026slots=1\u0026rand=0.9567738371683866",
+        "file":  "assets/e43aacc3508a5558.json"
+    },
+    {
+        "status":  200,
+        "bytes":  437578,
+        "type":  "Script",
+        "mime":  "application/x-javascript",
+        "url":  "https://connect.facebook.net/en_US/fbevents.js",
+        "file":  "assets/c5acbaebd7a0b381.js"
+    },
+    {
+        "status":  204,
+        "bytes":  0,
+        "type":  "XHR",
+        "mime":  "text/html",
+        "url":  "https://fundingchoicesmessages.google.com/el/AGSKWxWVZYiHcpm_Wa3bsnRscCV0G1GLwiHsyU1L4LDMZri2eF2IoYe6nNQRgNN9v_OgZ9c4FcBBpkpYArphp43D7Wbl5Wz6-Me0Xh-cCc93LIam-Vip6fY93eh73z-8QdzjVo7o9kMUpQ==",
+        "file":  "assets/4e115fe0d7a6f2c8.html"
+    },
+    {
+        "status":  200,
+        "bytes":  5222,
+        "type":  "Stylesheet",
+        "mime":  "text/css",
+        "url":  "https://assets.joongang.co.kr/css/plugin/jswiper.min.css?v=202611021330",
+        "file":  "assets/4a1be4ac707ba6bc.css"
+    },
+    {
+        "status":  204,
+        "bytes":  0,
+        "type":  "XHR",
+        "mime":  "text/html",
+        "url":  "https://fundingchoicesmessages.google.com/el/AGSKWxXv9J3TMijxjeN9HJrw9JR8kfTCquwSFEpKT2S_eOESjeSzai30WI0m_EUUSbaM3EdSu-_0xaYQuL789LP0Xu_WWRItx5-jZburNkDDE4oqOMy0zo4BT1wU7emTBwK-XPK7xHMpoQ==",
+        "file":  "assets/13681b82f8de4f75.html"
+    },
+    {
+        "status":  200,
+        "bytes":  3957,
+        "type":  "Image",
+        "mime":  "image/jpeg",
+        "url":  "https://pds.joongang.co.kr/joongangplus/card/202610/4be62fae-00db-4ff7-852b-e04e8f386d51.jpg/_ir_top_144x144_/t.jpg",
+        "file":  "assets/440bdd702a1e82f0.jpg"
+    },
+    {
+        "status":  200,
+        "bytes":  1515,
+        "type":  "Script",
+        "mime":  "text/javascript",
+        "url":  "https://api.dable.io/plugin/services/joongang.co.kr/prefs2?tcfapiSet=0\u0026gdpr=0\u0026callback=_dbljson1\u0026_=1793621470129",
+        "file":  "assets/038b2adcb29a49ce.js"
+    },
+    {
+        "status":  200,
+        "bytes":  3695,
+        "type":  "Image",
+        "mime":  "image/jpeg",
+        "url":  "https://pds.joongang.co.kr/joongangplus/card/202610/16e70b08-e855-4001-89c1-3a7fdfe4cf8b.jpg/_ir_top_144x144_/t.jpg",
+        "file":  "assets/d55f77f7f7262e19.jpg"
+    },
+    {
+        "status":  200,
+        "bytes":  17561,
+        "type":  "Script",
+        "mime":  "text/javascript",
+        "url":  "https://assets.joongang.co.kr/js/chunks/article/personalRecommend.js?ver=4857faad2bf14fc09b9e",
+        "file":  "assets/4b2570947e254283.js"
+    },
+    {
+        "status":  204,
+        "bytes":  0,
+        "type":  "Ping",
+        "mime":  "text/plain",
+        "url":  "https://wcs.naver.com/b",
+        "file":  "assets/b57aa4423ad829bb.bin"
+    },
+    {
+        "status":  200,
+        "bytes":  42,
+        "type":  "Fetch",
+        "mime":  "image/gif",
+        "url":  "https://pagead2.googlesyndication.com/pcs/activeview?xai=AKAOjsuxe2dwITBHvTcxhQZWeJAb5DpnWXGGMR8ZEBVNHbOE9eUzCTvvggaJi2BAoso01sPEY0eEPWFiCiYhtc3TheKFskvNSKLdhi9Sr9DN8gJzf7ogIc_k8neZpDtn_vK2mTXKz0NQ9gPw-4XmSlG7pltAtKVDYsajUCdicIVsJpvunYhj5M5QASFM1toOkKn8\u0026sig=Cg0ArKJSzO9YCXVlw9kFEAE\u0026id=lidar2\u0026mcvt=1001\u0026p=956,1197,1556,1497\u0026tm=15053\u0026tu=507.3000000002794\u0026mtos=0,935,1001,1001,14546\u0026tos=0,935,66,0,13545\u0026v=20261019\u0026bin=7\u0026avms=nio\u0026bs=1425,1000\u0026mc=0.76\u0026vu=1\u0026app=0\u0026itpl=0\u0026adk=1931734856\u0026rs=4\u0026la=0\u0026cr=0\u0026uach=WyJXaW5kb3dzIiwiMTAuMC4wIiwieDg2IiwiIiwiMTU2LjAuODA3OC43NCIsbnVsbCwwLG51bGwsIjY0IixbWyJOb3Q6QS1CcmFuZCIsIjguMC4wLjAiXSxbIkNocm9taXVtIiwiMTU2LjAuODA3OC43NCJdLFsiR29vZ2xlIENocm9tZSIsIjE1Ni4wLjgwNzguNzQiXV0sMF0%3D\u0026vs=4\u0026r=v\u0026co=8955426900\u0026rst=1793621469277\u0026rpt=568\u0026isd=0\u0026lsd=0\u0026met=mue\u0026wmsd=0\u0026pbe=0\u0026fle=0\u0026vae=0\u0026spb=0\u0026sfl=0\u0026ffslot=0\u0026reach=8\u0026io2=0",
+        "file":  "assets/6262fa6b014f0dc5.bin"
+    },
+    {
+        "status":  200,
+        "bytes":  3044,
+        "type":  "Script",
+        "mime":  "text/javascript",
+        "url":  "https://tpc.googlesyndication.com/pagead/js/r20261030/r20110914/client/window_focus.js",
+        "file":  "assets/cc387a20a5993706.js"
+    },
+    {
+        "status":  200,
+        "bytes":  495,
+        "type":  "Fetch",
+        "mime":  "application/json",
+        "url":  "https://fastlane.rubiconproject.com/a/api/fastlane.json?account_id=23962\u0026site_id=397738\u0026zone_id=2500844\u0026size_id=15\u0026alt_size_ids=14%2C16\u0026rp_schain=1.0,1!admaru.com,938264,1,,,\u0026rf=https%3A%2F%2Fwww.joongang.co.kr%2Farticle%2F25469354\u0026tg_i.domain=joongang.co.kr\u0026tg_i.page=https%3A%2F%2Fwww.joongang.co.kr%2Farticle%2F25469354\u0026tg_i.cat=IAB14\u0026tg_i.documentLang=ko\u0026tg_i.pbadslot=%2F30349040%2FJA_PC_article%2FRE%2Finbanner_336x280(2)\u0026tk_flint=pbjs_lite_v9.49.1\u0026l_pb_bid_id=5e37a1e59ef85d8\u0026p_screen_res=800x600\u0026rp_secure=1\u0026rp_maxbids=1\u0026p_gpid=%2F30349040%2FJA_PC_article%2FRE%2Finbanner_336x280(2)\u0026m_ch_ua=%22Not%3AA-Brand%22%7Cv%3D%228%22%2C%22Chromium%22%7Cv%3D%22156%22%2C%22Google%20Chrome%22%7Cv%3D%22156%22\u0026m_ch_mobile=%3F0\u0026m_ch_platform=Windows\u0026slots=1\u0026rand=0.7069054128533321",
+        "file":  "assets/0dab38fe4aec75b7.json"
+    },
+    {
+        "status":  200,
+        "bytes":  144,
+        "type":  "XHR",
+        "mime":  "application/json",
+        "url":  "https://api.joongang.co.kr/moka_api/like.my.on?pcid=17936214631649045001604\u0026ctype=A\u0026cid=25469354",
+        "file":  "assets/6507c4f6607f4ca5.on"
+    },
+    {
+        "status":  200,
+        "bytes":  16027,
+        "type":  "Script",
+        "mime":  "application/javascript",
+        "url":  "https://dnzedhceh7nim.cloudfront.net/acv/joongang/js/admaru-player-app.js",
+        "file":  "assets/57bc0bfac3e889d9.js"
+    },
+    {
+        "status":  200,
+        "bytes":  17,
+        "type":  "Fetch",
+        "mime":  "application/json",
+        "url":  "https://rtb-engine.admaru.com/publisher/categories",
+        "file":  "assets/be8a2eff674c3b4a.json"
+    },
+    {
+        "status":  200,
+        "bytes":  22352,
+        "type":  "Script",
+        "mime":  "text/javascript",
+        "url":  "https://assets.joongang.co.kr/jsn/polyfill.js",
+        "file":  "assets/a9c56b8b5cbcd793.js"
+    },
+    {
+        "status":  204,
+        "bytes":  0,
+        "type":  "Image",
+        "mime":  "text/plain",
+        "url":  "https://cm.nhnace.com/pixel?cm_pid=1786788580\u0026cm_puid=75990989.1793621470252",
+        "file":  "assets/93c09ede7c7bb698.bin"
+    },
+    {
+        "status":  200,
+        "bytes":  5900,
+        "type":  "Image",
+        "mime":  "image/webp",
+        "url":  "https://images.taboola.com/taboola/image/fetch/f_jpg%2Cq_auto%2Ch_134%2Cw_240%2Cc_fill%2Cg_faces:auto%2Ce_sharpen/https%3A//cdn.taboola.com/libtrc/static/thumbnails/a1c068cb88783d91041794d76ad1a605.jpeg",
+        "file":  "assets/be8e0b34622d071c.jpeg"
+    },
+    {
+        "status":  200,
+        "bytes":  82249,
+        "type":  "Script",
+        "mime":  "text/javascript",
+        "url":  "https://static.dable.io/dist/bundles/plugin-4HX3Z2KF.js",
+        "file":  "assets/707dd0d04ea2990b.js"
+    },
+    {
+        "status":  200,
+        "bytes":  3695,
+        "type":  "Image",
+        "mime":  "image/jpeg",
+        "url":  "https://pds.joongang.co.kr/joongangplus/card/202610/670ac493-f6d9-4c2d-809f-61842e8c4711.jpg/_ir_top_144x144_/t.jpg",
+        "file":  "assets/3cad0b4e2b42573a.jpg"
+    },
+    {
+        "status":  200,
+        "bytes":  445139,
+        "type":  "Script",
+        "mime":  "application/x-javascript",
+        "url":  "https://connect.facebook.net/signals/config/869647367258477?v=2.9.433\u0026r=stable\u0026domain=www.joongang.co.kr\u0026hme=4453c87d489b6902031c012cadd2731893cd69feb64fe8a61b339727247a7703\u0026ex_m=118%2C242%2C171%2C27%2C82%2C83%2C162%2C78%2C77%2C11%2C181%2C102%2C20%2C153%2C141%2C46%2C85%2C90%2C149%2C176%2C183%2C8%2C4%2C5%2C7%2C6%2C3%2C103%2C115%2C32%2C17%2C31%2C18%2C33%2C34%2C35%2C37%2C55%2C163%2C87%2C126%2C22%2C24%2C51%2C47%2C49%2C48%2C95%2C104%2C108%2C124%2C160%2C164%2C53%2C125%2C29%2C26%2C133%2C79%2C43%2C166%2C165%2C167%2C157%2C155%2C30%2C42%2C66%2C123%2C178%2C80%2C21%2C128%2C93%2C76%2C23%2C97%2C98%2C130%2C96%2C151%2C150%2C154%2C109%2C177%2C180%2C41%2C56%2C127%2C54%2C161%2C72%2C185%2C110%2C184%2C211%2C263%2C84%2C283%2C282%2C281%2C14%2C25%2C28%2C40%2C62%2C117%2C68%2C10%2C73%2C111%2C112%2C113%2C119%2C144%2C38%2C36%2C146%2C147%2C148%2C143%2C142%2C172%2C86%2C175%2C173%2C174%2C57%2C69%2C67%2C137%2C19%2C179%2C52%2C333%2C334%2C335%2C332%2C349%2C371%2C256%2C238%2C70%2C239%2C237%2C374%2C365%2C59%2C257%2C121%2C145%2C92%2C135%2C61%2C134%2C140%2C139%2C65%2C74%2C168%2C88%2C89%2C129%2C44%2C39%2C60%2C63%2C114%2C182%2C1%2C138%2C16%2C136%2C12%2C2%2C64%2C105%2C15%2C75%2C71%2C132%2C101%2C100%2C187%2C188%2C106%2C107%2C9%2C116%2C186%2C58%2C158%2C99%2C91%2C81%2C131%2C120%2C169%2C50%2C159%2C0%2C94%2C152%2C156%2C170%2C45%2C122%2C13%2C189",
+        "file":  "assets/cd68f1964c7e7002.js"
+    },
+    {
+        "status":  200,
+        "bytes":  45816,
+        "type":  "Script",
+        "mime":  "application/javascript",
+        "url":  "https://ssl.pstatic.net/melona/libs/gfp-nac-module/synchronizer.js",
+        "file":  "assets/1ad2d18cd9c8dc97.js"
+    },
+    {
+        "status":  200,
+        "bytes":  66,
+        "type":  "XHR",
+        "mime":  "application/json",
+        "url":  "https://api.joongang.co.kr/moka_api/plus.package.ai.summary?totalId=25469354",
+        "file":  "assets/4e6dce9ec2272c6f.summary"
+    },
+    {
+        "status":  200,
+        "bytes":  514,
+        "type":  "Manifest",
+        "mime":  "application/octet-stream",
+        "url":  "https://assets.joongang.co.kr/images/favicon/site.webmanifest",
+        "file":  "assets/85fe80c54790bc5f.bin"
+    },
+    {
+        "status":  204,
+        "bytes":  0,
+        "type":  "XHR",
+        "mime":  "text/html",
+        "url":  "https://fundingchoicesmessages.google.com/el/AGSKWxXv9J3TMijxjeN9HJrw9JR8kfTCquwSFEpKT2S_eOESjeSzai30WI0m_EUUSbaM3EdSu-_0xaYQuL789LP0Xu_WWRItx5-jZburNkDDE4oqOMy0zo4BT1wU7emTBwK-XPK7xHMpoQ==",
+        "file":  "assets/13681b82f8de4f75.html"
+    },
+    {
+        "status":  200,
+        "bytes":  12459,
+        "type":  "Script",
+        "mime":  "application/x-javascript",
+        "url":  "https://connect.facebook.net/ko_KR/sdk.js",
+        "file":  "assets/77e962fa76bee69a.js"
+    },
+    {
+        "status":  200,
+        "bytes":  18212,
+        "type":  "Script",
+        "mime":  "application/javascript",
+        "url":  "https://d1s87id6169zda.cloudfront.net/js/joins_news_admaru.js",
+        "file":  "assets/0ef5db8d75543e40.js"
+    },
+    {
+        "status":  200,
+        "bytes":  3769,
+        "type":  "Image",
+        "mime":  "image/png",
+        "url":  "https://assets.joongang.co.kr/images/logo/logo_thejoongang.png",
+        "file":  "assets/485c5bfbcde7573b.png"
+    },
+    {
+        "status":  200,
+        "bytes":  1960,
+        "type":  "Image",
+        "mime":  "image/jpeg",
+        "url":  "https://pds.joongang.co.kr/joongangplus/package/2026/323.jpg/_ir_top_144x144_/t.jpg",
+        "file":  "assets/714ffd3f93b78059.jpg"
+    },
+    {
+        "status":  200,
+        "bytes":  82249,
+        "type":  "Script",
+        "mime":  "text/javascript",
+        "url":  "https://static.dable.io/dist/bundles/plugin-4HX3Z2KF.js",
+        "file":  "assets/707dd0d04ea2990b.js"
+    },
+    {
+        "status":  200,
+        "bytes":  0,
+        "type":  "Image",
+        "mime":  "text/plain",
+        "url":  "https://analytics.ad.daum.net/match2?DSPR=%7B%22v%22:1,%22dr%22:%7B%22t%22:%2220261102%22,%22u%22:%2275990989.1793621470252%22%7D%7D",
+        "file":  "assets/6d9af9f202581bf8.bin"
+    },
+    {
+        "status":  200,
+        "bytes":  43,
+        "type":  "Image",
+        "mime":  "image/gif",
+        "url":  "https://ib.adnxs.com/setuid?entity=563\u0026code=48779823.1793621470250",
+        "file":  "assets/0cc52f8932e5ed28.bin"
+    },
+    {
+        "status":  200,
+        "bytes":  5541,
+        "type":  "Script",
+        "mime":  "text/javascript",
+        "url":  "https://assets.joongang.co.kr/js/resource.js?v=202611021332",
+        "file":  "assets/177aaa4ab5bfa54d.js"
+    },
+    {
+        "status":  200,
+        "bytes":  42,
+        "type":  "Image",
+        "mime":  "image/gif",
+        "url":  "https://www.google.com/pagead/1p-user-list/318905883/?random=1793621466676\u0026cv=11\u0026fst=1793620800000\u0026bg=ffffff\u0026guid=ON\u0026async=1\u0026gtm=45be6as1v9101366182z8846354240za20gzb846354240zd846354240xeaxf1\u0026gcd=13l3l3l3l1l1\u0026dma=0\u0026tag_exp=115938466~115938468~118897920~118897930~120213116~120385422~120412528~120469145~120469153~121246026~121246034~123620775~123691370~123785232~123814184\u0026u_w=800\u0026u_h=600\u0026url=https%3A%2F%2Fwww.joongang.co.kr%2Farticle%2F25469354\u0026rcb=9\u0026frm=0\u0026tiba=%EB%8D%95%EC%9C%A0%EC%82%B0%EA%B9%8C%EC%A7%80%20%EB%82%B4%EB%A0%A4%EC%98%A8%20%EB%8B%A8%ED%92%8D%E2%80%A6%EB%B6%81%EC%AA%BD%20%EC%B0%AC%EA%B3%B5%EA%B8%B0%EC%97%90%20%EB%AC%BC%EB%93%9C%EB%8A%94%20%EC%86%8D%EB%8F%84%20%EB%B9%A8%EB%9D%BC%EC%A7%84%EB%8B%A4%20\u0026hn=www.googleadservices.com\u0026npa=0\u0026pscdl=noapi\u0026auid=198866810.1793621464\u0026uaa=x86\u0026uab=64\u0026uafvl=Not%253AA-Brand%3B8.0.0.0%7CChromium%3B156.0.8078.74%7CGoogle%2520Chrome%3B156.0.8078.74\u0026uamb=0\u0026uam=\u0026uap=Windows\u0026uapv=10.0.0\u0026uaw=0\u0026_tu=CA\u0026ept=9\u0026rfmt=3\u0026fmt=3\u0026is_vtc=1\u0026cid=CAQS4QEAQM4h3DiOM4fDMWATVrSK3j9oUuw5FEivndv1V8oq7KcjHsRGBZyhC_QB4ck0aKCFO_ifB_ow2tTntu8fakJDzvXri5_3iTtrqFBsF-ZxKgWHjOsc5opNAFD6RezGo40uTWh1OSyQkx-jTkYxzeQ0vLK0-uDGSPdF6LeT0DVgzVq5bmN2VYOKV4EytlY0ZhjTr3ndjdAm9blA8UucgGOuzTmyTLumenv1CFoVx6i33tE0n9i7n3V3vC5HJcGhstQm2e190Gb_n5LIfFnewlhOgTfwIc8qnLxJDMhUNXAjuiE\u0026random=1670638526\u0026rmt_tld=0\u0026ipr=y",
+        "file":  "assets/f92c5c5f68860b6d.bin"
+    },
+    {
+        "status":  200,
+        "bytes":  221,
+        "type":  "XHR",
+        "mime":  "application/json",
+        "url":  "https://api.joongang.co.kr/moka_api/comment?cid=25469354\u0026domain=joongang.co.kr\u0026section=article\u0026count=3\u0026page=1\u0026sort=0",
+        "file":  "assets/3bdd7788a35c5645.json"
+    },
+    {
+        "status":  204,
+        "bytes":  0,
+        "type":  "Fetch",
+        "mime":  "",
+        "url":  "https://beacon.taboola.com/?ab=default\u0026pub=joongang-desktopnew\u0026ui=c8f85926-3bb2-4e55-8b12-6e368561acef-tuct11e2035a\u0026event=fraud-detection\u0026message=title%2Fdescription%20has%20been%20changed\u0026oldValue=%E8%88%87%20%EC%9E%90%EC%B1%85%EA%B3%A8%20%EB%90%9C%20%E2%80%981%EC%96%B5%20%EC%99%80%EC%9D%B8%E2%80%99%E2%80%A6%EC%9D%BC%EB%8B%A8%20%EC%A1%B0%ED%9D%AC%EB%8C%80%20%ED%9D%A0%EC%A7%91%EB%82%B4%EA%B3%A0%20%E2%80%98%ED%83%84%ED%95%B5%20%EB%B9%8C%EB%93%9C%EC%97%85%E2%80%99%20%7C%20%EC%A4%91%EC%95%99%EC%9D%BC%EB%B3%B4\u0026newValue=%E8%88%87%20%EC%9E%90%EC%B1%85%EA%B3%A8%20%EB%90%9C%20%E2%80%981%EC%96%B5%20%EC%99%80%EC%9D%B8%E2%80%99%E2%80%A6%EC%9D%BC%20%EB%8B%A8%20%EC%A1%B0%ED%9D%AC%EB%8C%80%20%ED%9D%A0%EC%A7%91%EB%82%B4%EA%B3%A0%20%E2%80%98%ED%83%84%ED%95%B5...\u0026eventType=text",
+        "file":  "assets/c21d5a348aa8b686.bin"
+    },
+    {
+        "status":  200,
+        "bytes":  8939,
+        "type":  "Image",
+        "mime":  "image/jpeg",
+        "url":  "https://assets.joongang.co.kr/images/banner/footer/korean_logo_v2.jpg",
+        "file":  "assets/5a0c64786e6c78aa.jpg"
+    },
+    {
+        "status":  200,
+        "bytes":  4664,
+        "type":  "XHR",
+        "mime":  "application/json",
+        "url":  "https://ty-wf.taboola.com/VideoBidRequestHandlerServlet?oid=15\u0026width=434\u0026height=244\u0026pubid=169497\u0026tagid=953497\u0026crid=-1\u0026noaop=12\u0026sortOrderType=0\u0026cb=1793621483751\u0026mimes=5,10,11,12\u0026isvideo=0\u0026plmd=2\u0026mindur=1\u0026maxdur=210\u0026minbr=1\u0026maxbr=10000\u0026st=0\u0026seq=5\u0026pv=1821\u0026pt=1617023728\u0026tz=540\u0026viewable=true\u0026ddast=V9tekCABYDALj2evAIYDhaBAC49nrwCGA4WgUAAAAABgYA4gcAJDXxLIar5cItmLgsa9FmtFtLjIuNW7nwDSe74cZimQ2GAEBSE89iuFou3IKJy7IWbUa7tcS42LiVC99wshtuLJbZYAoAGsIy-30HBeX09JhdBlHR9bbYHU6z56BYA8AKmk6Hz3Wv1_1-d6nfb_c57D67xm_XWv4Ky-npMbv8ktVottysRnMAAAAAAHgA-P___4cAAAAAAIgAAAAAAJAAAAAAAKAACKgA-LcAELgAAAAAAMAA-P___9cAADjeABCIxTgAGtr1tbr8dp9b5Lf7_AEAAAAAAAIAAAAAQAIAkCBBWwIAILNsfALw_________x8DMECfeSMD8P___38DUNADAPDgAwDwIAQAAACwMgQQajv1uM4YrEEEACCg1FYE4AhgEkAnAFQAFlUA_____VYAAFcAAAABoZwrm_ZZALqDEm9hAAAAAAJjAAv0sPj9Zodd43e7DOD_________3wzg_wzgHw1AyKInLg1AyB8AQA3gFxAAYA3gFxAAgA1A3QD-_98ABOAAwg4AAAAA4A7g____Xw8AZJyLice0Gy5XrtVos7HYdoORxTBZeCyD2W4xHG4PgGsagoZTdOmyD0BDWGa_76CgnJ4es8sgKrreFrvDafYcFPMDmLDFaDWZbJbD2XIxGQxHw9FofwADsZoNEGAiBsvlZLKY7Faj1Wgz3I1mgwUCCMRgggAULRpMVqPRZDEZrkaT1Wy52O02CEDRqtVstBkMV7PJbLdbDQfD5WiEABO2GK0mk81yOFsuJoPhaDgaDREgZowz42o5ma01E4tlLVq5VmvhxDFZy1ae2XA1Wyw8Lptb9PqYHouVZbBZLbwIIBhwsxfJ0yKdSGwj32A5GC5MLudgNnJuLBbDcLGbbAaT5WhkXE7EEs3JIp3ILvuOczHxmHbD5cq1Gm02FttuMLIYJguPZTDbLYbDfcc4M66Wk9laM7FY1qKVa7UWThyTtWzlmQ1Xs8XC47K5Ra-P6bFYWQab1cLf2C03s8liNJvtG7vlZjZZjGazfYfO8F19zkbfYTL6qDzO5PWj1jkMCpfB4p2sTy_xZ3pQhhszp0wmPHZ3Rt3vpvYaFJ6Dx3QxllQz1dApFmfHCcfBYzAYHSaD0WE0GB1mg9GgiCWCi3Qi9fvtPofd5xa5PF_T33B3-S5iidJ0kU70Csvp6TG7_JLVaLbcrEYTsURwukgnopfxdFG_EgAAAAAAAAAAwBLAJgAAAAAAJ4BBLUezxWSdAAezmQyXs9lyAQAwpkJ1AX5I3c6s86w8dwGAd1Pgy7C49Y4BJtTvt_scdp9b5PJ8TX_D3eW7MgAARSMAM8BmgM8ABLFWq2UNAAAAIIANAAAAEMANoBuAN4BALDYO8P__708PAAAAIL4PABRlYmZmZmb2DwAgQCHWarW63Vir1QoIMJDdYjhYTiAAwCDIEyFAYNtNCKAQYDBEy9_t8kJAhwBiq8Fa0HtKj4cAAICAUM6VzciJgAIYzSaDUQT8____VwQUJIPCmMwigNhqsLZ0qQz-IgAAICCUc2UTEiPAQRaDuXI0l0wGc8lkOI0AgACOAAJicbr0CAA!\u0026proto=2,3,5,6\u0026encoded=1\u0026pstn=vforce2\u0026callback=\u0026wfv=1\u0026amp=0\u0026qsz=15\u0026ft=0\u0026pb=0\u0026pagg=1\u0026sd=undefined\u0026ctsldr=0\u0026ioovp=false\u0026distance=2073\u0026dtagid=3328966\u0026dpubid=594612\u0026abtst=dfrc_vA!t45!ufm_vA\u0026mPre=0.033\u0026cirf=https%3A%2F%2Fwww.joongang.co.kr\u0026en=1",
+        "file":  "assets/275bf05b4e43ae2e.json"
+    },
+    {
+        "status":  200,
+        "bytes":  497,
+        "type":  "Fetch",
+        "mime":  "application/json",
+        "url":  "https://fastlane.rubiconproject.com/a/api/fastlane.json?account_id=23962\u0026site_id=397738\u0026zone_id=2500804\u0026size_id=15\u0026alt_size_ids=14%2C16%2C221\u0026rp_schain=1.0,1!admaru.com,938264,1,,,\u0026rf=https%3A%2F%2Fwww.joongang.co.kr%2Farticle%2F25469354\u0026tg_i.domain=joongang.co.kr\u0026tg_i.page=https%3A%2F%2Fwww.joongang.co.kr%2Farticle%2F25469354\u0026tg_i.cat=IAB14\u0026tg_i.documentLang=ko\u0026tg_i.pbadslot=%2F30349040%2FJA_PC_article%2FRE%2Finbanner_336x280(1-2)\u0026tk_flint=pbjs_lite_v9.49.1\u0026l_pb_bid_id=35dbc9211909ff\u0026p_screen_res=800x600\u0026rp_secure=1\u0026rp_maxbids=1\u0026p_gpid=%2F30349040%2FJA_PC_article%2FRE%2Finbanner_336x280(1-2)\u0026m_ch_ua=%22Not%3AA-Brand%22%7Cv%3D%228%22%2C%22Chromium%22%7Cv%3D%22156%22%2C%22Google%20Chrome%22%7Cv%3D%22156%22\u0026m_ch_mobile=%3F0\u0026m_ch_platform=Windows\u0026slots=1\u0026rand=0.7673337434258941",
+        "file":  "assets/040d2540443fe1c7.json"
+    },
+    {
+        "status":  200,
+        "bytes":  2769,
+        "type":  "Script",
+        "mime":  "application/javascript",
+        "url":  "https://pm-widget.taboola.com/joongang-desktopnew/load.js",
+        "file":  "assets/17473b99497ca912.js"
+    },
+    {
+        "status":  200,
+        "bytes":  5869,
+        "type":  "Script",
+        "mime":  "text/javascript",
+        "url":  "https://www.joongang.co.kr/pwa/swc.js?v=202611021332",
+        "file":  "assets/87e6cc32bcd5747e.js"
+    },
+    {
+        "status":  200,
+        "bytes":  11190,
+        "type":  "Script",
+        "mime":  "text/javascript",
+        "url":  "https://assets.joongang.co.kr/js/plugin/ResizeSensor.js",
+        "file":  "assets/316ded7825174b7b.js"
+    },
+    {
+        "status":  200,
+        "bytes":  12066,
+        "type":  "Script",
+        "mime":  "text/javascript",
+        "url":  "https://www.gstatic.com/firebasejs/7.4.0/firebase-app.js",
+        "file":  "assets/124d193787fe5f3e.js"
+    },
+    {
+        "status":  200,
+        "bytes":  76607,
+        "type":  "Script",
+        "mime":  "text/javascript",
+        "url":  "https://assets.joongang.co.kr/js/lib/bluebird3.3.4.min.js",
+        "file":  "assets/a6e2f508af26f8d7.js"
+    },
+    {
+        "status":  200,
+        "bytes":  8071,
+        "type":  "Image",
+        "mime":  "image/jpeg",
+        "url":  "https://img.joongang.co.kr/svcimg/1000/index/202607/346_20260709151145.jpg/_ir_264x148_/",
+        "file":  "assets/98d5387219517d35.jpg"
+    },
+    {
+        "status":  200,
+        "bytes":  246218,
+        "type":  "Script",
+        "mime":  "text/javascript",
+        "url":  "https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js",
+        "file":  "assets/9c8d1e67d118d816.js"
+    },
+    {
+        "status":  200,
+        "bytes":  43,
+        "type":  "Image",
+        "mime":  "image/gif",
+        "url":  "https://cs.gssprt.jp/yie/ld/cs?dspid=dable\u0026uid=48779823.1793621470250",
+        "file":  "assets/98472342e35f2055.bin"
+    },
+    {
+        "status":  200,
+        "bytes":  25910,
+        "type":  "Script",
+        "mime":  "text/javascript",
+        "url":  "https://assets.joongang.co.kr/jsn/megaMenu.js?v=202611021332",
+        "file":  "assets/b23ae0b431821bdb.js"
+    },
+    {
+        "status":  200,
+        "bytes":  7906,
+        "type":  "Script",
+        "mime":  "application/javascript",
+        "url":  "https://fundingchoicesmessages.google.com/f/AGSKWxVhCGyikCiMRMyoFTPuYv77zWD2-eD_MVJ1M1k4h2Vy6riClAnbBcFPLxufTtWLlA9Iz_Cjgzs9HUR58jbiBJu-8y8NvtrttWdmR8R0egQnRmQONVh5M6bG4nYAR1rf1WMCXAyzIA==?fccs=W251bGwsbnVsbCxudWxsLG51bGwsbnVsbCxudWxsLFsxNzkzNjIxNDY4LDc3MzAwMDAwMF0sbnVsbCxudWxsLG51bGwsW251bGwsWzcsOV0sbnVsbCwyLG51bGwsImVuIl0sImh0dHBzOi8vd3d3Lmpvb25nYW5nLmNvLmtyL2FydGljbGUvMjU0NjkzNTQiLG51bGwsW1s4LCJyQmsxTi1SSUZHTSJdLFs5LCJrbyJdLFsxOCwiW1tbbnVsbCw1MjgxLG51bGwsMV1dXSJdLFszNSwiMTc5MzYyMTQ2OCJdLFsxOSwiMiJdLFsxNywiWzBdIl0sWzI0LCIiXSxbMjksImZhbHNlIl1dXQ",
+        "file":  "assets/cb27288e424085af.js"
+    },
+    {
+        "status":  200,
+        "bytes":  43,
+        "type":  "Image",
+        "mime":  "image/gif",
+        "url":  "https://rtb-csync.smartadserver.com/redir/?partnerid=190\u0026partneruserid=75990989.1793621470252\u0026gdpr=0\u0026gdpr_consent=",
+        "file":  "assets/2ad7851164b70b30.bin"
+    },
+    {
+        "status":  200,
+        "bytes":  2109,
+        "type":  "Script",
+        "mime":  "text/javascript",
+        "url":  "https://assets.joongang.co.kr/js/lib/dayjs-timezone.js",
+        "file":  "assets/3f2802446e1d70d0.js"
+    },
+    {
+        "status":  204,
+        "bytes":  0,
+        "type":  "Image",
+        "mime":  "text/plain",
+        "url":  "https://cm.nhnace.com/pixel?cm_pid=1786788580\u0026cm_puid=48779823.1793621470250",
+        "file":  "assets/6bf1d4a0e9db86ad.bin"
+    },
+    {
+        "status":  200,
+        "bytes":  7140,
+        "type":  "Fetch",
+        "mime":  "application/json",
+        "url":  "https://lima.joongang.co.kr/election/1.0/pub/politicalList?elecSeq=112\u0026v=2026110221",
+        "file":  "assets/bd61ae0bebe53673.json"
+    },
+    {
+        "status":  200,
+        "bytes":  8136,
+        "type":  "Image",
+        "mime":  "image/jpeg",
+        "url":  "https://img.joongang.co.kr/svcimg/1000/index/202603/346_20260326163854.jpg/_ir_264x148_/",
+        "file":  "assets/a62ef0e44781c491.jpg"
+    },
+    {
+        "status":  200,
+        "bytes":  4664,
+        "type":  "XHR",
+        "mime":  "application/json",
+        "url":  "https://ty-wf.taboola.com/VideoBidRequestHandlerServlet?oid=15\u0026width=434\u0026height=244\u0026pubid=169497\u0026tagid=953497\u0026crid=-1\u0026noaop=12\u0026sortOrderType=0\u0026cb=1793621469862\u0026mimes=5,10,11,12\u0026isvideo=0\u0026plmd=2\u0026mindur=1\u0026maxdur=210\u0026minbr=1\u0026maxbr=10000\u0026st=0\u0026seq=2\u0026pv=1821\u0026pt=1617023728\u0026tz=540\u0026viewable=true\u0026ddast=V9tekCABYDALj2evAIYDhaBAC49nrwCGA4WgUAAAAABgYA4gcAJDXxLIar5cItmLgsa9FmtFtLjIuNW7nwDSe74cZimQ2GAEBSE89iuFou3IKJy7IWbUa7tcS42LiVC99wshtuLJbZYAoAGsIy-30HBeX09JhdBlHR9bbYHU6z56BYA8AKmk6Hz3Wv1_1-d6nfb_c57D67xm_XWv4Ky-npMbv8ktVottysRnMAAAAAAHgA-P___4cAAAAAAIgAAAAAAJAAAAAAAKAACKgA-LcAELgAAAAAAMAA-P___9cAADjeABCIxTgAGtr1tbr8dp9b5Lf7_AEAAAAAAAIAAAAAQAIAkCBBWwIAILNsfALw_________x8DMECfeSMD8P___38DUNADAPDgAwDwIAQAAACwMgQQajv1uM4YrEEEACCg1FYE4AhgEkAnAFQAFlUA_____VYAAFcAAAABoZwrm_ZZALqDEm9hAAAAAAJjAAv0sPj9Zodd43e7DOD_________3wzg_wzgHw1AyKInLg1AyB8AQA3gFxAAYA3gFxAAgA1A3QD-_98ABOAAwg4AAAAA4A7g____Xw8AZJyLice0Gy5XrtVos7HYdoORxTBZeCyD2W4xHG4PgGsagoZTdOmyD0BDWGa_76CgnJ4es8sgKrreFrvDafYcFPMDmLDFaDWZbJbD2XIxGQxHw9FofwADsZoNEGAiBsvlZLKY7Faj1Wgz3I1mgwUCCMRgggAULRpMVqPRZDEZrkaT1Wy52O02CEDRqtVstBkMV7PJbLdbDQfD5WiEABO2GK0mk81yOFsuJoPhaDgaDREgZowz42o5ma01E4tlLVq5VmvhxDFZy1ae2XA1Wyw8Lptb9PqYHouVZbBZLbwIIBhwsxfJ0yKdSGwj32A5GC5MLudgNnJuLBbDcLGbbAaT5WhkXE7EEs3JIp3ILvuOczHxmHbD5cq1Gm02FttuMLIYJguPZTDbLYbDfcc4M66Wk9laM7FY1qKVa7UWThyTtWzlmQ1Xs8XC47K5Ra-P6bFYWQab1cLf2C03s8liNJvtG7vlZjZZjGazfYfO8F19zkbfYTL6qDzO5PWj1jkMCpfB4p2sTy_xZ3pQhhszp0wmPHZ3Rt3vpvYaFJ6Dx3QxllQz1dApFmfHCcfBYzAYHSaD0WE0GB1mg9GgiCWCi3Qi9fvtPofd5xa5PF_T33B3-S5iidJ0kU70Csvp6TG7_JLVaLbcrEYTsURwukgnopfxdFG_EgAAAAAAAAAAwBLAJgAAAAAAJ4BBLUezxWSdAAezmQyXs9lyAQAwpkJ1AX5I3c6s86w8dwGAd1Pgy7C49Y4BJtTvt_scdp9b5PJ8TX_D3eW7MgAARSMAM8BmgM8ABLFWq2UNAAAAIIANAAAAEMANoBuAN4BALDYO8P__708PAAAAIL4PABRlYmZmZmb2DwAgQCHWarW63Vir1QoIMJDdYjhYTiAAwCDIEyFAYNtNCKAQYDBEy9_t8kJAhwBiq8Fa0HtKj4cAAICAUM6VzciJgAIYzSaDUQT8____VwQUJIPCmMwigNhqsLZ0qQz-IgAAICCUc2UTEiPAQRaDuXI0l0wGc8lkOI0AgACOAAJicbr0CAA!\u0026proto=2,3,5,6\u0026encoded=1\u0026pstn=vforce2\u0026callback=\u0026wfv=1\u0026amp=0\u0026qsz=15\u0026ft=0\u0026pb=0\u0026pagg=1\u0026sd=undefined\u0026ctsldr=0\u0026ioovp=true\u0026distance=4393\u0026dtagid=3328966\u0026dpubid=594612\u0026abtst=dfrc_vA!t45!ufm_vA\u0026mPre=0.033\u0026cirf=https%3A%2F%2Fwww.joongang.co.kr\u0026en=1",
+        "file":  "assets/6bcbfd16b0389f68.json"
+    },
+    {
+        "status":  200,
+        "bytes":  5357,
+        "type":  "Image",
+        "mime":  "image/jpeg",
+        "url":  "https://pds.joongang.co.kr/joongangplus/card/202611/51fc8cf2-1511-465b-8742-8397bdd3211f.jpg/_ir_top_144x144_/t.jpg",
+        "file":  "assets/4536789a4744b2f1.jpg"
+    },
+    {
+        "status":  204,
+        "bytes":  0,
+        "type":  "XHR",
+        "mime":  "text/html",
+        "url":  "https://fundingchoicesmessages.google.com/el/AGSKWxU-dVwODWgBHAo27fISDJUfzFi3HFsD01QZtjFbMnqOx9DJYF4_KIRJMfbadS84aZ2E2gxEAndzrvEPBaku_L8orJ1vHxlHd8QZxvojIRlIMvoiBF4K9Es7sTyePT2xAKZzZFOX8w==",
+        "file":  "assets/d3c12a552c1db7cb.html"
+    }
+]

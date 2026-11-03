@@ -1,0 +1,45 @@
+@keyframes fade-in-up {
+  0% {
+    opacity: 0;
+ }
+  100% {
+    transform: translateY(0);
+    opacity: 1;
+ }
+}
+
+.admaruPlayerDiv.sticky {
+  position: fixed;
+  bottom: 50px;
+  right: 20px;
+  transform: translateY(100%);
+  animation: fade-in-up 0.75s ease forwards;
+}
+
+.vjs-close-button {
+  position: absolute;
+  width: 15px;
+  height: 15px;
+  background-color: rgba(0, 0, 0, 0.5) !important;
+  border-radius: 10%;
+  text-align: center;
+}
+
+.vjs-close-button.top-left {
+  top: -18px;
+  left: 0px;;
+  background-size: cover;
+  background-image: url("data:image/svg+xml;charset=utf-8,%3Csvg xmlns='http://www.w3.org/2000/svg' width='24' height='24'%3E%3Cg fill='none' fill-rule='evenodd'%3E%3Cpath d='M0 0h24v24H0z'/%3E%3Cpath fill='%23FFF' d='M21.192 2.1l.707.707L12.706 12l9.193 9.193-.707.707-9.193-9.193L2.807 21.9l-.707-.707L11.292 12 2.1 2.807l.707-.707L12 11.292 21.192 2.1z'/%3E%3C/g%3E%3C/svg%3E");
+}
+
+.vjs-close-button.top-right {
+  top: -18px;
+  right: 0px;
+  background-size: cover;
+  background-image: url("data:image/svg+xml;charset=utf-8,%3Csvg xmlns='http://www.w3.org/2000/svg' width='24' height='24'%3E%3Cg fill='none' fill-rule='evenodd'%3E%3Cpath d='M0 0h24v24H0z'/%3E%3Cpath fill='%23FFF' d='M21.192 2.1l.707.707L12.706 12l9.193 9.193-.707.707-9.193-9.193L2.807 21.9l-.707-.707L11.292 12 2.1 2.807l.707-.707L12 11.292 21.192 2.1z'/%3E%3C/g%3E%3C/svg%3E");
+}
+
+.vjs-logo-content img {
+  width: 40px;
+  height: 30px;
+}

@@ -1,0 +1,1 @@
+TRC.getRTUS({"status":"OK","userid":"KDIKDF9ieFJFemt0dzFiODZpaklOUU01cHA3alJCcEs4eUo2aVF5Mjg5UTdudk0yJTJCeSUyRjNDRm1rSFgxNjhIb0YlMkZ6cTNB"});

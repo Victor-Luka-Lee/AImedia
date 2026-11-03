@@ -1,0 +1,77 @@
+{
+    "title":  "덕유산까지 내려온 단풍…북쪽 찬공기에 물드는 속도 빨라진다 | 중앙일보",
+    "url":  "file:///C:/code/AImedia/news/joongang-25469354/index.html",
+    "headline":  {
+                     "x":  422.5,
+                     "y":  136,
+                     "width":  580,
+                     "height":  88,
+                     "top":  136,
+                     "right":  1002.5,
+                     "bottom":  224,
+                     "left":  422.5
+                 },
+    "article":  {
+                    "x":  422.5,
+                    "y":  354,
+                    "width":  580,
+                    "height":  3406.21875,
+                    "top":  354,
+                    "right":  1002.5,
+                    "bottom":  3760.21875,
+                    "left":  422.5
+                },
+    "fonts":  [
+                  {
+                      "family":  "Noto Sans KR",
+                      "weight":  "400",
+                      "status":  "loaded"
+                  },
+                  {
+                      "family":  "Noto Sans KR",
+                      "weight":  "500",
+                      "status":  "loaded"
+                  },
+                  {
+                      "family":  "Noto Sans KR",
+                      "weight":  "700",
+                      "status":  "loaded"
+                  },
+                  {
+                      "family":  "Noto Sans KR",
+                      "weight":  "900",
+                      "status":  "loaded"
+                  }
+              ],
+    "imageCount":  76,
+    "brokenImages":  [
+
+                     ],
+    "remoteRequests":  [
+
+                       ],
+    "fontButtons":  [
+                        {
+                            "html":  "\u003cbutton type=\"button\" class=\"btn_close\" title=\"Close\"\u003e\u003ci class=\"ico_close\"\u003e\u003c/i\u003e\u003cspan class=\"visually_hidden\"\u003eClose\u003c/span\u003e\u003c/button\u003e"
+                        }
+                    ],
+    "horizontalOverflow":  false,
+    "height":  8079,
+    "fontPanelOpens":  true,
+    "fontSelectionWorks":  true,
+    "mobile":  {
+                   "width":  390,
+                   "scrollWidth":  390,
+                   "article":  {
+                                   "x":  20,
+                                   "y":  364,
+                                   "width":  350,
+                                   "height":  3682.28125,
+                                   "top":  364,
+                                   "right":  370,
+                                   "bottom":  4046.28125,
+                                   "left":  20
+                               },
+                   "brokenImages":  0
+               }
+}
